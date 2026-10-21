@@ -102,10 +102,21 @@ const briefForm = $('#brief-form');
 if (briefForm) {
   const output = $('#brief-output');
   const status = $('#brief-status');
+  const angle = $('#brief-angle');
+  const anglePrompts = {
+    observation: 'What ordinary behaviour is odd when we look at it closely?',
+    self: 'Could the teller recognise their own part in the mess? Keep real personal details grounded in what was supplied.',
+    exchange: 'What could the people say or do that lets the scene play out? Where might a pause change it?',
+    status: 'Who seems to know what they are doing, and what might change that impression?',
+    visual: 'Could a prop, expression or delayed reveal carry the joke before the caption explains it?'
+  };
+  angle?.addEventListener('change', () => {
+    $('#brief-angle-hint').textContent = anglePrompts[angle?.value] || 'Leave this open, or try an angle from Loose Goose.';
+  });
   briefForm.addEventListener('submit', event => {
     event.preventDefault();
-    const v = id => $(id).value.trim();
-    output.value = `ROUGH AS GUTS: DRAFT IMAGE BRIEF\n\nUSE\n${v('#brief-audience')}\n\nEDITION / CAST\n${v('#brief-edition')}\n\nSITUATION OR HABIT\n${v('#brief-habit')}\n\nONE USEFUL HINT\n${v('#brief-point') || '[Choose one clear takeaway]'}\n\nVISUAL FORMAT\n${v('#brief-format')}\n\nSCENE\n${v('#brief-scene') || '[Specify the people, action, props, setting and visual joke]'}\n\nEXACT CAPTION\n${v('#brief-caption') || '[Lettering to be decided separately]'}\n\nSHARED VISUAL STYLE\nBold Australian comic illustration, heavy black ink outlines, safety yellow and warm cream, dusty ochre, selective red accents, expressive faces and concrete familiar props. Keep the rough humour and readable composition. Let the situation carry the joke. Leave clear areas for exact lettering.\n\nGENERATION INSTRUCTIONS\nGenerate the illustration with no invented text, logos or procedural numbers. Give each scene one clear action. A standalone page does not require a continuing protagonist. Match the cast and language to the intended edition. Keep young people’s material age appropriate.\n\nFACTS / SITE DETAILS TO CHECK\n${v('#brief-check') || '[Record any safety, health, equipment or site-specific claims before treating this as final copy]'}\n\nREVIEW\nDoes the picture match the intended hint? Are equipment and actions coherent? Does the caption match the image? Is the joke recognisable to the giver and recipient, or the intended work crew?`;
+    const v = id => $(id)?.value.trim() || '';
+    output.value = `ROUGH AS GUTS: DRAFT IMAGE BRIEF\n\nUSE\n${v('#brief-audience')}\n\nEDITION / CAST\n${v('#brief-edition')}\n\nSITUATION OR HABIT\n${v('#brief-habit')}\n\nONE USEFUL HINT\n${v('#brief-point') || '[Choose one clear takeaway]'}\n\nVISUAL FORMAT\n${v('#brief-format')}\n\nSCENE\n${v('#brief-scene') || '[Specify the people, action, props, setting and visual joke]'}\n\nCOMIC ANGLE TO EXPLORE\n${angle?.selectedOptions[0]?.textContent || 'Still exploring'}\n${anglePrompts[angle?.value] || "No angle chosen. Keep the possible approaches open."}\n\nANOTHER VERSION TO TRY\n${v('#brief-alternative') || "No alternative recorded yet."}\n\nEXACT CAPTION\n${v('#brief-caption') || '[Lettering to be decided separately]'}\n\nSHARED VISUAL STYLE\nBold Australian comic illustration, heavy black ink outlines, safety yellow and warm cream, dusty ochre, selective red accents, expressive faces and concrete familiar props. Keep the rough humour and readable composition. Let the situation carry the joke. Leave clear areas for exact lettering.\n\nGENERATION INSTRUCTIONS\nGenerate the illustration with no invented text, logos or procedural numbers. Give each scene one clear action. A standalone page does not require a continuing protagonist. Match the cast and language to the intended edition. Keep young people’s material age appropriate.\n\nREAL STORIES\nWhen using a real story, keep supplied facts and memories separate from guesses and comic exaggeration. Leave unknown motives and personal details open. Keep proposed angles and alternate endings exploratory. For skits or sequences, try the timing and pauses; no audience response is established by this brief.\n\nFACTS / SITE DETAILS TO CHECK\n${v('#brief-check') || '[Record any safety, health, equipment or site-specific claims before treating this as final copy]'}\n\nREVIEW\nDoes the picture match the intended hint? Are equipment and actions coherent? Does the caption match the image? Is the joke recognisable to the giver and recipient, or the intended work crew?`;
     status.textContent = 'Draft brief ready. Read it through before generating artwork.';
   });
   $('#copy-brief').addEventListener('click', async () => {
