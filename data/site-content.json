@@ -1,0 +1,732 @@
+{
+  "home": {
+    "eyebrow": "ROUGH AS GUTS • GUIDES IN DEVELOPMENT",
+    "title": "For someone you love. Who drives you bloody nuts.",
+    "lead": "Funny picture guides for the habits that make families, mates and co-workers say, “How have you survived this long?”",
+    "heroAlt": "A lively Australian comic scene with several adults discovering a Rough as Guts guide among the everyday mess they have created.",
+    "intro": "Buy it for a mate. Give it to your partner. Leave it on the kitchen bench and let nature take its course. Rough as Guts is being developed around a simple idea: a good laugh can get a useful thought through the door.",
+    "sections": [
+      {
+        "heading": "The present with a fairly obvious hint",
+        "body": "Some gifts say, “I was thinking of you.” This one might say, “I was thinking of your wet towel, your seventh abandoned coffee mug and the way you pack for a weekend like you’re fleeing the country.” The affection stays. The habit gets a proper roasting.",
+        "bullets": [
+          "For family members whose contribution to the washing-up is a weather report.",
+          "For mates who treat preparation as a personal insult.",
+          "For co-workers with a PhD in making a five-minute job take all afternoon.",
+          "For yourself, when the picture looks uncomfortably familiar."
+        ]
+      },
+      {
+        "heading": "A whole crew of rough edges",
+        "body": "Men’s and women’s editions are in development, alongside Young Crew material and workplace ideas. Different people, different situations, plenty of room for everyone to recognise themselves. The joke can follow a character, a couple, a household or an entire camp.",
+        "bullets": [
+          "Men: everyday competence, relationships and the spectacular cost of “she’ll be right”.",
+          "Women: the same freedom to be funny, capable, chaotic and ready for a better way.",
+          "Young Crew: practical, school-appropriate material about growing independence.",
+          "Workplace: camp life, posters, briefings and visual support for reviewed site material."
+        ]
+      },
+      {
+        "heading": "Five new directions. All in development.",
+        "body": "The original mine-and-camp material is a starting point. These proposed topics take the same humour into the rest of life.",
+        "bullets": [
+          "Dating and getting along: listening, manners, boundaries and reading the room.",
+          "Exercise: starting sensibly, learning the movement and showing up again.",
+          "Cooking, cleaning and hygiene: feeding yourself and leaving somewhere fit for other humans.",
+          "Parenting: being present, sharing the work and remembering the actual child.",
+          "Travel: packing, planning and behaving like a decent visitor."
+        ]
+      },
+      {
+        "heading": "One good idea can go a long way",
+        "body": "A strong gag could become a book page, poster, small card, short animation or newsletter feature. The useful bit needs to survive each format: a recognisable situation, a clear action and a joke that lands.",
+        "bullets": [
+          "A picture you understand at a glance.",
+          "A caption worth reading aloud.",
+          "A useful point you can remember tomorrow.",
+          "Enough warmth that you might give it to someone you actually like."
+        ]
+      },
+      {
+        "heading": "Have a rummage",
+        "body": "The original 45-slide deck is the source archive. The Systems page shows how an observation can become a clearer, funnier illustrated idea. New editions and formats are in development; this site is a place to explore the work as it takes shape.",
+        "bullets": []
+      }
+    ],
+    "sample_gags": [
+      {
+        "title": "The Museum of Unwashed Mugs",
+        "setup": "Every room has a different exhibit. Several appear to be developing their own ecosystem.",
+        "punchline": "The dishwasher has capacity. Your bedside table has tenure.",
+        "visual": "A mock museum tour through a normal house, with abandoned mugs displayed under tiny spotlights and an unimpressed housemate holding a washing-up brush.",
+        "status": "Concept in development"
+      },
+      {
+        "title": "Weekend Away. Expedition Equipment.",
+        "setup": "Three bags, two backup jackets and no toothbrush.",
+        "punchline": "Excellent. You’re prepared for everything except being there.",
+        "visual": "Two adults beside an overpacked car; camping gear towers above a small, conspicuously empty toiletries bag.",
+        "status": "Concept in development"
+      },
+      {
+        "title": "The Five-Minute Job",
+        "setup": "It began with a loose handle. The whole room is now in pieces.",
+        "punchline": "The first tool you needed was a pause.",
+        "visual": "A DIY enthusiast surveys an absurd spread of dismantled household objects while a mate holds a single replacement screw.",
+        "status": "Concept in development"
+      }
+    ]
+  },
+  "men": {
+    "eyebrow": "MEN’S EDITION • IN DEVELOPMENT",
+    "title": "A few more clues for the bloke who’ll give anything a crack.",
+    "lead": "Dating, dinner, fitness, parenting and travel—plus the fine art of being useful before someone has to ask three times.",
+    "heroAlt": "A comic collection of different men cooking, packing, parenting and navigating everyday mishaps, with warmth and exaggerated expressions.",
+    "intro": "For the mate who can rebuild an engine but cannot find the laundry basket. For the dad who says he’s “babysitting” his own kids. For the bloke who has never met a job he couldn’t begin before reading the instructions. There is plenty to work with.",
+    "sections": [
+      {
+        "heading": "Dating: bring your ears",
+        "body": "A proposed guide to manners, listening, respectful boundaries and enjoying someone’s company without performing a one-man tribute to yourself. The funny bit is the gap between how charming you think you are and what the other person is actually experiencing.",
+        "bullets": [
+          "Ask a question. Let the answer finish.",
+          "Make plans that consider both people.",
+          "Take a clear answer seriously.",
+          "Leave room for kindness, nerves and an ordinary human conversation."
+        ]
+      },
+      {
+        "heading": "Exercise: the sequel matters",
+        "body": "The first workout makes a fine story. A routine you can return to is more useful. These concepts explore overdoing the grand entrance, skipping the basics and buying enough equipment to open a very small gym.",
+        "bullets": [
+          "Learn what the movement is supposed to look like.",
+          "Choose an effort you can build on.",
+          "Make room for recovery and a realistic schedule.",
+          "Let progress be a reason to keep going."
+        ]
+      },
+      {
+        "heading": "Cooking, cleaning and hygiene: participate in the civilisation",
+        "body": "Feed yourself. Clean up what you use. Notice the jobs that appear to do themselves because somebody else keeps doing them. The proposed pages turn ordinary domestic friction into jokes people can recognise without needing a family argument first.",
+        "bullets": [
+          "A meal includes what happens to the kitchen afterwards.",
+          "The washing basket is a location, not a theory.",
+          "Replace the thing you finished.",
+          "Personal hygiene travels with you to work, dates and shared rooms."
+        ]
+      },
+      {
+        "heading": "Parenting: you’re on the team",
+        "body": "The proposed parenting material finds humour in lost hats, missing forms, bedtime negotiations and adults who pack for themselves before checking the child’s bag. Useful habits start with paying attention and sharing responsibility.",
+        "bullets": [
+          "Know the plan and the important details.",
+          "Take ownership of a whole task.",
+          "Give a child your attention without a running commentary from your phone.",
+          "Make room for another parent’s approach and the child’s actual needs."
+        ]
+      },
+      {
+        "heading": "Travel: being ready is surprisingly relaxing",
+        "body": "From a weekend on the island to a longer trip, the gag is usually hiding in a missing booking, an impossible suitcase or someone who thinks local rules are suggestions addressed to other people.",
+        "bullets": [
+          "Check the destination, timing and essentials.",
+          "Pack for the trip you are taking.",
+          "Share the planning and the carrying.",
+          "Treat hosts, staff and fellow travellers like people."
+        ]
+      },
+      {
+        "heading": "The gift angle",
+        "body": "Give it to your brother, partner, dad or mate with affection and a fairly straight face. Leave room for him to point at a page and say, “That’s you.” The best version of this book can survive being passed around the table.",
+        "bullets": [
+          "Every topic on this page is in development.",
+          "Sample gags show the intended tone and are not finished products."
+        ]
+      }
+    ],
+    "sample_gags": [
+      {
+        "title": "The Date Commentary Channel",
+        "setup": "He has explained his job, his old car, his new car and the correct way to reverse a trailer.",
+        "punchline": "Strong opening. Now find out her name.",
+        "visual": "Two adults on a casual date; one man’s speech bubble has become an enormous map of unrelated stories while his date patiently holds a small question mark.",
+        "status": "Concept in development"
+      },
+      {
+        "title": "Dad Packed the Bag",
+        "setup": "Drinks, snacks, wipes, hat. He proudly announces everything is ready.",
+        "punchline": "Good start. Where’s the child?",
+        "visual": "An elaborately prepared parent stands beside a packed day bag while the child waits calmly in the doorway holding the missing shoes.",
+        "status": "Concept in development"
+      },
+      {
+        "title": "The Gym Opening Ceremony",
+        "setup": "New shoes. New watch. New bottle. An inspirational announcement.",
+        "punchline": "Tomorrow’s workout still needs you to turn up.",
+        "visual": "A man cuts a ceremonial ribbon in front of a single exercise mat while a calendar quietly displays the following day.",
+        "status": "Concept in development"
+      }
+    ]
+  },
+  "women": {
+    "eyebrow": "WOMEN’S EDITION • IN DEVELOPMENT",
+    "title": "For the woman who has plenty going on. Including that pile.",
+    "lead": "Everyday chaos deserves a good joke and a useful way through it. Dating, exercise, home life, parenting and travel are all on the drawing board.",
+    "heroAlt": "A lively comic montage of different women handling travel bags, an ambitious workout, a cooking mishap and everyday family life.",
+    "intro": "Women can be organised, impulsive, practical, messy, confident and completely over it—sometimes before breakfast. This proposed edition has room for that range, with humour drawn from recognisable behaviour and the gap between the plan and what actually happened.",
+    "sections": [
+      {
+        "heading": "Dating: excellent company starts with two people",
+        "body": "The proposed dating pages cover clear communication, mutual effort, boundaries and the temptation to turn a person you have just met into a project. There is comedy in the group-chat analysis; there is value in a straightforward conversation.",
+        "bullets": [
+          "Say what you want with room for an honest answer.",
+          "Notice how someone behaves over time.",
+          "Keep your own interests and friendships.",
+          "Let kindness and mutual respect do some of the heavy lifting."
+        ]
+      },
+      {
+        "heading": "Exercise: the outfit has done its shift",
+        "body": "The clothes are ready. The saved workouts are numerous. These concepts find the joke in preparation that becomes a hobby of its own, then bring attention back to a manageable start and a routine that fits your life.",
+        "bullets": [
+          "Choose something you can begin and return to.",
+          "Learn the basics before adding complexity.",
+          "Give recovery a place in the plan.",
+          "Let your own progress be useful information."
+        ]
+      },
+      {
+        "heading": "Cooking, cleaning and hygiene: shared space, shared effort",
+        "body": "A good home-life gag can belong to anyone. The dinner experiment, the chair covered in clothes and the bathroom cupboard with six almost-empty bottles all provide material. So does the assumption that the person most bothered by a mess must manage everybody’s response to it.",
+        "bullets": [
+          "Make everyday jobs visible and share ownership.",
+          "Finish the task, including putting things away.",
+          "Keep food and shared spaces fit for the people using them.",
+          "Build habits that help when time and patience are running low."
+        ]
+      },
+      {
+        "heading": "Parenting: capable adults can still forget the hat",
+        "body": "The proposed parenting material makes room for affection, exhaustion and the sheer logistics of getting people out of a house. The useful point is often a small shared habit: checking the bag, knowing the plan or giving a child a calm moment of attention.",
+        "bullets": [
+          "Share the planning as well as the errands.",
+          "Know which details matter today.",
+          "Give children room to learn ordinary skills.",
+          "Let a small mistake become a useful adjustment."
+        ]
+      },
+      {
+        "heading": "Travel: one actual trip at a time",
+        "body": "Packing for every possible version of yourself can leave very little room for the person taking the trip. These pages explore luggage optimism, booking confusion, group decisions and the pleasure of checking an essential detail before departure.",
+        "bullets": [
+          "Read what the booking includes.",
+          "Agree on timing, budget and expectations.",
+          "Pack useful essentials where you can find them.",
+          "Leave some patience for delays and other people."
+        ]
+      },
+      {
+        "heading": "A gift with a grin",
+        "body": "For a friend, sister, partner, mum or co-worker who will recognise a page and immediately name someone else. An edition like this should be funny enough to share and useful enough to keep within reach.",
+        "bullets": [
+          "Every topic on this page is in development.",
+          "These concepts are examples of tone, with no finished edition currently offered here."
+        ]
+      }
+    ],
+    "sample_gags": [
+      {
+        "title": "The Chair Has Joined the Wardrobe",
+        "setup": "Clean clothes. Worn-once clothes. Clothes awaiting a decision.",
+        "punchline": "At this point, the chair needs its own postcode.",
+        "visual": "A woman attempts to sit while a towering clothes pile on an ordinary chair has acquired a tiny mailbox and street number.",
+        "status": "Concept in development"
+      },
+      {
+        "title": "Packing for All Possible Selves",
+        "setup": "Beach self. Hiking self. Fancy-dinner self. Emergency cold-weather self.",
+        "punchline": "Current self cannot lift the suitcase.",
+        "visual": "A traveller stands beside an enormous suitcase; small comic versions of her imagined holiday plans compete to add one more item.",
+        "status": "Concept in development"
+      },
+      {
+        "title": "The Workout Collection",
+        "setup": "She has saved enough exercise videos to keep a sports institute busy.",
+        "punchline": "Pick one. The bookmark button has had a decent workout.",
+        "visual": "A woman in exercise gear faces a comically long ribbon of saved videos while a single mat and simple timer wait nearby.",
+        "status": "Concept in development"
+      }
+    ]
+  },
+  "youth": {
+    "eyebrow": "YOUNG CREW • IN DEVELOPMENT",
+    "title": "A few useful clues for doing more of life yourself.",
+    "lead": "Funny, practical picture guides for the everyday things nobody is born knowing.",
+    "heroAlt": "A friendly comic group of teenagers helping one another with school bags, a shared kitchen, phones and everyday tasks.",
+    "intro": "School, friends, home, messages, work experience and getting yourself somewhere on time can pile up quickly. Young Crew is a proposed, school-appropriate part of Rough as Guts, built around situations young people recognise and skills they can actually use.",
+    "sections": [
+      {
+        "heading": "You can learn this stuff",
+        "body": "Being unsure is a normal place to begin. A picture can make an awkward moment easier to talk about: an overdue message, a forgotten item, a room that got away from you or a job you have never tried before.",
+        "bullets": [
+          "Show the situation clearly.",
+          "Offer a manageable next action.",
+          "Leave room to try again.",
+          "Keep the person’s dignity intact."
+        ]
+      },
+      {
+        "heading": "Everyday independence",
+        "body": "The proposed guides focus on small skills that make a day easier: getting ready, looking after your things, preparing simple food, cleaning up and treating shared spaces with care.",
+        "bullets": [
+          "Check the bag before leaving.",
+          "Put an essential item somewhere you can find it.",
+          "Learn a simple meal and clean up afterwards.",
+          "Keep clothes, sports gear and personal hygiene on the radar.",
+          "Ask for help with something unfamiliar."
+        ]
+      },
+      {
+        "heading": "Friends, messages and finding your words",
+        "body": "A useful joke can open a conversation about listening, handling disagreement, respecting boundaries or pausing before sending a message. Young Crew material should sound like it understands the situation, with language a young person can use.",
+        "bullets": [
+          "Give people a chance to finish speaking.",
+          "Check what someone means before building a whole story around it.",
+          "Pause when a reply is coming from anger.",
+          "Find a trusted adult when a problem feels too big to carry alone."
+        ]
+      },
+      {
+        "heading": "Moving, travelling and trying new things",
+        "body": "Exercise, everyday journeys and work experience offer plenty of visual humour. The proposed pages explore preparation, realistic expectations and how to ask a good question when everyone else seems to know what is happening.",
+        "bullets": [
+          "Know where you are going and how you are getting home.",
+          "Bring the essentials for the activity.",
+          "Learn a new task from someone who can show you.",
+          "Choose an achievable start and build confidence through practice."
+        ]
+      },
+      {
+        "heading": "Made to read together",
+        "body": "A parent, teacher, youth worker, coach or young person could use a single page to start an ordinary conversation. The humour needs to work for the reader, with characters who have strengths, make mistakes and get another go.",
+        "bullets": [
+          "School-appropriate language and situations.",
+          "Different kinds of young people with a fair share of the good ideas.",
+          "Clear pictures with one useful point.",
+          "Young Crew concepts are in development and need feedback from young readers and the adults supporting them."
+        ]
+      }
+    ],
+    "sample_gags": [
+      {
+        "title": "The Bag That Was Ready Yesterday",
+        "setup": "The bag is zipped. The shoes are on. The bus is coming.",
+        "punchline": "Your lunch has chosen to stay on the bench.",
+        "visual": "A teenager at the front door points proudly to a packed bag while a lunchbox on the kitchen bench holds a tiny sign saying WAIT.",
+        "status": "Concept in development"
+      },
+      {
+        "title": "The Sports Bag Wildlife Reserve",
+        "setup": "Something in the bag has been there since last week.",
+        "punchline": "Air the gear before it starts charging rent.",
+        "visual": "Two teenagers open a sports bag; cartoon smell lines form a tiny imaginary creature while one holds a laundry basket.",
+        "status": "Concept in development"
+      },
+      {
+        "title": "The Reply You Wrote While Furious",
+        "setup": "A very long message. Several capital letters. A dramatic ending.",
+        "punchline": "Save the draft. Take a breath. Read it again.",
+        "visual": "A teenager’s phone displays a comically oversized message bubble while a friend offers a pause button on a small card.",
+        "status": "Concept in development"
+      }
+    ]
+  },
+  "workplace": {
+    "eyebrow": "WORKPLACE & CAMP LIFE • IN DEVELOPMENT",
+    "title": "Give them something they’ll actually stop to read.",
+    "lead": "Workshop posters, mine camps, shared facilities and the familiar moment when enthusiasm gets ahead of thought.",
+    "heroAlt": "An Australian mine-camp noticeboard with bold humorous posters, a crib-room scene and a crew stopping to read together.",
+    "intro": "Rough as Guts began with illustrated mine-and-camp ideas. That setting has plenty of material: crib rooms, shared walls, fatigue, traffic, gear, cleaning up and people convinced they can save thirty seconds. The opportunity is to make a useful point memorable and get the details right.",
+    "sections": [
+      {
+        "heading": "Start with a real situation",
+        "body": "A good workplace gag needs the grain of something a crew recognises. What keeps happening? What gets misunderstood? What small action would make the job or shared space work better? The source story gives the picture somewhere solid to stand.",
+        "bullets": [
+          "A familiar place and a specific moment.",
+          "A behaviour the reader can recognise.",
+          "A consequence that makes visual sense.",
+          "A better action the reader can identify."
+        ]
+      },
+      {
+        "heading": "Camp life counts",
+        "body": "The way people live together matters after the shift finishes too. Noise, bathrooms, laundry, meals, shared screens and cleaning are rich territory for humour with an immediately useful point.",
+        "bullets": [
+          "Quiet around people who are sleeping.",
+          "Leaving shared facilities ready for the next person.",
+          "Owning the mess you make.",
+          "Handling small annoyances before they become camp-wide entertainment."
+        ]
+      },
+      {
+        "heading": "Choose the format for the job",
+        "body": "A workshop poster needs to work from a few metres away. Big text, a clear picture and strong contrast help the point land quickly. A pocket card needs a quick point of reference. A booklet has room for examples. A short animation can show timing and consequences that one still picture struggles to explain.",
+        "bullets": [
+          "Posters: one message, a readable picture and a short caption.",
+          "Toolbox-talk and newsletter material: one familiar scenario to discuss.",
+          "Cards and booklets: concise reminders with room for necessary context.",
+          "Manual illustrations: clear scenes tied to reviewed text.",
+          "Short animations: a visible action and consequence."
+        ]
+      },
+      {
+        "heading": "A little humour in the SWMS",
+        "body": "A Safe Work Method Statement (SWMS) sets out a particular job and its controls. Proposed illustrated SWMS support would use the actual task, conditions, hazards, controls and approved wording for that work. A general workshop poster has a broader communication role. Both can use humour, with the useful message clear and the job-specific details kept accurate.",
+        "bullets": [
+          "Identify the procedure, task and intended readers.",
+          "Get the operational details from the people responsible for the work.",
+          "Check the illustration against the reviewed wording.",
+          "Keep the current approved source identifiable.",
+          "Review changes in the situation before reusing material."
+        ]
+      },
+      {
+        "heading": "Make the picture earn its place",
+        "body": "A joke about a bad habit can become confusing when the picture makes that habit look like the recommended method. Direction of travel, hand position, equipment, distances, labels and who is doing what all affect the meaning.",
+        "bullets": [
+          "Distinguish the bad example and the intended behaviour clearly.",
+          "Show recognisable equipment and plausible physical actions.",
+          "Check captions against what the picture actually depicts.",
+          "Use reviewers who understand the task and setting."
+        ]
+      },
+      {
+        "heading": "Where the work stands",
+        "body": "The library contains the original source deck, including unverified safety and medical claims, garbled lettering and some picture-and-caption mismatches. It is an archive of the starting material. Workplace products, reviewed adaptations and site-specific versions are in development.",
+        "bullets": [
+          "No source slide is presented here as approved training or an approved SWMS.",
+          "Proposed formats show the direction of the project.",
+          "A finished workplace item needs its own factual, visual and site review."
+        ]
+      }
+    ]
+  },
+  "library": {
+    "eyebrow": "SOURCE LIBRARY • ORIGINAL DECK",
+    "title": "Forty-five slides. Plenty to work with.",
+    "lead": "The starting material: big headlines, Australian comic humour, mine life, camp life and everyday rough edges.",
+    "heroAlt": "A visual archive of original Rough as Guts illustrated pages arranged as a browsable collection, with varied subjects and layouts.",
+    "intro": "This library preserves the original 45-slide PowerPoint and its contents as a source archive. It helps us see what is already there, spot patterns, compare ideas and build future briefs from the actual material.",
+    "sections": [
+      {
+        "heading": "Browse the idea, the words and the picture",
+        "body": "Each source item can be understood in layers: its subject, the exact visible copy, the panel order and what the illustration actually shows. Keeping those layers visible helps a new version stay faithful to the good idea while making deliberate changes.",
+        "bullets": [
+          "Original slide order and titles.",
+          "Readable headings, captions, speech and checklist copy.",
+          "Observed characters, actions, props and settings.",
+          "Notes on unclear lettering and incomplete wording.",
+          "Visible differences between the copy and the picture."
+        ]
+      },
+      {
+        "heading": "A source archive with all its rough edges",
+        "body": "Some originals contain skipped step numbers, inherited headings, garbled lettering or scenes that do not quite match their captions. Those details are useful evidence of what needs attention. A faithful catalogue records them so a later revision can be a conscious choice.",
+        "bullets": [
+          "Original wording stays identifiable.",
+          "Unclear fragments stay marked as unclear.",
+          "New wording and proposed changes belong to a separate revision.",
+          "The original deck remains the point of comparison."
+        ]
+      },
+      {
+        "heading": "Topics you’ll find here",
+        "body": "The deck ranges across mine and camp situations, daily habits and distinctly Australian comic scenarios. Some pages use numbered steps and a checklist; others work as four-panel guides or illustrated notices.",
+        "bullets": [
+          "Workplace hazards, equipment and site movement.",
+          "Camp etiquette, shared spaces and fatigue themes.",
+          "Hygiene, everyday competence and getting along.",
+          "Australian wildlife and backyard barbecue satire.",
+          "Different layouts worth testing for future guides."
+        ]
+      },
+      {
+        "heading": "Read the status with the content",
+        "body": "The originals include satire and unverified safety, medical and behavioural claims. Their presence in the archive records the source material; it does not establish that the advice is correct or suitable for training. Any proposed educational use needs review for that subject and setting.",
+        "bullets": [
+          "Original archive: the supplied material.",
+          "Catalogue: a structured description of the supplied material.",
+          "In development: a proposed new topic, adaptation or format.",
+          "Reviewed material: a status a particular future item would need to earn through its own checks."
+        ]
+      },
+      {
+        "heading": "Use the archive to make a better brief",
+        "body": "Choose a source idea, say what makes it funny and identify the point worth keeping. Then describe the specific changes needed: clearer wording, a different audience, a more accurate scene or a new format. The Systems page provides a practical way to do that.",
+        "bullets": []
+      }
+    ]
+  },
+  "systems": {
+    "eyebrow": "HOW THE IDEAS GET BETTER",
+    "title": "Keep the good gag. Give it a proper brief.",
+    "lead": "A practical way to collect observations, blend ideas, check the useful point and turn them into pictures that say what we mean.",
+    "heroAlt": "An illustrated workbench with an everyday observation, alternate gag sketches, a clear image brief and a finished comic panel.",
+    "intro": "AI can produce another picture quickly. Getting the right picture takes a clear idea, useful source material and a few deliberate choices. This workflow gives the people making Rough as Guts a shared way to talk about the work.",
+    "sections": [
+      {
+        "heading": "Catch the moment",
+        "body": "Start with something someone saw, did or had to clean up after. Write the observation in ordinary language. Capture where it happened, who was involved, what made it funny and what you wished had happened instead.",
+        "bullets": [
+          "Keep the original observation.",
+          "Separate what happened from what you are assuming.",
+          "Name the habit or decision at the centre of the joke.",
+          "Choose the audience who will recognise it."
+        ]
+      },
+      {
+        "heading": "Find the useful point",
+        "body": "Say what the reader should understand or do after seeing the page. Keep it small enough to picture. Where the subject involves health, safety or a formal procedure, identify the relevant source and a person able to review it.",
+        "bullets": [
+          "One main point per image or clearly separated panel.",
+          "A visible action the reader can recognise.",
+          "A factual source when the subject needs one.",
+          "An unresolved question recorded as a question."
+        ]
+      },
+      {
+        "heading": "Try a few jokes, then blend with purpose",
+        "body": "Explore different ways to make the same point: a literal exaggeration, an unexpected comparison, a familiar excuse, a before-and-after scene or a short exchange. Take the strongest parts from different versions when they work together.",
+        "bullets": [
+          "Compare several captions against the same useful point.",
+          "Choose the joke that works for the intended reader.",
+          "Keep the clearest scene and the best line together.",
+          "Drop extra ideas when they muddy the picture."
+        ]
+      },
+      {
+        "heading": "Write the image before generating it",
+        "body": "Describe the picture in concrete terms: who is present, what each person is doing, where the action happens and which props matter. State the reading order for panels and make the important action easy to see.",
+        "bullets": [
+          "Specify character variety without requiring one lead character across every edition.",
+          "Describe body position, gaze, hands and object placement where they affect meaning.",
+          "Give each panel its own scene and purpose.",
+          "Set aside clear space for captions and labels.",
+          "List visual mistakes that would change the meaning."
+        ]
+      },
+      {
+        "heading": "Review the result against the brief",
+        "body": "Look at the image before letting the joke carry you away. Check the action, equipment, expressions, panel sequence and relationship between words and picture. A funny illustration can still communicate the wrong thing.",
+        "bullets": [
+          "Can a reader tell what is happening without an explanation?",
+          "Does the picture show the intended action and consequence?",
+          "Are important objects, hands and directions plausible?",
+          "Does every caption match its panel?",
+          "Has any invented lettering or detail changed the point?",
+          "Does it suit the audience and setting?"
+        ]
+      },
+      {
+        "heading": "Keep the version worth reusing",
+        "body": "Save the observation, chosen copy, image brief, references, review notes and finished asset together. When adapting it for a poster, book page or animation, check that the central point still survives. A smaller format may need a simpler idea.",
+        "bullets": [
+          "Record the source and the changes made.",
+          "Give each version a clear status.",
+          "Keep unresolved review points visible.",
+          "Recheck the adapted format before calling it finished."
+        ]
+      },
+      {
+        "heading": "More clue. Better results.",
+        "body": "The underlying aim is greater competence: noticing more, understanding the situation and choosing an action that works. A laugh can make that conversation easier. The useful habit is what people take away.",
+        "bullets": []
+      }
+    ],
+    "brief_fields": [
+      {
+        "label": "Audience",
+        "hint": "Who should recognise themselves in this?",
+        "example": "Adults sharing a mine-camp kitchen."
+      },
+      {
+        "label": "Situation",
+        "hint": "Where are we, and what has just happened?",
+        "example": "Someone has cooked dinner and left every pan beside the sink."
+      },
+      {
+        "label": "Useful point",
+        "hint": "What is the one thing the reader should take away?",
+        "example": "Cleaning up is part of finishing the meal."
+      },
+      {
+        "label": "Gag",
+        "hint": "What makes the situation funny?",
+        "example": "The cook declares the job complete while the kitchen looks like a disaster exhibit."
+      },
+      {
+        "label": "Visible action",
+        "hint": "Describe what each person is doing.",
+        "example": "The cook presents one plate proudly; a housemate surveys the pile of used pans."
+      },
+      {
+        "label": "Characters and setting",
+        "hint": "Include only details that help the story.",
+        "example": "Two adults, ordinary shared kitchen, evening, everyday clothes."
+      },
+      {
+        "label": "Format",
+        "hint": "Choose a single picture, ordered panels or a short sequence.",
+        "example": "One wide comic panel with clear space below for a caption."
+      },
+      {
+        "label": "Exact words",
+        "hint": "Separate the title, caption and any speech.",
+        "example": "Caption: Dinner is ready. The kitchen has requested backup."
+      },
+      {
+        "label": "Must show / avoid",
+        "hint": "Name the details that would change the meaning.",
+        "example": "Show used cookware clearly; avoid making the housemate responsible for cleaning it all."
+      },
+      {
+        "label": "Source and review",
+        "hint": "What supports the useful point, and what still needs checking?",
+        "example": "Everyday etiquette concept; review tone with intended readers."
+      }
+    ]
+  },
+  "provenance": {
+    "eyebrow": "ABOUT & PROVENANCE",
+    "title": "Every good guide starts somewhere a bit rough.",
+    "lead": "Rough as Guts is a developing collection of funny illustrated ideas about habits, practical skills and getting along.",
+    "heroAlt": "A well-used original comic page beside annotated sketches and a clearer new concept, showing the evolution of an idea.",
+    "intro": "The starting material is a 45-slide deck covering mine work, camp life, shared spaces and broader Australian humour. The project is exploring how that voice could grow into useful, memorable material for different readers.",
+    "sections": [
+      {
+        "heading": "What the name is doing",
+        "body": "Rough as Guts gives the humour a familiar Australian starting point: a bit blunt, a bit grubby and quite capable of making a job harder than it needs to be. The pages work best when someone recognises a habit and laughs before considering a better way.",
+        "bullets": [
+          "Affectionate observation.",
+          "Recognisable situations.",
+          "A useful point.",
+          "Room for the reader to laugh at the author too."
+        ]
+      },
+      {
+        "heading": "Different readers, different editions",
+        "body": "Men’s, women’s and Young Crew concepts are in development alongside workplace formats. Each audience needs its own language, situations and review. There is room for different characters and points of view throughout the collection.",
+        "bullets": [
+          "Adult life, relationships and everyday competence.",
+          "Young people learning practical independence.",
+          "Crews sharing work and camp facilities.",
+          "Family, friends and co-workers choosing a gift with a hint."
+        ]
+      },
+      {
+        "heading": "How to read the material here",
+        "body": "The source archive preserves what was supplied. The catalogue describes its visible content. New gags, editions and formats are proposals marked in development. The original deck includes unverified safety and medical statements and is not presented as endorsed training.",
+        "bullets": [
+          "Source wording and source imagery remain identifiable.",
+          "Unclear text and visible inconsistencies are recorded.",
+          "Proposed revisions can change the joke, wording or scene deliberately.",
+          "Any future claim of review belongs to the particular item reviewed."
+        ]
+      },
+      {
+        "heading": "AI imagery, human decisions",
+        "body": "AI-generated imagery is central to the proposed picture-book approach. People still choose the observation, write the useful point, decide whether a joke is fair and check whether the picture communicates it accurately. An attractive image earns its place by helping the page work.",
+        "bullets": [
+          "Clear briefs before image generation.",
+          "Specific review of copy and pictures.",
+          "Attention to audience, dignity and context.",
+          "Versions kept with their source and revision notes."
+        ]
+      },
+      {
+        "heading": "What is being explored",
+        "body": "Books, small guides, workshop posters, cards, newsletters, manual illustrations and short animations are possible formats. Dating, exercise, cooking and cleaning, hygiene, parenting and travel are proposed topic areas. Each needs a useful point, a good joke and a format people will enjoy reading. These ideas are in development.",
+        "bullets": []
+      }
+    ]
+  },
+  "sitemap": {
+    "eyebrow": "FIND YOUR WAY",
+    "title": "The whole place, minus the wandering around.",
+    "lead": "Browse the audiences, explore the source material or see how an idea becomes a useful picture.",
+    "heroAlt": "A playful illustrated signpost pointing toward adult guides, Young Crew, workplace material and the source library.",
+    "intro": "New editions and topics are in development. The library holds the original source deck; Systems explains the working process behind clearer copy and better image briefs.",
+    "sections": [
+      {
+        "heading": "Home",
+        "body": "The gift premise, the overall idea and a taste of the humour.",
+        "bullets": [
+          "For someone whose habits drive you nuts—and who you still quite like.",
+          "See proposed audiences, topics and formats."
+        ]
+      },
+      {
+        "heading": "Men",
+        "body": "A proposed adult edition covering relationships, exercise, home skills, parenting and travel.",
+        "bullets": [
+          "Recognisable bloke behaviour.",
+          "Sample gags and useful everyday themes."
+        ]
+      },
+      {
+        "heading": "Women",
+        "body": "A proposed adult edition with a broad range of characters, situations and everyday rough edges.",
+        "bullets": [
+          "Dating, exercise, shared responsibilities, parenting and travel.",
+          "Sample gags with warmth and bite."
+        ]
+      },
+      {
+        "heading": "Young Crew",
+        "body": "School-appropriate concepts for growing independence and everyday skills.",
+        "bullets": [
+          "Home, school, messages, friends and getting ready.",
+          "Respectful humour and manageable next actions."
+        ]
+      },
+      {
+        "heading": "Workplace",
+        "body": "Mine-and-camp ideas, possible formats and the review a workplace adaptation needs.",
+        "bullets": [
+          "Posters, briefings, cards, booklets and manual illustrations.",
+          "Proposed support for reviewed procedures and SWMS material."
+        ]
+      },
+      {
+        "heading": "Library",
+        "body": "The original 45-slide deck and a structured catalogue of its contents.",
+        "bullets": [
+          "Source words, panels, scenes and checklists.",
+          "Unclear lettering, source issues and unverified claims identified."
+        ]
+      },
+      {
+        "heading": "Systems",
+        "body": "A practical development workflow and a short image-brief form.",
+        "bullets": [
+          "Capture observations, compare jokes and blend ideas.",
+          "Brief, review, revise and adapt the result."
+        ]
+      },
+      {
+        "heading": "About & provenance",
+        "body": "Where the material begins, what the project is exploring and how to read its status.",
+        "bullets": [
+          "Original archive and proposed new work.",
+          "AI imagery and human editorial decisions."
+        ]
+      },
+      {
+        "heading": "Sitemap",
+        "body": "You are here. A rare planning success.",
+        "bullets": [
+          "All nine pages in one place."
+        ]
+      }
+    ]
+  }
+}

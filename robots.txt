@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://auraofintelligence.github.io/rough-as-guts/sitemap.xml

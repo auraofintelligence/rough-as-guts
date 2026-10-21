@@ -1,0 +1,334 @@
+{
+  "schema_version": "1.0",
+  "generated_local_date": "2026-10-21",
+  "timezone": "Australia/Brisbane",
+  "generation_method": "Built-in image_gen tool",
+  "tool": "image_gen.imagegen",
+  "model": null,
+  "model_disclosure": "The built-in tool response did not expose a model name or model version. No model identity is inferred.",
+  "mode": "New AI-generated raster illustrations; one targeted built-in image edit on the workplace hero",
+  "image_count": 9,
+  "project": "Rough as Guts website",
+  "provenance_note": "These nine images were newly generated for this website from written scene prompts. They are separate from the original Daz PowerPoint posters, and do not depict the real Daz or Luke.",
+  "source_references": "No source image was supplied to the nine new-generation calls. The workplace cleanup edit referenced its own initial generated image.",
+  "review_scope": "Visual review of each generated image for the requested scene, tone, composition, unintended lettering and instructional hazards. These are humorous scene-setting illustrations, not safety, medical or operational guidance.",
+  "assets": [
+    {
+      "id": "home",
+      "title": "Home",
+      "path": "assets/generated/hero-home.png",
+      "filename": "hero-home.png",
+      "mime_type": "image/png",
+      "sha256": "3b3ffdb6c5b5dfa6b2cf7506086b7d1c0f9f75644c7f9ab24d1605579a5d31da",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3001356,
+      "prompt": "Use case: illustration-story. Asset type: a large website hero illustration, wide 16:9 landscape. Primary request: At an Australian bowls club table at sunset, a tatty little cream-and-yellow comic guidebook has been left by a mate, and three ordinary fictional adults sharing a laugh lean in to look at its funny rough cartoon drawings. The open book is the clear foreground focal object with dog-eared pages and blank cover areas; one adult points at a visual gag on a page, no legible wording. Lawn bowls green and simple timber clubhouse softly visible behind. Style: bold hand-inked Australian working-life comic, thick expressive black outlines, playful authentic caricature, confident high-quality illustration, worn paper and print texture, warm cream, safety yellow, charcoal black, dusty ochre and restrained red accents. Warm affectionate humour and recognition, candid facial expressions, no celebrities or real named people. Dynamic composition with main faces and book towards centre-right; quieter darker cream texture on left may accommodate website copy. Only pictorial cartoons, completely no text, no letters, no numbers, no logos, no watermark, no fake brand signatures. Adults only. No detailed safety procedures, no injury. Make this a rich single illustration, not a full instructional poster or a grid.",
+      "alt": "Three fictional adult mates laugh over a dog-eared comic guidebook at a bowls-club table at sunset.",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-a792d5ab-e936-4a06-8fee-dd749bf9aaa4.png"
+      },
+      "edit_history": [],
+      "review": {
+        "method": "visual inspection",
+        "result": "Inspected: fictional adults, bowls green, wordless book illustrations, no safety procedure.",
+        "intended_text": "none",
+        "safety_instructions": "none"
+      },
+      "web_derivative": {
+        "path": "assets/generated/hero-home.webp",
+        "sha256": "c5ac243f6d90eebc9a81da3c918f9e66c8d2a6f05588b8706e687fe7af6c2d4a",
+        "bytes": 447474,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/hero-home.png"
+      }
+    },
+    {
+      "id": "men",
+      "title": "Men",
+      "path": "assets/generated/hero-men.png",
+      "filename": "hero-men.png",
+      "mime_type": "image/png",
+      "sha256": "2125e1d8bac901b8c0c071b81176c97c4f289de69836e9aa976891030543ce22",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3028045,
+      "prompt": "Use case: illustration-story. Asset type: a large website hero illustration, wide 16:9 landscape. Primary request: A fictional adult Australian man in a singlet, shorts and bare feet confronts absurd but recognisable washing-up and laundry chaos at home. His expressive puzzled face and the comically rigid tea towel he holds upright like a plank are the focal gag. A sink full of ordinary dishes, escaped socks and a laundry basket complete the scene. The tea towel is clean enough to be comic, visibly towel fabric yet stiff as a board. Style: bold hand-inked Australian working-life comic, thick expressive black outlines, playful authentic cartoon, premium illustration, worn cream paper and print texture, safety yellow, charcoal black, dusty ochre with restrained red accents. Warm self-recognition rather than contempt; normal adult body, no sexualisation. Distinct angled kitchen composition with the man centre-right and uncluttered shadow or cream texture towards left for website copy. No legible text, letters, numbers, logos, watermark or fake brand signatures. No hazardous cleaning chemicals or dangerous actions. One coherent image, no poster captions or panel grid.",
+      "alt": "A puzzled adult man holds a tea towel stiff as a plank beside a sink full of dishes and overflowing laundry.",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-80bbb55a-d7f9-43b9-b60b-eb2ba9cfbb4b.png"
+      },
+      "edit_history": [],
+      "review": {
+        "method": "visual inspection",
+        "result": "Inspected: stiff-towel visual gag, domestic clutter, ordinary adult depiction, no hazardous chemical action.",
+        "intended_text": "none",
+        "safety_instructions": "none"
+      },
+      "web_derivative": {
+        "path": "assets/generated/hero-men.webp",
+        "sha256": "4c7bf368cc8a4cb7719a94fedd9c15b763934510ed4027c632d3857a5f3693f5",
+        "bytes": 390330,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/hero-men.png"
+      }
+    },
+    {
+      "id": "women",
+      "title": "Women",
+      "path": "assets/generated/hero-women.png",
+      "filename": "hero-women.png",
+      "mime_type": "image/png",
+      "sha256": "78fcc0311cef04ed5b972f97f338785eafad474758e3b5e628469c180354510b",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2897324,
+      "prompt": "Use case: illustration-story. Asset type: a large website hero illustration, wide 16:9 landscape. Primary request: A fictional adult Australian woman in an ordinary T-shirt and shorts opens a cluttered household fridge and reacts with an amused raised eyebrow to a forgotten leftover jar wearing a tiny absurd birthday party hat. The jar and her expressive reaction form a clear strong visual gag. Fridge light illuminates food containers, a few wilted vegetables, and a mismatched kitchen beyond; no disgusting explicit rot, just humorous overdue-leftovers recognition. No other people. Style: bold hand-inked Australian rough working-life comic, thick expressive black outlines, affectionate authentic caricature, high-quality illustration, textured worn cream paper, safety yellow, charcoal, dusty ochre and restrained red accents. Independent composition, side-on open fridge at right and woman around centre, quieter cream/dark area left for optional website copy. No legible text or labels of any kind, no letters, numbers, logos, watermark or fake signatures. Nonsexual, respectful ordinary adult. No full instructional poster, no panel grid, no medical claims.",
+      "alt": "An amused adult woman holds a forgotten leftovers jar wearing a tiny birthday hat in front of an open fridge.",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-93d18186-efda-4caf-9511-6c691a6c9efa.png"
+      },
+      "edit_history": [],
+      "review": {
+        "method": "visual inspection",
+        "result": "Inspected: birthday-hat jar gag and amused adult reaction; no sexualisation or safety instruction.",
+        "intended_text": "none",
+        "safety_instructions": "none"
+      },
+      "web_derivative": {
+        "path": "assets/generated/hero-women.webp",
+        "sha256": "b658f9cf431c4ee4d60049e1ad485a4d1199ea34c85908572013da322a26c60c",
+        "bytes": 372830,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/hero-women.png"
+      }
+    },
+    {
+      "id": "youth",
+      "title": "Youth",
+      "path": "assets/generated/hero-youth.png",
+      "filename": "hero-youth.png",
+      "mime_type": "image/png",
+      "sha256": "6fc32cf6b8b59761abdae1ae13822b80d3bafc96f0aa84f0a64c7cdf819b5367",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3010892,
+      "prompt": "Use case: illustration-story. Asset type: a large website hero illustration, wide 16:9 landscape. Primary request: Three fictional Australian school-age teenagers aged about 14 to 17 cheerfully help one another sort a hilariously overflowing sports bag, laundry and homework at a dining table. One teen lifts an impossibly long knotted string of sports socks, another holds a laundry basket and laughs, and another sets out blank homework sheets and pencils. Friendly peer practical-life-skills energy, encouraging and capable, no shaming or stigma. Clearly teenagers, ordinary modest sports T-shirts and shorts. Warm domestic room with a ball near the bag. Style: bold hand-inked Australian everyday-life comic, thick expressive black outlines, playful authentic cartoon, high-quality premium illustration, worn cream paper texture, safety yellow, charcoal black, dusty ochre, small red accents. Wide single scene, focal action centre-right, quieter texture on left for optional website copy. All paper sheets completely blank or with non-letter abstract doodles, no actual text, letters, numbers, logos, signatures or watermark. No alcohol, tobacco, sex, weapons, injury, unsafe work or adult nightclub setting. Not a panel grid or instructional poster.",
+      "alt": "Three teenagers help sort an overflowing sports bag, a long chain of socks, laundry and blank homework sheets.",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-80d3dec2-d1b3-4ceb-8801-2940f876d29a.png"
+      },
+      "edit_history": [],
+      "review": {
+        "method": "visual inspection",
+        "result": "Inspected: school-age peer group, encouraging shared task, blank sheets and simple abstract doodles; no alcohol or sexual content.",
+        "intended_text": "none",
+        "safety_instructions": "none"
+      },
+      "web_derivative": {
+        "path": "assets/generated/hero-youth.webp",
+        "sha256": "cadc7502da8465899d44ab871fb28d406c20208c69daea5235854bb84dad8e11",
+        "bytes": 428530,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/hero-youth.png"
+      }
+    },
+    {
+      "id": "workplace",
+      "title": "Workplace",
+      "path": "assets/generated/hero-workplace.png",
+      "filename": "hero-workplace.png",
+      "mime_type": "image/png",
+      "sha256": "dec683c8d1d4d1a19fc7ee1bbe3fa1eec6ff4629e1d1a81ad59964133a6b2f00",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2560261,
+      "prompt": "Use case: illustration-story. Asset type: a large website hero illustration, wide 16:9 landscape. Primary request: Four fictional adult mine-camp workers in clean yellow and orange high-vis work shirts take a break in an Australian crib room, comparing a humorous blank yellow notice and laughing in recognition over tea mugs. The clear focal action is one worker holding up the paper with a simple large pictorial cartoon only, absolutely no words, while the others point and share a smile. Hard hats are resting on hooks or bench, lunchboxes and a kettle nearby, dusty mine landscape through a window. Ordinary varied adult faces, warm candid teamwork. Style: bold hand-inked Australian working-life comic, thick expressive black outlines, playful authentic caricature, premium textured illustration, worn cream print, safety yellow, charcoal black, dusty ochre and small red accents. Compose the group mainly centre-right, quieter darker left for optional copy. No text, letters, numbers, logos, fake signatures or watermark. No unsafe operation, no machinery demonstration, no full safety procedure, no injury. One coherent scene, not a poster panel grid.",
+      "alt": "Four adult mine workers share a laugh over a yellow sheet with a wordless emu cartoon in a crib room.",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-855ece86-29a5-487a-a5b6-dfe51d4d287d.png"
+      },
+      "edit_history": [
+        {
+          "tool": "image_gen.imagegen",
+          "mode": "built-in edit",
+          "model": null,
+          "prompt": "Edit this illustration only to remove every tiny word, company name, lettering-like mark and logo from all workers’ shirt pockets, chest patches, sleeves, hats and the small wall notice at the extreme upper right. Replace those tiny details with matching plain fabric, blank paper or ordinary non-letter seams. Preserve the entire wide composition, four smiling adults, yellow emu cartoon sheet, mugs, lunchboxes, mine view, worn paper comic-ink style, all faces and main colours exactly. No new text anywhere. Keep the illustration otherwise unchanged.",
+          "change": "Removed tiny invented lettering and logo-like marks from work shirts and wall notice while preserving the composition.",
+          "input": "The initial AI-generated workplace hero",
+          "output": "The final hero-workplace.png included here",
+          "note": "An earlier attempt failed with a network error and produced no usable edited file; the retry succeeded."
+        }
+      ],
+      "review": {
+        "method": "visual inspection",
+        "result": "Inspected after targeted edit: small invented shirt lettering and wall notice marks removed; the scene is a break-room conversation, with no equipment operation or safety procedure.",
+        "intended_text": "none",
+        "safety_instructions": "none"
+      },
+      "web_derivative": {
+        "path": "assets/generated/hero-workplace.webp",
+        "sha256": "eec4288be8c193c036d33346e59571eb0a74334768d7cb9e2aae76b5bbe944f5",
+        "bytes": 358682,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/hero-workplace.png"
+      }
+    },
+    {
+      "id": "library",
+      "title": "Library",
+      "path": "assets/generated/hero-library.png",
+      "filename": "hero-library.png",
+      "mime_type": "image/png",
+      "sha256": "af3954a625d62a08558fd86a5a0036d19f773dd517eb76d76589fd25aa69e1fc",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3522971,
+      "prompt": "Use case: illustration-story. Asset type: a large website hero illustration, wide 16:9 landscape. Primary request: Rich tactile still-life of a big pile of rough Australian comic guide posters and field notebooks spread across a well-used timber workshop bench. Bold yellow, cream and charcoal covers and pages show only lively wordless cartoon vignettes of everyday domestic mishaps, laundry, tea mugs, friendly workmates and a kangaroo doodle. Some sheets pinned by a mug or binder clip, dog-eared corners, pencil shavings and a stubby pencil. No people in the room; the illustrated paper archive is the hero. Style: bold hand-inked Australian comic within a richly illustrated still-life, thick black outlines, high-quality worn-paper print texture, cream, safety yellow, charcoal, dusty ochre and restrained red accents. Strong oblique top-down composition, main stack centre-right with quieter darker bench area at left for copy. Absolutely no text or lettering on any covers or pages, no symbols resembling gibberish words, no numbers, no logos, no watermarks, no fake signatures. Not an actual safety procedure or a repeated poster from previous images. One richly composed scene.",
+      "alt": "A rich stack of wordless comic guides, notebooks and cartoon sheets covers a timber workshop bench.",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-2e083f53-2b89-4a15-a576-2a6e1bb95fa1.png"
+      },
+      "edit_history": [],
+      "review": {
+        "method": "visual inspection",
+        "result": "Inspected: wordless cartoon sheets and tactile archive still life; no procedural safety steps or intended textual labels.",
+        "intended_text": "none",
+        "safety_instructions": "none"
+      },
+      "web_derivative": {
+        "path": "assets/generated/hero-library.webp",
+        "sha256": "b9760fbbe43ab6a10fd7dbe6682f3b4037a5b6675cd85fad122b4cfaa97d20a8",
+        "bytes": 557312,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/hero-library.png"
+      }
+    },
+    {
+      "id": "systems",
+      "title": "Systems",
+      "path": "assets/generated/hero-systems.png",
+      "filename": "hero-systems.png",
+      "mime_type": "image/png",
+      "sha256": "31af3a558537f11d43c671d241218fe3ff5c9f9f9b3e00ffd5e01ceb5aa41a06",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3092695,
+      "prompt": "Use case: illustration-story. Asset type: a large website hero illustration, wide 16:9 landscape. Primary request: Two fictional adult Australian mates in casual workday clothes enthusiastically brainstorm a funny picture-book idea at a broad table. One sketches a comically rigid tea towel while the other arranges blank index cards with simple wordless thumbnail drawings into a story sequence. Loose pencil drawings, cream and yellow sheets, tea mugs, eraser and paper clips. Their expressive faces show a shared moment of discovery, friendly thoughtful creative partnership. They are not real named people. Style: bold hand-inked Australian rough everyday-life comic, thick expressive black outlines, authentic playful caricature, high-quality cream worn-paper and print texture, safety yellow, charcoal black, dusty ochre, restrained red accents. Wide single scene, table and mates centre-right, quieter darker/cream area left for optional website copy. No legible text, letters, numbers, arrows needing labels, logos, watermark or fake signatures. No safety procedure, no dangerous equipment, no panel-grid infographic. Avoid the bowls-club composition; this is a bright home studio/workbench.",
+      "alt": "Two fictional adult mates brainstorm a wordless tea-towel comic using sketches and index-card storyboards.",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-4f1a3a07-da5e-4c0b-bbfc-91198ae73ace.png"
+      },
+      "edit_history": [],
+      "review": {
+        "method": "visual inspection",
+        "result": "Inspected: creative collaboration with pictorial thumbnails; no real named people or intended lettering.",
+        "intended_text": "none",
+        "safety_instructions": "none"
+      },
+      "web_derivative": {
+        "path": "assets/generated/hero-systems.webp",
+        "sha256": "362b9bccb12d8637ad8bb8f51fa50b619c494987e808126c3f773a35d0db68f4",
+        "bytes": 439078,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/hero-systems.png"
+      }
+    },
+    {
+      "id": "provenance",
+      "title": "Provenance",
+      "path": "assets/generated/hero-provenance.png",
+      "filename": "hero-provenance.png",
+      "mime_type": "image/png",
+      "sha256": "79983bfe6c45101a80318581c65b4cb6dfde17573a5b6c7fd1ced129eaabc1c6",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3475414,
+      "prompt": "Use case: illustration-story. Asset type: a large website hero illustration, wide 16:9 landscape. Primary request: Archival workbench still-life with contact-sheet prints of original-style Australian rough comic posters, dog-eared field notes, a magnifying glass enlarging black ink hatching on one cartoon print, a pencil and a small binder clip. Printed pictures are wordless everyday-life comic scenes: mug, work boot, laundry basket and laughing adult mates. The magnifying glass and paper texture are a clear strong focal point. Warm curious evidence-and-craft mood, authentic analogue archive. Style: bold hand-inked comic still-life, high-quality worn cream paper and print textures, thick black outlines, safety yellow, charcoal black, dusty ochre and small restrained red accents. Wide oblique top-down composition, contact-sheet stack centre-right and uncluttered shadowed bench area left for optional copy. No visible wording of any kind, no dates, numbers, letters, gibberish labels, real brand marks, watermarks or fake signatures. Not an actual claim of authorship, certification or a safety instruction. Make distinct from a general library pile with more careful archival arrangement and magnified ink detail.",
+      "alt": "A magnifying glass enlarges ink hatching on an archival contact sheet of wordless rough-life comic prints.",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-521afee3-98cb-415c-8e2d-7e4431fc170f.png"
+      },
+      "edit_history": [],
+      "review": {
+        "method": "visual inspection",
+        "result": "Inspected: wordless illustrative archive scene, no brand signature or certification marks.",
+        "intended_text": "none",
+        "safety_instructions": "none"
+      },
+      "web_derivative": {
+        "path": "assets/generated/hero-provenance.webp",
+        "sha256": "4908cd20b25d9968a51e64adbd9a37122bcc81db23a5c72132f1f41938209a90",
+        "bytes": 565512,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/hero-provenance.png"
+      }
+    },
+    {
+      "id": "sitemap",
+      "title": "Sitemap",
+      "path": "assets/generated/hero-sitemap.png",
+      "filename": "hero-sitemap.png",
+      "mime_type": "image/png",
+      "sha256": "b680e65f14789816ac8708045403d79fb8b30b2bd40ca3b28aa1972bbc40921e",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3540710,
+      "prompt": "Use case: illustration-story. Asset type: a large website hero illustration, wide 16:9 landscape. Primary request: A playful Australian physical signpost at a dusty crossroads points with completely blank cream and yellow wooden arrow boards towards small inviting places in a gently exaggerated landscape: a modest home, a mine-camp crib room, a workshop and a school building with sports oval. The rustic signpost is the main foreground object; distant paths weave casually among gum trees and the little buildings. Friendly exploration mood, no people required, no real geographic route. Style: bold hand-inked Australian rough everyday-life comic, expressive thick black outlines, premium worn-paper print texture, cream, safety yellow, charcoal black, dusty ochre and restrained red accents. Wide single landscape scene, signpost centre-right and quieter textured sky/land at left for optional website copy. The arrow boards must be entirely BLANK, no labels, no words, letters, numbers, logos, watermark or fake signatures. Buildings have no signage. This is a whimsical physical landscape, not a technical route diagram or a full poster.",
+      "alt": "A blank wooden signpost stands at a whimsical Australian crossroads linking home, camp, workshop and school.",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-1b70542a-5c3c-4853-aa31-16595cea205e.png"
+      },
+      "edit_history": [],
+      "review": {
+        "method": "visual inspection",
+        "result": "Inspected: all four directional arrow boards blank; whimsical landscape rather than a real navigational map.",
+        "intended_text": "none",
+        "safety_instructions": "none"
+      },
+      "web_derivative": {
+        "path": "assets/generated/hero-sitemap.webp",
+        "sha256": "a1c72642f5fa0a6c8edbca0a439589fcb3ce9ea6f4a172a49247b73852c8c41d",
+        "bytes": 598926,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/hero-sitemap.png"
+      }
+    }
+  ]
+}
