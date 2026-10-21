@@ -66,7 +66,7 @@ def render_misc(x):
 
 def library(cat,prov):
     cats=sorted(cat['topic_index'])
-    out='<section class="section container" id="browse"><h2>Rummage through the originals</h2><div class="notice"><strong>Source archive. Original draft wording.</strong>These are Daz’s supplied drafts, with the readable wording transcribed for comparison. Medical, emergency and safety instructions have not been independently verified. Source errors are retained and flagged.</div>'
+    out='<section class="section container" id="browse"><h2>Rummage through the originals</h2><div class="notice"><strong>Source archive. Original draft wording.</strong>These are Daz’s supplied drafts, with the readable wording transcribed for comparison and punctuation normalised for display. Medical, emergency and safety instructions have not been independently verified. Source errors are retained and flagged.</div>'
     out+='<div class="filters"><div class="field"><label for="library-search">Find a topic, tool or phrase</label><input id="library-search" type="search" placeholder="Try grinders, camp, parenting…"></div><div class="field"><label for="category-filter">Choose a collection</label><select id="category-filter"><option value="">All collections</option>'+''.join(f'<option>{esc(c)}</option>' for c in cats)+'</select></div></div><p class="results-count" id="results-count" aria-live="polite">45 slides</p><div class="library-list">'
     asset_map={r['slide']:r for r in prov['slides']}
     for rec in cat['slides']:

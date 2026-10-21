@@ -231,7 +231,7 @@
       "has_image": false,
       "source_text_objects": [
         "Option 1: The Blunt Reality Check",
-        "\"This isn't a textbook, and it sure as hell isn't a philosophy degree. Life doesn't hand you a pristine 500-page manual printed on glossy paper—it throws you into the deep end with a roll of duct tape and tells you to figure it out. This book is that roll of duct tape. No fluff, no academic jargon, no high-minded theory. Just the raw, functional, rough-as-guts rules for navigating everything from fixing a leaky tap to surviving human interaction, without losing your sanity.\""
+        "\"This isn't a textbook, and it sure as hell isn't a philosophy degree. Life doesn't hand you a pristine 500-page manual printed on glossy paper. It throws you into the deep end with a roll of duct tape and tells you to figure it out. This book is that roll of duct tape. No fluff, no academic jargon, no high-minded theory. Just the raw, functional, rough-as-guts rules for navigating everything from fixing a leaky tap to surviving human interaction, without losing your sanity.\""
       ],
       "pptx_pictures": [],
       "kind": "text_only_slide",
@@ -275,7 +275,7 @@
       "has_image": false,
       "source_text_objects": [
         "Option 3: The Manifesto Call-to-Action",
-        "\"Perfection is a trap. If you wait until you have the perfect tools, the perfect plan, or the perfect understanding, you’ll spend your whole life standing on the sidelines. Welcome to the rough-as-guts approach to life: dirty solutions that actually work, survival skills for everyday chaos, and practical wisdom forged in trial and error. You don't need a diploma to master the universe—you just need enough grit to patch the holes as you go.\""
+        "\"Perfection is a trap. If you wait until you have the perfect tools, the perfect plan, or the perfect understanding, you’ll spend your whole life standing on the sidelines. Welcome to the rough-as-guts approach to life: dirty solutions that actually work, survival skills for everyday chaos, and practical wisdom forged in trial and error. You don't need a diploma to master the universe. You just need enough grit to patch the holes as you go.\""
       ],
       "pptx_pictures": [],
       "kind": "text_only_slide",
@@ -6570,5 +6570,6 @@
       "image_generation_model_status": "unknown; not established from supplied context or this metadata inspection",
       "image_generation_history": "not_reconstructed"
     }
-  ]
+  ],
+  "text_presentation_note": "Em dashes in text transcriptions have been replaced with alternative punctuation at Luke's request. Original image files and their recorded hashes are unchanged."
 }
