@@ -113,7 +113,7 @@ def page_sections(page,key,heroes):
     out=''
     for i,s in enumerate(page.get('sections',[])):
         if key=='home' and i==1:
-            out+='<section class="section container"><h2>A guide with someone’s name on it</h2><div class="edition-links">'
+            out+='<section class="section container" id="editions"><h2>A guide with someone’s name on it</h2><div class="edition-links">'
             for edition,label,desc in [('men','The blokes','Mates, partners, dads and the household wild card.'),('women','The women','Funny, capable, chaotic. Plenty of rough edges to go round.'),('youth','Young Crew','School-age life skills, without talking down.')]:
                 out+=f'<a class="edition-link" href="{edition}.html"><img src="{heroes[edition]}" alt="" loading="lazy" width="640" height="480"><div><h3>{label}</h3><p>{desc}</p></div></a>'
             out+='</div></section>'
@@ -149,7 +149,7 @@ def main():
         footer_nav=''.join(link(f,l) for k,f,l in PAGES)
         prev=PAGES[(idx-1)%len(PAGES)];nxt=PAGES[(idx+1)%len(PAGES)]
         head=f'''<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(label)} · Rough as Guts</title><meta name="description" content="{esc(page['lead'])}"><meta name="theme-color" content="#ffd52a"><link rel="canonical" href="{BASE+filename}"><link rel="icon" href="assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css"><meta property="og:title" content="{esc(label)} · Rough as Guts"><meta property="og:description" content="{esc(page['lead'])}"><meta property="og:type" content="website"><meta property="og:url" content="{BASE+filename}"><meta property="og:image" content="{BASE+heroes[key]}"><meta name="twitter:card" content="summary_large_image"><script src="site.js" defer></script></head><body data-page="{key}"><a class="skip-link" href="#main">Skip to content</a><header class="site-header"><a class="brand" href="index.html">ROUGH AS GUTS<small>GOOD LAUGHS. USEFUL HINTS.</small></a><button class="menu-toggle" aria-controls="main-nav" aria-expanded="false">Menu</button><nav id="main-nav" class="main-nav" aria-label="Main navigation">{nav}</nav><div class="read-tools" role="group" aria-label="Text size"><button id="text-smaller" aria-label="Smaller text">A−</button><button id="text-reset" aria-label="Reset text size">A</button><button id="text-larger" aria-label="Larger text">A+</button></div></header><main id="main"><section class="hero"><img class="hero-image" src="{heroes[key]}" alt="{esc(page['heroAlt'])}" fetchpriority="high" width="1536" height="1024"><div class="hero-copy"><span class="eyebrow">{esc(page['eyebrow'])}</span><h1>{HERO_TITLES[key]}</h1><p class="lead">{esc(page['lead'])}</p><div class="hero-actions">'''
-        if key=='home':head+=link('men.html','Find their edition','button')+link('library.html','Rummage through the originals','button secondary')
+        if key=='home':head+=link('#editions','Find their edition','button')+link('library.html','Rummage through the originals','button secondary')
         elif key=='library':head+=link('#browse','Browse all 45 slides','button')
         elif key=='systems':head+=link('#brief-builder','Build an image brief','button')
         elif key=='provenance':head+=link('#compare','Compare source copies','button')
