@@ -542,94 +542,9 @@
   "pipeline": {
     "eyebrow": "THE ROUGH AS GUTS PRODUCT SHED",
     "title": "A book is one way out of the shed.",
-    "lead": "A good yarn could become a cartoon, a sticker, a skit, a club mascot or something stuck to the back of a dunny door. Here are some things worth trying.",
+    "lead": "A cartoon, a sticker, a skit, a club mascot or something stuck to the back of a dunny door. Possible formats and example jokes to kick around.",
     "heroAlt": "Four fictional adults develop and display wordless galah comic books, posters, storyboards, stickers, a cap and T-shirts at a country-show creative stall.",
-    "intro": "A missing 10 mm socket could carry a single-panel joke or a whole detective series. A camp-fridge argument could become a newsletter column, a short skit or a poster written by the fridge itself. The trick is to give each version a reason to exist and make a small one before building a mountain of them.",
-    "proposal_notice": "Everything on this page is a proposed direction. Product names are working titles. Places and buyers are examples to explore, with no partnership, order, sale or completed pilot implied.",
-    "stage_legend": [
-      {
-        "stage": "sketch",
-        "meaning": "A proposed idea ready for a first draft."
-      },
-      {
-        "stage": "small pilot",
-        "meaning": "A proposed first test sized to make and show. No completed trial is claimed."
-      },
-      {
-        "stage": "requires task review",
-        "meaning": "A proposal that needs a check against the actual task, source material and intended use before release."
-      }
-    ],
-    "sections": [
-      {
-        "heading": "Start with something somebody actually does",
-        "body": "The best raw material is often a tiny act of misplaced confidence: the shortcut that added an hour, the empty milk carton returned to the fridge, the mate who thinks bringing a chair counts as helping. Write down the action and the line someone said. Then look for the picture.",
-        "bullets": [
-          "What did they expect to happen?",
-          "What actually happened?",
-          "Which one moment would another person recognise immediately?"
-        ]
-      },
-      {
-        "heading": "Give the format a job",
-        "body": "A sticker has to land in a glance. A newspaper cartoon needs a fresh angle. A book can let a character make the same mistake three increasingly ridiculous ways. A skit gets to use silence, timing and the mate watching it all go wrong.",
-        "bullets": [
-          "A laugh to share or a gift with a hint.",
-          "A recurring character people can follow.",
-          "A useful explanation people can recall.",
-          "An identity a club or event can make its own."
-        ]
-      },
-      {
-        "heading": "The source deck is the starting pile",
-        "body": "The existing slides give us characters, layouts, subjects and plenty of things to improve. New product ideas can borrow a strong situation while getting their own artwork, lettering and format. A finished version should have a clear source record and its own revision history.",
-        "bullets": []
-      }
-    ],
-    "pipeline": [
-      {
-        "id": "catch",
-        "title": "Catch the real habit",
-        "action": "Save the story, the exact line and the small detail that makes it recognisable.",
-        "output": "A short seed note with the source and the intended useful point.",
-        "example": "A mate spends twenty minutes looking for a tool he is already holding."
-      },
-      {
-        "id": "choose",
-        "title": "Choose one home for it",
-        "action": "Pick the place it will be encountered and the time it gets from the reader.",
-        "output": "One format and a definite first audience context.",
-        "example": "A one-panel shed sticker gets one glance. A three-page detective yarn gets a proper read."
-      },
-      {
-        "id": "pilot",
-        "title": "Make the smallest complete version",
-        "action": "Finish one spread, poster, strip, sticker sheet or short scene with readable lettering.",
-        "output": "A thing people can actually react to.",
-        "example": "One four-panel case for the Ten Millimetre Detective Agency."
-      },
-      {
-        "id": "read",
-        "title": "See what people get",
-        "action": "Show it in the intended size. Ask what happened, where the laugh was and what point stayed with them.",
-        "output": "Specific changes to the joke, sequence, picture or type.",
-        "example": "If everyone spots the missing socket but nobody understands the final panel, change that panel."
-      },
-      {
-        "id": "check",
-        "title": "Revise and check the point",
-        "action": "Keep the strongest joke, fix confusing artwork and check factual claims against suitable sources. Task-based material needs the relevant task owner and reviewer.",
-        "output": "An approved version with dated source notes and the final text.",
-        "example": "The workshop joke can stay broad. A drawing for an actual work method must match that job."
-      },
-      {
-        "id": "release",
-        "title": "Release the versions that earn their keep",
-        "action": "Adapt the approved idea to a few useful sizes and contexts, then keep feedback with the source.",
-        "output": "A small set of finished files, with the original and derivatives clearly identified.",
-        "example": "The same socket case becomes a newspaper strip, a poster and a short animation with different pacing."
-      }
-    ],
+    "intro": "Books, posters, newsletters, guides and animation were among Luke and Daz's ideas. The concepts below are brainstorm examples, with other directions added for discussion.",
     "products": [
       {
         "id": "gift-books",
@@ -637,19 +552,17 @@
         "format": "Illustrated books and themed collections",
         "seed": "Someone you love treats every household job as an optional side quest.",
         "example": "The Museum of Things I'll Fix: a guided tour of temporary repairs that have become family heirlooms. Each spread introduces another magnificent exhibit and the person defending it.",
-        "buyer_or_place": "Proposed gift-shop, bookshop, club stall, roadhouse shelf or direct-order edition.",
-        "next_step": "Finish one cover and three connected spreads. Print them at intended reading size and see whether people want to turn the page.",
-        "stage": "sketch"
+        "buyer_or_place": "Gift-shop, bookshop, club stall, roadhouse shelf or direct-order edition.",
+        "next_step": "A cover and three illustrated spreads from The Museum of Things I'll Fix."
       },
       {
         "id": "pocket-guides",
         "name": "Small guides for very specific disasters",
         "format": "Pocket booklets, zines and fold-out guides",
-        "seed": "The first trip away from home exposes all the things somebody else used to do.",
+        "seed": "A character leaves home and discovers a few jobs that used to happen without their involvement.",
         "example": "Your First Week Feeding Yourself: a character discovers that a cupboard full of sauces is a recipe for owning sauces. One spread follows a meal from shopping list to the final washing-up.",
-        "buyer_or_place": "Proposed gift packs, local shops, camp welcome packs, library activities or leaving-home presents.",
-        "next_step": "Make one eight-page folded booklet around a single ordinary-life theme.",
-        "stage": "small pilot"
+        "buyer_or_place": "Gift packs, local shops, camp welcome packs, library activities or leaving-home presents.",
+        "next_step": "A folded booklet following one meal from an empty fridge to the washing-up."
       },
       {
         "id": "posters",
@@ -657,9 +570,8 @@
         "format": "Posters and noticeboard series",
         "seed": "The shared fridge is full, nobody owns the smell and everybody owns the good milk.",
         "example": "A mock statement from the fridge: 'I can keep it cold. I can't make it yours.' A cutaway scene shows labelled lunch boxes, a mystery tub and a worker trying to deny a very familiar casserole dish.",
-        "buyer_or_place": "Proposed camp noticeboards, club kitchens, lunchrooms, sheds and community halls.",
-        "next_step": "Make one large-type poster and one smaller noticeboard version. Check both from the distance people will actually stand.",
-        "stage": "small pilot"
+        "buyer_or_place": "Camp noticeboards, club kitchens, lunchrooms, sheds and community halls.",
+        "next_step": "A shared-fridge poster with labelled lunch boxes, a mystery tub and the fridge's written complaint."
       },
       {
         "id": "newsletter",
@@ -667,19 +579,17 @@
         "format": "Newsletter column and recurring email feature",
         "seed": "An everyday object gets a right of reply.",
         "example": "The kettle writes to management about being left empty. Next issue, the broom responds to allegations that it has never been seen during a shift.",
-        "buyer_or_place": "Proposed club, workplace, camp, association or community newsletters.",
-        "next_step": "Draft three short columns with one image each so an editor can judge whether the idea has legs.",
-        "stage": "sketch"
+        "buyer_or_place": "Club, workplace, camp, association or community newsletters.",
+        "next_step": "An illustrated letter from the kettle, followed by a reply from the broom in the next issue."
       },
       {
         "id": "magazine",
         "name": "The Rough as Guts Quarterly",
         "format": "Magazine, seasonal annual or mini newspaper",
-        "seed": "Several good recurring bits deserve to live together.",
+        "seed": "A collection mixing cartoons, fictional letters, puzzles and illustrated stories.",
         "example": "One issue could contain a shed cartoon, a camp-life letter, a 'spot the pointless extra step' puzzle, a character interview and the Lost Property Awards.",
-        "buyer_or_place": "Proposed local-shop counter, club reading pile, ag-show stall or direct subscription test.",
-        "next_step": "Build a short sample issue from finished material and test whether the mix feels like a publication people would keep.",
-        "stage": "sketch"
+        "buyer_or_place": "Local-shop counters, club reading piles, ag-show stalls or a subscription edition.",
+        "next_step": "A sample issue with a shed cartoon, a camp-life letter, a puzzle and the Lost Property Awards."
       },
       {
         "id": "newspaper-cartoons",
@@ -687,19 +597,17 @@
         "format": "Single-panel newspaper cartoons and four-panel strips",
         "seed": "A small-town inconvenience becomes an absurd public institution.",
         "example": "A pothole gets its own office, waiting room and retirement plaque while the road crew tries to find its original job number. The subject is bureaucracy, with room for a different local gripe each week.",
-        "buyer_or_place": "Proposed country newspapers, community news sheets, town newsletters and local websites.",
-        "next_step": "Create three self-contained cartoons in the same cast and supply both a column-width and a large-print proof.",
-        "stage": "sketch"
+        "buyer_or_place": "Country newspapers, community news sheets, town newsletters and local websites.",
+        "next_step": "A single-panel pothole cartoon and a four-panel strip about its retirement ceremony."
       },
       {
         "id": "jokes",
         "name": "The Short Yarn Department",
         "format": "Caption jokes, illustrated one-liners and share cards",
-        "seed": "A character has an impressive explanation for doing the simplest thing badly.",
+        "seed": "An elaborate explanation for an obviously avoidable mess.",
         "example": "A worker presents an elaborate diagram of where the missing broom could be. Behind him, it is holding the door open.",
-        "buyer_or_place": "Proposed newsletter fillers, club screens, social feeds, calendars and printed cards.",
-        "next_step": "Write a dozen setups, choose the strongest three and test the pictures with the captions temporarily hidden.",
-        "stage": "small pilot"
+        "buyer_or_place": "Newsletter fillers, club screens, social feeds, calendars and printed cards.",
+        "next_step": "An illustrated broom joke with alternative captions on separate cards."
       },
       {
         "id": "comedy-skits",
@@ -707,41 +615,37 @@
         "format": "Comedy sketches, short scripts and performed video",
         "seed": "A tiny repair attracts a committee and turns into a major operation.",
         "example": "Two mates begin with a loose cupboard handle. Each helpful arrival brings a larger tool and a longer explanation. The quiet person who fetched the right screw finishes the job while the committee is still discussing access.",
-        "buyer_or_place": "Proposed hall gigs, club nights, short video series and camp entertainment.",
-        "next_step": "Write and read aloud one short scene with a clear ending. Test the timing before producing animation or filming.",
-        "stage": "sketch"
+        "buyer_or_place": "Hall gigs, club nights, short video series and camp entertainment.",
+        "next_step": "A short script for the cupboard-handle repair, with entrances for each increasingly helpful visitor."
       },
       {
         "id": "stickers",
         "name": "Small signs with a point",
         "format": "Sticker sheets, labels, magnets and removable decals",
-        "seed": "The joke belongs exactly where the habit happens.",
+        "seed": "A small joke attached to the cupboard, appliance or lunch box involved.",
         "example": "A dishwasher sticker reads 'A cupboard with consequences' above a tiny character carefully stacking a plate. A shared-food label says 'This has an owner. Apparently that's me.'",
-        "buyer_or_place": "Proposed club kitchens, households, lunch boxes, sheds, welcome packs and gift bundles.",
-        "next_step": "Mock up one small sheet. Check lettering at actual size and choose surfaces that suit the material.",
-        "stage": "small pilot"
+        "buyer_or_place": "Club kitchens, households, lunch boxes, sheds, welcome packs and gift bundles.",
+        "next_step": "A sheet of dishwasher, lunch-box and shared-fridge labels with small character illustrations."
       },
       {
         "id": "swms",
         "name": "Illustrated support for the actual SWMS",
         "format": "Task drawings and visual companions to reviewed safe work method statements",
-        "seed": "A task-specific document needs pictures that help workers connect the written sequence to the real job.",
-        "example": "Use the equipment, location and sequence in a supplied, reviewed SWMS to draw a matching task sheet. The responsible task team checks every depicted control and step before it becomes part of their material.",
-        "buyer_or_place": "A proposed service for organisations that already own the task, document and review process.",
-        "next_step": "Choose one actual task with its responsible reviewer. Agree the source document and illustration brief, then review the drawings with the people doing that work.",
-        "stage": "requires task review",
+        "seed": "Illustrations of a specific task, linked to its written sequence and actual equipment.",
+        "example": "A matching task sheet drawn from the equipment, location and sequence in a supplied, reviewed SWMS. The responsible task team checks the depicted controls and steps before using it in their material.",
+        "buyer_or_place": "Task-specific work documents and site training material, with the responsible organisation and reviewers.",
+        "next_step": "A task drawing beside its supplied SWMS, with source details and reviewer notes.",
         "source_url": "https://www.safeworkaustralia.gov.au/doc/safe-work-method-statement-high-risk-construction-work-information-sheet",
         "review_note": "Safe Work Australia's guidance describes SWMS for high risk construction work. This proposal is illustration support tied to the specific work and its review process."
       },
       {
         "id": "animation",
-        "name": "The Ten Millimetre Detective Agency",
+        "name": "When the job is “finished”",
         "format": "Short animation, loops and recurring episodes",
-        "seed": "The smallest missing tool gets the grandest investigation.",
-        "example": "A trench-coated socket interviews a toolbox, a ute seat and a suspiciously innocent magnetic tray. The final witness is the bloke who put it somewhere safe.",
-        "buyer_or_place": "Proposed short-video channels, club screens, event displays and companion content for books.",
-        "next_step": "Storyboard one case and make a short animatic with temporary sound before committing to finished animation.",
-        "stage": "sketch"
+        "seed": "Someone declares a job finished while the part they dislike is left for somebody else.",
+        "example": "Possible scene: the cook announces “Dinner’s done” over one plate and every saucepan in the house. Would the reveal carry the joke, or does it need a reply from the person facing the washing-up?",
+        "buyer_or_place": "Short-video channels, club screens, event displays and companion content for books.",
+        "next_step": "Try a silent reveal of the kitchen, then a version with the reply “You missed a bit.” Compare whether the joke is clear and whether either version feels like a familiar household moment."
       },
       {
         "id": "merch",
@@ -749,19 +653,17 @@
         "format": "Tea towels, mugs, aprons, shirts, calendars and shed prints",
         "seed": "A useful household object comments on the job it keeps being denied.",
         "example": "A tea towel shows the Workload Forecast: dishes gathering over the sink, clearing after someone actually dries them. An apron gives the cook a dramatic title beside a very modest meal.",
-        "buyer_or_place": "Proposed gift stalls, club fundraisers, roadhouses, small shops and direct-order bundles.",
-        "next_step": "Pick one design that works on one object. Make a sample and check that the artwork survives seams, handles, folds and normal viewing distance.",
-        "stage": "sketch"
+        "buyer_or_place": "Gift stalls, club fundraisers, roadhouses, small shops and direct-order bundles.",
+        "next_step": "A Workload Forecast tea towel mock-up, with a matching sink-side print."
       },
       {
         "id": "sports-clubs",
         "name": "Give the club a larrikin",
         "format": "Sports-club mascots, match-day cartoons and junior activity sheets",
-        "seed": "Every club has a character who can call a mark across the oval and miss the roster on the wall.",
+        "seed": "A fictional club character who can call a mark across the oval and miss the roster on the wall.",
         "example": "A fictional galah mascot announces itself as Head of Encouragement and Avoiding the Washing-Up. It can star in a match-day strip, a volunteer thank-you, a gear-return reminder and a junior colouring page.",
-        "buyer_or_place": "Proposed footy, cricket, bowls and other sports clubs, with each club helping shape its own character.",
-        "next_step": "Invent one original mascot with a club, then make one match-day cartoon and one practical club notice in that voice.",
-        "stage": "sketch"
+        "buyer_or_place": "Footy, cricket, bowls and other sports clubs, with a character developed for the individual club.",
+        "next_step": "An original galah character sheet, a match-day cartoon and a gear-return notice."
       },
       {
         "id": "public-issue-campaigns",
@@ -769,9 +671,8 @@
         "format": "Generic public-facing issue cartoons, campaign posters and explainer strips",
         "seed": "An ordinary public problem is buried under grand language and an unhelpful process.",
         "example": "Shed Parliament debates who left the gate open while a goat eats the minutes. A separate factual panel explains the relevant public process using checked, clearly sourced information.",
-        "buyer_or_place": "Proposed public exhibitions, community papers, civic information projects and issue-based public campaigns.",
-        "next_step": "Pick one publicly relevant issue, define the factual question and create a stand-alone cartoon plus a checked explanation. Review claims and publication requirements for its actual use.",
-        "stage": "requires task review",
+        "buyer_or_place": "Public exhibitions, community papers, civic information projects and issue-based public campaigns.",
+        "next_step": "A Shed Parliament cartoon paired with a sourced explanation of a specific public process.",
         "scope": "General public-facing issues and satire. Concepts are not tailored to demographic groups or voter profiles."
       },
       {
@@ -780,39 +681,35 @@
         "format": "Serial comic panels and rotating community displays",
         "seed": "A character's unfinished job keeps acquiring new consequences.",
         "example": "A lost property box begins as one lonely glove. Each instalment gives it a new resident, a new rule and eventually a committee demanding a larger box.",
-        "buyer_or_place": "Proposed camp noticeboards, halls, club foyers, libraries and community shops.",
-        "next_step": "Draw three instalments that work individually and reward anyone who sees the whole run.",
-        "stage": "small pilot"
+        "buyer_or_place": "Camp noticeboards, halls, club foyers, libraries and community shops.",
+        "next_step": "A sequence of noticeboard panels following the lost property box from lonely glove to overcrowded institution."
       },
       {
         "id": "live-readings",
         "name": "A yarn, a picture and a room full of mates",
         "format": "Illustrated readings, hall-night comedy and caption contests",
-        "seed": "The audience recognises the habit before the narrator finishes the setup.",
-        "example": "Put a silent picture of a wildly overpacked ute on screen. Read three increasingly confident explanations, then reveal the one thing its owner forgot.",
-        "buyer_or_place": "Proposed country halls, bowls clubs, show events, libraries and informal club entertainment.",
-        "next_step": "Prepare a short set from a few finished images and rehearse the read aloud. Use the response to improve the captions.",
-        "stage": "sketch"
+        "seed": "A narrated picture about a familiar habit, with room for competing explanations.",
+        "example": "A silent picture of a wildly overpacked ute, accompanied by increasingly confident explanations and a final reveal of the one thing its owner forgot.",
+        "buyer_or_place": "Country halls, bowls clubs, show events, libraries and informal club entertainment.",
+        "next_step": "A short illustrated reading with an overpacked-ute picture, competing explanations and a final reveal."
       },
       {
         "id": "audio",
-        "name": "The Kettle Has the Floor",
+        "name": "“Just a quick favour”",
         "format": "Short audio yarns, radio-ready sketches and narrated cartoons",
-        "seed": "One recurring voice can report from the same fictional shed every week.",
-        "example": "The shed radio carries an urgent bulletin about a missing 10 mm socket. A caller offers a completely unrelated socket and a twenty-minute story about where it came from.",
-        "buyer_or_place": "Proposed community-radio submissions, club audio, podcasts and accessible narrated editions.",
-        "next_step": "Record one clean, short sketch and provide a transcript plus an optional still illustration.",
-        "stage": "sketch"
+        "seed": "A request to pick up a couple of things grows until it sounds like a house move.",
+        "example": "Possible phone sketch: a mate asks to borrow the ute, then keeps adding furniture to the list. The other person asks, “Am I helping you move, or do I live with you now?” Does the growing request offer enough to play with?",
+        "buyer_or_place": "Community-radio submissions, club audio, podcasts and accessible narrated editions.",
+        "next_step": "Read it aloud with the requests delivered casually, then with increasingly obvious attempts to hide the scale of the favour. Which version, if either, gives the other person a useful comic response?"
       },
       {
         "id": "tabletop",
         "name": "The Smoko Argument Pack",
         "format": "Caption games, scenario cards and printable club activities",
-        "seed": "Everyone knows the bloke in the picture and everyone has a better line for it.",
+        "seed": "Players supply the excuse a character might give for an obvious mess.",
         "example": "One card shows a ute packed for a ten-minute errand. Players supply the missing explanation, predict the forgotten item or match it to the worst possible tool.",
-        "buyer_or_place": "Proposed club tables, family gatherings, camp recreation rooms and gift packs.",
-        "next_step": "Print a small set of illustrated cards and try one clear rule with a group. Keep the game moving without needing a host to explain every card.",
-        "stage": "small pilot"
+        "buyer_or_place": "Club tables, family gatherings, camp recreation rooms and gift packs.",
+        "next_step": "A printable pack of picture cards, excuse cards and a one-page set of game rules."
       }
     ],
     "wildcards": [
@@ -821,125 +718,69 @@
         "setting": "Country-show toilets, club bathrooms and camp amenities, with permission from the venue.",
         "idea": "A tiny changing newspaper for the back of the door, complete with a headline, one cartoon and an absurd classified ad.",
         "visual": "A serious broadsheet front page reporting that the last clean mug has been sighted near the sink.",
-        "pilot": "One readable sheet with a single joke. Test the lettering and whether people understand it without leaning forward."
+        "pilot": "A door-sized newspaper sheet with one cartoon, a mock headline and a classified ad."
       },
       {
         "title": "The Lost Property Royal Show",
         "setting": "An ag-show display or club foyer.",
-        "idea": "Give abandoned everyday objects the treatment of prize livestock, with judging notes and ribbons.",
+        "idea": "Abandoned everyday objects receive the treatment of prize livestock, complete with judging notes and ribbons.",
         "visual": "A magnificent unmatched glove under a Champion ribbon; a line of hopeful coffee mugs waits to be judged.",
-        "pilot": "Create a handful of removable illustrated award cards and a mock display from fictional objects."
+        "pilot": "Removable illustrated award cards and a miniature display of fictional prize-winning lost property."
       },
       {
         "title": "The Corrugated Comic",
         "setting": "A show stand, shed exhibition or temporary community-art display.",
         "idea": "A comic designed across a series of upright corrugated panels, so readers walk along the story.",
         "visual": "A three-stage attempt to close a stubborn gate, ending with the quiet discovery that somebody stacked timber behind it.",
-        "pilot": "Make a paper model and one removable panel before producing an outdoor version."
+        "pilot": "A paper model of the comic wall and a sample illustrated panel."
       },
       {
         "title": "Moppa's Feral Chores Club",
         "setting": "A family activity day, junior club session or illustrated home edition.",
         "idea": "A proudly scruffy emu becomes an accidental ambassador for finishing jobs.",
         "visual": "Moppa insists a mess is a creative project while sweeping it into the unmistakable shape of a second emu.",
-        "pilot": "One character sheet, a short strip and a simple activity page. Check that the joke works for the intended age group."
+        "pilot": "A character sheet, a short strip and a chores activity page."
       },
       {
         "title": "The Roadhouse Placemat Yarn",
-        "setting": "A proposed roadhouse or club-meal tabletop trial.",
+        "setting": "Roadhouse or club-meal tabletops.",
         "idea": "A one-meal comic, caption puzzle or small 'spot the forgotten item' scene that can be read while food arrives.",
         "visual": "A traveller packed everything for the trip except the reason they stopped: the shopping list still pinned to the fridge at home.",
-        "pilot": "One paper placemat design, tested around plates and cups at actual size."
-      },
-      {
-        "title": "The Ten Millimetre Escape Room",
-        "setting": "A club social day, library activity or ag-show stall.",
-        "idea": "A short picture puzzle follows a missing socket through a ute, shed and kitchen drawer.",
-        "visual": "Comic evidence cards, an unhelpful witness statement and a toolbox with a suspiciously comfortable empty space.",
-        "pilot": "One printable puzzle with a clear solution and no special props."
+        "pilot": "A paper placemat with a comic and a missing-item puzzle arranged around the plate space."
       },
       {
         "title": "The Shed Choir",
         "setting": "A hall gig or club variety night.",
         "idea": "A performed comedy piece builds a familiar shed soundtrack from voices, ordinary props and increasingly unhelpful commentary.",
-        "visual": "A line of solemn performers each holds a caption card while one person makes the noise of the tool everyone claims to own.",
-        "pilot": "A short read-through or audio demo with simple stage directions."
+        "visual": "Solemn performers hold caption cards while one person supplies a tool noise and another disputes its accuracy.",
+        "pilot": "A short script, caption cards and an audio demo of the shed soundtrack."
       },
       {
         "title": "The Town's Unofficial Useful Map",
         "setting": "A fictional town in a book, show display or local publication concept.",
-        "idea": "Map the landmarks everyone really uses: the shady seat, the shop door nobody knows how to open and the bend where visitors always turn too early.",
+        "idea": "A fictional town mapped through unofficial landmarks: a shady seat, an awkward shop door and the bend where the recurring visitor takes the wrong turn.",
         "visual": "A friendly illustrated town map with character vignettes and a recurring visitor getting increasingly overconfident.",
-        "pilot": "Draw a wholly fictional sample map, then explore a real place only with its facts and permissions checked."
+        "pilot": "An illustrated map of a fictional town, with its unofficial landmarks and recurring visitors."
       }
     ],
     "routes": [
       {
-        "title": "One camp gripe, three useful formats",
+        "title": "The shared fridge",
         "steps": [
-          "Capture a real shared-fridge story and its best line.",
-          "Make one poster written from the fridge's point of view.",
-          "Adapt it into a short newsletter letter.",
-          "Use the same characters in a brief skit, with a proper ending."
+          "Poster: a cutaway fridge giving evidence about an ownerless casserole and somebody else's missing milk.",
+          "Crib-room column: a letter from the fridge requesting that its occupants stop referring to the smell as 'a maintenance issue'.",
+          "Thirty-second skit: workers disown a mystery tub until somebody announces that the container is free to take home."
         ],
-        "first_test": "Show the poster at the size and distance intended for a noticeboard. Ask what habit it is about before discussing whether it is funny."
+        "note": "One situation with a visual version, a written voice and a performed exchange."
       },
       {
-        "title": "A recurring town cartoon",
+        "title": "The club galah",
         "steps": [
-          "Choose a fictional town and a small stable cast.",
-          "Write three independent stories from ordinary local frustrations.",
-          "Finish one single-panel cartoon and one short strip.",
-          "Prepare a clean sample package for an editor to assess."
+          "Match-day cartoon: the galah loudly coaches from the boundary while facing the wrong oval.",
+          "Gear-return notice: the same galah beside a mountain of club equipment and an empty bag labelled with its name.",
+          "Merchandise: a cap or shirt showing the galah as 'Head of Encouragement and Avoiding the Washing-Up'."
         ],
-        "first_test": "Print the cartoon at a normal newspaper column width and confirm that the smallest lettering is still comfortable to read."
-      },
-      {
-        "title": "A club mascot that does some work",
-        "steps": [
-          "Find the club habit members recognise and can laugh about.",
-          "Create an original mascot with a repeatable personality.",
-          "Make a match-day gag, a volunteer thank-you and a practical notice.",
-          "Revise with the club before considering stickers or merchandise."
-        ],
-        "first_test": "Put the three examples together and see whether members recognise the same character and voice in each."
-      },
-      {
-        "title": "Turn a good spread into a small product family",
-        "steps": [
-          "Finish a short picture-book sequence around one recognisable habit.",
-          "Select a single visual gag that still works outside the story.",
-          "Try it as a sticker or print with text resized for that object.",
-          "Make an animatic only if timing adds another laugh."
-        ],
-        "first_test": "Read the book spread aloud, then show the stand-alone design without its story. Both versions should make sense on their own."
-      },
-      {
-        "title": "Illustration attached to real task material",
-        "steps": [
-          "Start with the actual task, its current document and the responsible reviewer.",
-          "Agree exactly which steps or controls need visual support.",
-          "Draw the real equipment and setting with editable labels.",
-          "Review the images against that job, then retain the source and revision record."
-        ],
-        "first_test": "Ask the task team to walk through one drawing and identify anything missing, wrong or open to a dangerous interpretation."
-      }
-    ],
-    "first_choices": [
-      {
-        "title": "Quickest thing to put in someone's hand",
-        "pick": "A small sticker sheet or one folded booklet.",
-        "why": "A complete object with a clear size, purpose and reading moment."
-      },
-      {
-        "title": "Best way to test a recurring voice",
-        "pick": "Three newsletter columns or a short run of newspaper cartoons.",
-        "why": "Enough repetition to reveal whether the character keeps finding fresh situations."
-      },
-      {
-        "title": "Best use of Daz's lived stories",
-        "pick": "A short book sequence, camp serial or performed yarn.",
-        "why": "Room for the specific detail and the line that an invented generic gag would miss."
+        "note": "The same fictional character in a cartoon, a club notice and a wearable joke."
       }
     ],
     "sources": [

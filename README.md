@@ -38,7 +38,7 @@ The original source artwork appears in three places: home uses slides 6, 28 and 
 
 ## Systems and product pipeline
 
-Systems provides the editorial workflow, visual patterns and a browser-local image-brief builder. Product Pipeline shows how observations, jokes, factual review, artwork and format choices contribute to a finished item. Proposed books, cards, posters, animations and SWMS support remain marked as work in development.
+Systems provides the editorial workflow, visual patterns and a browser-local image-brief builder. Product Pipeline is a brainstorm of possible formats, sample concepts, country oddities and different versions of the same idea. It makes no claims about which format is best, quickest or most likely to sell.
 
 ## Rebuild
 

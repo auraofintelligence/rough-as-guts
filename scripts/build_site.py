@@ -146,29 +146,22 @@ def page_sections(page,key,heroes):
     return out
 
 def pipeline(page):
-    out='<section class="section container" id="product-routes"><h2>Pick a way out of the shed</h2>'+p('Eighteen product directions, eight stranger country ideas and a few practical ways to start.')+'<nav class="jump-nav" aria-label="Product pipeline sections">'
-    for anchor,label in [('formats','The product range'),('wildcards','Country wildcards'),('starter-routes','Starter routes'),('production','From yarn to finished thing')]:out+=link('#'+anchor,label)
-    out+='</nav><div class="first-choices">'
-    for item in page['first_choices']:out+='<article><h3>'+esc(item['title'])+'</h3>'+p(item['pick'],'punchline')+p(item['why'])+'</article>'
-    out+='</div>'+p('Working ideas and proposed pilots. No orders, partnerships or completed trials are implied.','caption')+'</section>'
-    out+='<section class="section container" id="formats"><h2>One good yarn. Plenty of places to put it.</h2>'+p('Each format needs its own joke, pacing and viewing distance. Open a lane for the seed, possible setting and smallest useful first test.')+'<div class="product-grid">'
+    out='<section class="section container" id="product-routes"><h2>Possible formats</h2>'+p('Ideas for discussion: examples to develop, change or bin.')+'<nav class="jump-nav" aria-label="Product pipeline sections">'
+    for anchor,label in [('formats','Formats & examples'),('wildcards','Country oddities'),('starter-routes','One idea, different versions')]:out+=link('#'+anchor,label)
+    out+='</nav></section>'
+    out+='<section class="section container" id="formats"><h2>Books, cartoons & other possibilities</h2>'+p('Open a format for a possible setting and an example of what we could make.')+'<div class="product-grid">'
     for i,item in enumerate(page['products'],1):
-        out+=f'<article class="product-lane" id="product-{esc(item["id"])}"><div class="lane-top"><span class="lane-number">{i:02}</span><span class="tag">{esc(item["stage"])}</span></div>'+p(item['format'],'format-label')+'<h3>'+esc(item['name'])+'</h3>'+p(item['example'])+'<details><summary>Seed, setting & first test</summary><dl><dt>The seed</dt><dd>'+esc(item['seed'])+'</dd><dt>Where it could live</dt><dd>'+esc(item['buyer_or_place'])+'</dd><dt>Smallest next step</dt><dd>'+esc(item['next_step'])+'</dd></dl>'
+        out+=f'<article class="product-lane" id="product-{esc(item["id"])}"><span class="lane-number">{i:02}</span>'+p(item['format'],'format-label')+'<h3>'+esc(item['name'])+'</h3>'+p(item['example'])+'<details><summary>Premise, setting & sample</summary><dl><dt>The premise</dt><dd>'+esc(item['seed'])+'</dd><dt>Possible setting</dt><dd>'+esc(item['buyer_or_place'])+'</dd><dt>Sample version</dt><dd>'+esc(item['next_step'])+'</dd></dl>'
         if item.get('source_url'):out+=link(item['source_url'],'Safe Work Australia: SWMS guidance')+p(item['review_note'],'caption')
         out+='</details></article>'
-    out+='</div><details class="stage-key"><summary>What the proposal stages mean</summary><dl>'
-    for item in page['stage_legend']:out+='<dt>'+esc(item['stage'].title())+'</dt><dd>'+esc(item['meaning'])+'</dd>'
-    out+='</dl></details></section>'
-    out+='<section class="section container" id="wildcards"><span class="eyebrow">COUNTRY, OUTBACK & A BIT SIDEWAYS</span><h2>Open the other shed.</h2>'+p('Things to try around ag shows, country halls, roadhouses, camp recreation rooms and club days. These are creative starting points for a local version.')+'<div class="wildcard-grid">'
+    out+='</div></section>'
+    out+='<section class="section container" id="wildcards"><span class="eyebrow">COUNTRY, OUTBACK & A BIT SIDEWAYS</span><h2>Open the other shed.</h2>'+p('A few stranger concepts for ag shows, country halls, roadhouses, camps and clubs.')+'<div class="wildcard-grid">'
     for item in page['wildcards']:
-        out+='<article><h3>'+esc(item['title'])+'</h3>'+p(item['idea'])+p(item['visual'],'scene-note')+'<details><summary>Where & how to try it</summary>'+p(item['setting'])+p('First test: '+item['pilot'])+'</details></article>'
-    out+='</div></section><section class="section container" id="starter-routes"><h2>Start with one. Let the next one earn its place.</h2><div class="route-list">'
+        out+='<article><h3>'+esc(item['title'])+'</h3>'+p(item['idea'])+p(item['visual'],'scene-note')+'<details><summary>Setting & sample</summary>'+p(item['setting'])+p(item['pilot'])+'</details></article>'
+    out+='</div></section><section class="section container" id="starter-routes"><h2>One idea, different versions</h2><div class="route-list">'
     for i,item in enumerate(page['routes'],1):
-        out+=f'<article><span class="lane-number">{i:02}</span><div><h3>{esc(item["title"])}</h3><ol>'+''.join('<li>'+esc(s)+'</li>' for s in item['steps'])+'</ol>'+p('First test: '+item['first_test'],'scene-note')+'</div></article>'
-    out+='</div></section><section class="section container" id="production"><h2>From a yarn to a finished thing</h2><ol class="production-flow">'
-    for item in page['pipeline']:
-        out+='<li><h3>'+esc(item['title'])+'</h3>'+p(item['action'])+p('Keep: '+item['output'],'caption')+'</li>'
-    out+='</ol>'+link('systems.html#brief-builder','Take an idea to the brief builder','button')+'</section>'
+        out+=f'<article><span class="lane-number">{i:02}</span><div><h3>{esc(item["title"])}</h3>'+ul(item['steps'])+p(item['note'],'scene-note')+'</div></article>'
+    out+='</div><div id="production">'+link('systems.html#brief-builder','Image brief builder','button')+'</div></section>'
     return out
 
 def main():
