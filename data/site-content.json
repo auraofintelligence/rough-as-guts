@@ -20,10 +20,10 @@
         "heading": "A whole crew of rough edges",
         "body": "Men’s and women’s editions are in development, alongside Young Crew material and workplace ideas. Different people, different situations, plenty of room for everyone to recognise themselves. The joke can follow a character, a couple, a household or an entire camp.",
         "bullets": [
-          "Men: everyday competence, relationships and the spectacular cost of “she’ll be right”.",
-          "Women: the same freedom to be funny, capable, chaotic and ready for a better way.",
-          "Young Crew: practical, school-appropriate material about growing independence.",
-          "Workplace: camp life, posters, briefings and visual support for reviewed site material."
+          "Men: borrowed tools, five-minute repairs, mystery leftovers and sideline experts.",
+          "Women: handbag archaeology, epic voice notes, op-shop rescues and feral departures.",
+          "Young Crew: growing independence with humour and practical little wins.",
+          "Worksites: shared facilities, camp life and visual support for reviewed task material."
         ]
       },
       {
@@ -79,68 +79,60 @@
   },
   "men": {
     "eyebrow": "MEN’S EDITION • IN DEVELOPMENT",
-    "title": "A few more clues for the bloke who’ll give anything a crack.",
-    "lead": "Dating, dinner, fitness, parenting and travel, plus the fine art of being useful before someone has to ask three times.",
-    "heroAlt": "A comic collection of different men cooking, packing, parenting and navigating everyday mishaps, with warmth and exaggerated expressions.",
-    "intro": "For the mate who can rebuild an engine but cannot find the laundry basket. For the dad who says he’s “babysitting” his own kids. For the bloke who has never met a job he couldn’t begin before reading the instructions. There is plenty to work with.",
+    "title": "For the bloke who reckons he’s got a system.",
+    "lead": "The five-minute repair, the borrowed tool and the fridge tub nobody will open. There’s a useful hint in here somewhere. Probably under his keys.",
+    "heroAlt": "A puzzled adult man holds a tea towel stiff as a plank beside a sink full of dishes and overflowing laundry.",
+    "intro": "Give it to the mate who returns a drill without the charger. The brother whose leftovers have survived two governments. The partner who says “nearly done” from inside a wall. These proposed chapters give a few familiar habits a proper roasting, with enough affection that he might still lend you the book afterwards.",
     "sections": [
       {
-        "heading": "Dating: bring your ears",
-        "body": "A proposed guide to manners, listening, respectful boundaries and enjoying someone’s company without performing a one-man tribute to yourself. The funny bit is the gap between how charming you think you are and what the other person is actually experiencing.",
+        "heading": "The Five-Minute Job Needs a Site Office",
+        "body": "He went in to tighten a cupboard handle. The door is off, the contents are on the floor and he’s explaining why the whole kitchen was badly designed anyway. There are now three hardware receipts and no available bench space. This chapter is for the enthusiastic starter whose family would quite like to see him finish something.",
         "bullets": [
-          "Ask a question. Let the answer finish.",
-          "Make plans that consider both people.",
-          "Take a clear answer seriously.",
-          "Leave room for kindness, nerves and an ordinary human conversation."
-        ]
+          "“While I’m here” is how a loose screw becomes a renovation.",
+          "The instruction sheet is currently protecting the bench from his coffee.",
+          "He’s saved forty dollars. The household has lost Saturday."
+        ],
+        "picture_idea": "A man stands proudly beside a cupboard stripped into dozens of parts. His partner holds one loose handle, and a tiny site office has appeared at the end of the kitchen bench."
       },
       {
-        "heading": "Exercise: the sequel matters",
-        "body": "The first workout makes a fine story. A routine you can return to is more useful. These concepts explore overdoing the grand entrance, skipping the basics and buying enough equipment to open a very small gym.",
+        "heading": "The Fridge Witness Protection Program",
+        "body": "Every container has a lid. Very few have an explanation. He lifts one, says “still smells alright” and promptly asks if anyone wants takeaway. The comedy lives in the leftovers he keeps out of principle, the sauce bottles with one teaspoon left and the empty milk carton thoughtfully returned to the shelf. A clean-out would answer several household questions.",
         "bullets": [
-          "Learn what the movement is supposed to look like.",
-          "Choose an effort you can build on.",
-          "Make room for recovery and a realistic schedule.",
-          "Let progress be a reason to keep going."
-        ]
+          "“That’s from Tuesday.” Which Tuesday has been referred to the archives.",
+          "The good container has been missing since the curry incident.",
+          "Putting an empty carton back is a very small act of warfare."
+        ],
+        "picture_idea": "A man peers into a fridge full of identical tubs. Several wear tiny disguises, while a family member holds the missing container’s lid like a detective displaying evidence."
       },
       {
-        "heading": "Cooking, cleaning and hygiene: participate in the civilisation",
-        "body": "Feed yourself. Clean up what you use. Notice the jobs that appear to do themselves because somebody else keeps doing them. The proposed pages turn ordinary domestic friction into jokes people can recognise without needing a family argument first.",
+        "heading": "The Apology Has Footnotes",
+        "body": "He’s sorry, obviously. First he needs twelve minutes to establish the weather, the traffic, the quality of the signage and what his mate would have done. By the time he reaches “but”, everyone has forgotten the original offence. These pages follow the heroic effort involved in saying a simple thing without turning it into an appeal hearing.",
         "bullets": [
-          "A meal includes what happens to the kitchen afterwards.",
-          "The washing basket is a location, not a theory.",
-          "Replace the thing you finished.",
-          "Personal hygiene travels with you to work, dates and shared rooms."
-        ]
+          "“I’m sorry you took it that way” has arrived wearing a fake moustache.",
+          "His explanation now needs a whiteboard and a second witness.",
+          "Try “I stuffed that up.” There’s still time to enjoy the afternoon."
+        ],
+        "picture_idea": "Different adults sit around a backyard table while an apologising man presents an absurdly long flowchart. A small card reading “Sorry. My fault.” waits unused beside his elbow."
       },
       {
-        "heading": "Parenting: you’re on the team",
-        "body": "The proposed parenting material finds humour in lost hats, missing forms, bedtime negotiations and adults who pack for themselves before checking the child’s bag. Useful habits start with paying attention and sharing responsibility.",
+        "heading": "The Borrowed Drill Has Changed Families",
+        "body": "A mate lent him a drill for the weekend. It now has a regular parking spot, a preferred shelf and possibly voting rights at his place. Meanwhile the owner has bought another one. This chapter collects the missing chargers, blunt blades and mysterious accessories that make lending a tool feel like sponsoring a very expensive exchange student.",
         "bullets": [
-          "Know the plan and the important details.",
-          "Take ownership of a whole task.",
-          "Give a child your attention without a running commentary from your phone.",
-          "Make room for another parent’s approach and the child’s actual needs."
-        ]
+          "“Just finishing with it” is entering its third financial year.",
+          "He returned the case. A bold opening offer.",
+          "A borrowed mower should come home with fewer problems than it left with."
+        ],
+        "picture_idea": "A borrowed drill poses in a framed family photo in a man’s shed. Outside, its original owner waits with an empty case and an increasingly patient expression."
       },
       {
-        "heading": "Travel: being ready is surprisingly relaxing",
-        "body": "From a weekend on the island to a longer trip, the gag is usually hiding in a missing booking, an impossible suitcase or someone who thinks local rules are suggestions addressed to other people.",
+        "heading": "The Sideline Has a New National Coach",
+        "body": "It’s an under-tens game at the suburban oval or the country rec ground. He’s arrived with tactical concerns normally reserved for a World Cup final. His child is more interested in the orange slices. These pages find the point where enthusiastic support becomes a full broadcast, complete with disputed decisions and an audience trying to watch their own kids.",
         "bullets": [
-          "Check the destination, timing and essentials.",
-          "Pack for the trip you are taking.",
-          "Share the planning and the carrying.",
-          "Treat hosts, staff and fellow travellers like people."
-        ]
-      },
-      {
-        "heading": "The gift angle",
-        "body": "Give it to your brother, partner, dad or mate with affection and a fairly straight face. Leave room for him to point at a page and say, “That’s you.” The best version of this book can survive being passed around the table.",
-        "bullets": [
-          "Every topic on this page is in development.",
-          "Sample gags show the intended tone and are not finished products."
-        ]
+          "The coach has a plan. Apparently Dad has a louder one.",
+          "His match analysis lasted longer than the match.",
+          "The kid asked for a lift home, not a performance review."
+        ],
+        "picture_idea": "Several parents watch a small junior sports game. One dad has unfolded a giant tactics board beside the esky while his child offers him an orange slice and a quiet seat."
       }
     ],
     "sample_gags": [
@@ -169,68 +161,60 @@
   },
   "women": {
     "eyebrow": "WOMEN’S EDITION • IN DEVELOPMENT",
-    "title": "For the woman who has plenty going on. Including that pile.",
-    "lead": "Everyday chaos deserves a good joke and a useful way through it. Dating, exercise, home life, parenting and travel are all on the drawing board.",
-    "heroAlt": "A lively comic montage of different women handling travel bags, an ambitious workout, a cooking mishap and everyday family life.",
-    "intro": "Women can be organised, impulsive, practical, messy, confident and completely over it. Sometimes before breakfast. This proposed edition has room for that range, with humour drawn from recognisable behaviour and the gap between the plan and what actually happened.",
+    "title": "For the woman who calls this “under control”.",
+    "lead": "The handbag excavation, the five-minute voice note and the dog who pre-rinses the dishes. A few rough edges deserve their own illustrated guide.",
+    "heroAlt": "An amused adult woman holds a forgotten leftovers jar wearing a tiny birthday hat in front of an open fridge.",
+    "intro": "For the friend who brings home another “easy restoration”. The sister whose quick message needs an intermission. The partner who arrives looking immaculate and leaves holding her shoes and someone else’s cake. Give her a laugh and a fairly obvious hint. These proposed chapters have plenty of mess, cheek and questionable judgement to go round.",
     "sections": [
       {
-        "heading": "Dating: excellent company starts with two people",
-        "body": "The proposed dating pages cover clear communication, mutual effort, boundaries and the temptation to turn a person you have just met into a project. There is comedy in the group-chat analysis; there is value in a straightforward conversation.",
+        "heading": "Your Handbag Has Applied for a Mining Lease",
+        "body": "She can produce pliers, emergency earrings and a cough lolly from a previous decade. Finding the house key requires a full excavation on the café table. Somewhere beneath the useful stuff is a sandwich she has stopped asking questions about. This chapter celebrates being prepared for almost anything, provided nobody needs it within the next twenty minutes.",
         "bullets": [
-          "Say what you want with room for an honest answer.",
-          "Notice how someone behaves over time.",
-          "Keep your own interests and friendships.",
-          "Let kindness and mutual respect do some of the heavy lifting."
-        ]
+          "She offered you a mint, then blew the handbag fluff off it.",
+          "The receipt says 2019. The banana has declined to comment.",
+          "Her keys are in the safe place. Unfortunately, so is everything else."
+        ],
+        "picture_idea": "A woman empties an enormous handbag across a small café table. A tiny excavator works through receipts while her friend holds up one key and a remarkably old banana."
       },
       {
-        "heading": "Exercise: the outfit has done its shift",
-        "body": "The clothes are ready. The saved workouts are numerous. These concepts find the joke in preparation that becomes a hobby of its own, then bring attention back to a manageable start and a routine that fits your life.",
+        "heading": "That Quick Voice Note Needs an Interval",
+        "body": "She’s walking through the supermarket or waiting outside the rural post office, recording “one quick thing”. It includes a family dispute, an unrelated dog sighting and every item currently on special. The intended listener only asked which milk to buy. These pages explore the moment a handy message becomes a podcast with accidental public participation.",
         "bullets": [
-          "Choose something you can begin and return to.",
-          "Learn the basics before adding complexity.",
-          "Give recovery a place in the plan.",
-          "Let your own progress be useful information."
-        ]
+          "The checkout operator is now invested in what happened at Christmas.",
+          "“Long story short” was four minutes ago.",
+          "Her friend replies, “So, full cream or skim?”"
+        ],
+        "picture_idea": "A woman records a voice note beside a supermarket fridge. Her speech bubble winds through several aisles, and the checkout operator holds a tiny interval sign."
       },
       {
-        "heading": "Cooking, cleaning and hygiene: shared space, shared effort",
-        "body": "A good home-life gag can belong to anyone. The dinner experiment, the chair covered in clothes and the bathroom cupboard with six almost-empty bottles all provide material. So does the assumption that the person most bothered by a mess must manage everybody’s response to it.",
+        "heading": "The Op-Shop Rescue Has Rescued Your Spare Room",
+        "body": "A cracked birdbath. A cabinet without handles. A lamp with a plug nobody recognises. She can see the potential, and everybody else can see the trailer filling up. The clean-up, the repairs and the question of where it will live belong to future her. Future her would quite like a word before the next council collection.",
         "bullets": [
-          "Make everyday jobs visible and share ownership.",
-          "Finish the task, including putting things away.",
-          "Keep food and shared spaces fit for the people using them.",
-          "Build habits that help when time and patience are running low."
-        ]
+          "“It only needs a quick sand” has swallowed another long weekend.",
+          "She bought a second cabinet to store the bits for the first cabinet.",
+          "The bargain was fifteen dollars. Getting the car back in the garage is looking dearer."
+        ],
+        "picture_idea": "A woman beams beside a trailer of dubious second-hand treasures. A family member attempts to reach the garage through a narrow corridor of unfinished rescues."
       },
       {
-        "heading": "Parenting: capable adults can still forget the hat",
-        "body": "The proposed parenting material makes room for affection, exhaustion and the sheer logistics of getting people out of a house. The useful point is often a small shared habit: checking the bag, knowing the plan or giving a child a calm moment of attention.",
+        "heading": "Five-Star Entrance. Feral Departure.",
+        "body": "She arrives at the wedding, the races or the bowls-club do looking magnificent. Hours later, the shoes are in a chip box and she’s carrying cake on a raffle ticket. The outfit has survived through determination and one overloaded safety pin. This chapter follows the grand exit of someone who insists she has packed everything she could possibly need.",
         "bullets": [
-          "Share the planning as well as the errands.",
-          "Know which details matter today.",
-          "Give children room to learn ordinary skills.",
-          "Let a small mistake become a useful adjustment."
-        ]
+          "The emergency flats are safely at home, having an excellent night.",
+          "She’s holding the good shoes like two freshly caught fish.",
+          "The clutch fits a lipstick. The evening has required a small removal truck."
+        ],
+        "picture_idea": "A comic triptych shows three different women leaving adult social events: shoes in a chip box, cake balanced on a raffle ticket and an immaculate fascinator above a very improvised outfit repair."
       },
       {
-        "heading": "Travel: one actual trip at a time",
-        "body": "Packing for every possible version of yourself can leave very little room for the person taking the trip. These pages explore luggage optimism, booking confusion, group decisions and the pleasure of checking an essential detail before departure.",
+        "heading": "The Dog Is Not the Dishwasher",
+        "body": "The dog shares the couch, the car seat and increasingly the cutlery. She calls his interest in the roast “helping”, then wipes a licked spoon on her jeans before putting it back. Visitors have begun guarding their plates. These pages give the much-loved family pest a break from his self-appointed job as head of kitchen quality control.",
         "bullets": [
-          "Read what the booking includes.",
-          "Agree on timing, budget and expectations.",
-          "Pack useful essentials where you can find them.",
-          "Leave some patience for delays and other people."
-        ]
-      },
-      {
-        "heading": "A gift with a grin",
-        "body": "For a friend, sister, partner, mum or co-worker who will recognise a page and immediately name someone else. An edition like this should be funny enough to share and useful enough to keep within reach.",
-        "bullets": [
-          "Every topic on this page is in development.",
-          "These concepts are examples of tone, with no finished edition currently offered here."
-        ]
+          "“He only licked the handle.” A defence nobody requested.",
+          "The dog has a seat at dinner and absolutely no qualifications.",
+          "She licked the serving spoon. Even the dog looked concerned."
+        ],
+        "picture_idea": "A woman stands beside a dog wearing a tiny kitchen-inspector badge. A guest protects a plate while a proper washing-up brush and sink wait conspicuously in the background."
       }
     ],
     "sample_gags": [
@@ -412,59 +396,11 @@
   },
   "library": {
     "eyebrow": "SOURCE LIBRARY • ORIGINAL DECK",
-    "title": "Forty-five slides. Plenty to work with.",
+    "title": "The whole original pile. All 45 slides.",
     "lead": "The starting material: big headlines, Australian comic humour, mine life, camp life and everyday rough edges.",
     "heroAlt": "A visual archive of original Rough as Guts illustrated pages arranged as a browsable collection, with varied subjects and layouts.",
-    "intro": "This library preserves the content of the original 45-slide PowerPoint as a source archive. It helps us see what is already there, spot patterns, compare ideas and build future briefs from the actual material.",
-    "sections": [
-      {
-        "heading": "Browse the idea, the words and the picture",
-        "body": "Each source item can be understood in layers: its subject, the exact visible copy, the panel order and what the illustration actually shows. Keeping those layers visible helps a new version stay faithful to the good idea while making deliberate changes.",
-        "bullets": [
-          "Original slide order and titles.",
-          "Readable headings, captions, speech and checklist copy.",
-          "Observed characters, actions, props and settings.",
-          "Notes on unclear lettering and incomplete wording.",
-          "Visible differences between the copy and the picture."
-        ]
-      },
-      {
-        "heading": "A source archive with all its rough edges",
-        "body": "Some originals contain skipped step numbers, inherited headings, garbled lettering or scenes that do not quite match their captions. Those details are useful evidence of what needs attention. A faithful catalogue records them so a later revision can be a conscious choice.",
-        "bullets": [
-          "Original wording stays identifiable.",
-          "Unclear fragments stay marked as unclear.",
-          "New wording and proposed changes belong to a separate revision.",
-          "The original deck remains the point of comparison."
-        ]
-      },
-      {
-        "heading": "Topics you’ll find here",
-        "body": "The deck ranges across mine and camp situations, daily habits and distinctly Australian comic scenarios. Some pages use numbered steps and a checklist; others work as four-panel guides or illustrated notices.",
-        "bullets": [
-          "Workplace hazards, equipment and site movement.",
-          "Camp etiquette, shared spaces and fatigue themes.",
-          "Hygiene, everyday competence and getting along.",
-          "Australian wildlife and backyard barbecue satire.",
-          "Different layouts worth testing for future guides."
-        ]
-      },
-      {
-        "heading": "Read the status with the content",
-        "body": "The originals include satire and unverified safety, medical and behavioural claims. Their presence in the archive records the source material; it does not establish that the advice is correct or suitable for training. Any proposed educational use needs review for that subject and setting.",
-        "bullets": [
-          "Original archive: the supplied material.",
-          "Catalogue: a structured description of the supplied material.",
-          "In development: a proposed new topic, adaptation or format.",
-          "Reviewed material: a status a particular future item would need to earn through its own checks."
-        ]
-      },
-      {
-        "heading": "Use the archive to make a better brief",
-        "body": "Choose a source idea, say what makes it funny and identify the point worth keeping. Then describe the specific changes needed: clearer wording, a different audience, a more accurate scene or a new format. The Systems page provides a practical way to do that.",
-        "bullets": []
-      }
-    ]
+    "intro": "Daz’s supplied deck lives here in full: 42 original images and three text-only introduction slides. Search a topic, open a slide for readable wording and scene notes, or compare the exact original with its optimised web copy below.",
+    "sections": []
   },
   "systems": {
     "eyebrow": "HOW THE IDEAS GET BETTER",
@@ -595,137 +531,422 @@
       }
     ]
   },
-  "provenance": {
-    "eyebrow": "ABOUT & PROVENANCE",
-    "title": "Every good guide starts somewhere a bit rough.",
-    "lead": "Rough as Guts is a developing collection of funny illustrated ideas about habits, practical skills and getting along.",
-    "heroAlt": "A well-used original comic page beside annotated sketches and a clearer new concept, showing the evolution of an idea.",
-    "intro": "The starting material is a 45-slide deck covering mine work, camp life, shared spaces and broader Australian humour. The project is exploring how that voice could grow into useful, memorable material for different readers.",
-    "sections": [
-      {
-        "heading": "What the name is doing",
-        "body": "Rough as Guts gives the humour a familiar Australian starting point: a bit blunt, a bit grubby and quite capable of making a job harder than it needs to be. The pages work best when someone recognises a habit and laughs before considering a better way.",
-        "bullets": [
-          "Affectionate observation.",
-          "Recognisable situations.",
-          "A useful point.",
-          "Room for the reader to laugh at the author too."
-        ]
-      },
-      {
-        "heading": "Different readers, different editions",
-        "body": "Men’s, women’s and Young Crew concepts are in development alongside workplace formats. Each audience needs its own language, situations and review. There is room for different characters and points of view throughout the collection.",
-        "bullets": [
-          "Adult life, relationships and everyday competence.",
-          "Young people learning practical independence.",
-          "Crews sharing work and camp facilities.",
-          "Family, friends and co-workers choosing a gift with a hint."
-        ]
-      },
-      {
-        "heading": "How to read the material here",
-        "body": "The source archive preserves what was supplied. The catalogue describes its visible content. New gags, editions and formats are proposals marked in development. The original deck includes unverified safety and medical statements and is not presented as endorsed training.",
-        "bullets": [
-          "Source wording and source imagery remain identifiable.",
-          "Unclear text and visible inconsistencies are recorded.",
-          "Proposed revisions can change the joke, wording or scene deliberately.",
-          "Any future claim of review belongs to the particular item reviewed."
-        ]
-      },
-      {
-        "heading": "AI imagery, human decisions",
-        "body": "AI-generated imagery is central to the proposed picture-book approach. People still choose the observation, write the useful point, decide whether a joke is fair and check whether the picture communicates it accurately. An attractive image earns its place by helping the page work.",
-        "bullets": [
-          "Clear briefs before image generation.",
-          "Specific review of copy and pictures.",
-          "Attention to audience, dignity and context.",
-          "Versions kept with their source and revision notes."
-        ]
-      },
-      {
-        "heading": "What is being explored",
-        "body": "Books, small guides, workshop posters, cards, newsletters, manual illustrations and short animations are possible formats. Dating, exercise, cooking and cleaning, hygiene, parenting and travel are proposed topic areas. Each needs a useful point, a good joke and a format people will enjoy reading. These ideas are in development.",
-        "bullets": []
-      }
-    ]
-  },
   "sitemap": {
     "eyebrow": "FIND YOUR WAY",
     "title": "The whole place, minus the wandering around.",
     "lead": "Browse the audiences, explore the source material or see how an idea becomes a useful picture.",
     "heroAlt": "A playful illustrated signpost pointing toward adult guides, Young Crew, workplace material and the source library.",
-    "intro": "New editions and topics are in development. The library holds the original source deck; Systems explains the working process behind clearer copy and better image briefs.",
+    "intro": "Choose an edition, browse Daz’s complete original deck, shape a new image brief in Systems or explore the formats and country wildcards in the Product pipeline.",
+    "sections": []
+  },
+  "pipeline": {
+    "eyebrow": "THE ROUGH AS GUTS PRODUCT SHED",
+    "title": "A book is one way out of the shed.",
+    "lead": "A good yarn could become a cartoon, a sticker, a skit, a club mascot or something stuck to the back of a dunny door. Here are some things worth trying.",
+    "heroAlt": "Four fictional adults develop and display wordless galah comic books, posters, storyboards, stickers, a cap and T-shirts at a country-show creative stall.",
+    "intro": "A missing 10 mm socket could carry a single-panel joke or a whole detective series. A camp-fridge argument could become a newsletter column, a short skit or a poster written by the fridge itself. The trick is to give each version a reason to exist and make a small one before building a mountain of them.",
+    "proposal_notice": "Everything on this page is a proposed direction. Product names are working titles. Places and buyers are examples to explore, with no partnership, order, sale or completed pilot implied.",
+    "stage_legend": [
+      {
+        "stage": "sketch",
+        "meaning": "A proposed idea ready for a first draft."
+      },
+      {
+        "stage": "small pilot",
+        "meaning": "A proposed first test sized to make and show. No completed trial is claimed."
+      },
+      {
+        "stage": "requires task review",
+        "meaning": "A proposal that needs a check against the actual task, source material and intended use before release."
+      }
+    ],
     "sections": [
       {
-        "heading": "Home",
-        "body": "The gift premise, the overall idea and a taste of the humour.",
+        "heading": "Start with something somebody actually does",
+        "body": "The best raw material is often a tiny act of misplaced confidence: the shortcut that added an hour, the empty milk carton returned to the fridge, the mate who thinks bringing a chair counts as helping. Write down the action and the line someone said. Then look for the picture.",
         "bullets": [
-          "For someone whose habits drive you nuts but who you still quite like.",
-          "See proposed audiences, topics and formats."
+          "What did they expect to happen?",
+          "What actually happened?",
+          "Which one moment would another person recognise immediately?"
         ]
       },
       {
-        "heading": "Men",
-        "body": "A proposed adult edition covering relationships, exercise, home skills, parenting and travel.",
+        "heading": "Give the format a job",
+        "body": "A sticker has to land in a glance. A newspaper cartoon needs a fresh angle. A book can let a character make the same mistake three increasingly ridiculous ways. A skit gets to use silence, timing and the mate watching it all go wrong.",
         "bullets": [
-          "Recognisable bloke behaviour.",
-          "Sample gags and useful everyday themes."
+          "A laugh to share or a gift with a hint.",
+          "A recurring character people can follow.",
+          "A useful explanation people can recall.",
+          "An identity a club or event can make its own."
         ]
       },
       {
-        "heading": "Women",
-        "body": "A proposed adult edition with a broad range of characters, situations and everyday rough edges.",
-        "bullets": [
-          "Dating, exercise, shared responsibilities, parenting and travel.",
-          "Sample gags with warmth and bite."
-        ]
+        "heading": "The source deck is the starting pile",
+        "body": "The existing slides give us characters, layouts, subjects and plenty of things to improve. New product ideas can borrow a strong situation while getting their own artwork, lettering and format. A finished version should have a clear source record and its own revision history.",
+        "bullets": []
+      }
+    ],
+    "pipeline": [
+      {
+        "id": "catch",
+        "title": "Catch the real habit",
+        "action": "Save the story, the exact line and the small detail that makes it recognisable.",
+        "output": "A short seed note with the source and the intended useful point.",
+        "example": "A mate spends twenty minutes looking for a tool he is already holding."
       },
       {
-        "heading": "Young Crew",
-        "body": "School-appropriate concepts for growing independence and everyday skills.",
-        "bullets": [
-          "Home, school, messages, friends and getting ready.",
-          "Respectful humour and manageable next actions."
-        ]
+        "id": "choose",
+        "title": "Choose one home for it",
+        "action": "Pick the place it will be encountered and the time it gets from the reader.",
+        "output": "One format and a definite first audience context.",
+        "example": "A one-panel shed sticker gets one glance. A three-page detective yarn gets a proper read."
       },
       {
-        "heading": "Workplace",
-        "body": "Mine-and-camp ideas, possible formats and the review a workplace adaptation needs.",
-        "bullets": [
-          "Posters, briefings, cards, booklets and manual illustrations.",
-          "Proposed support for reviewed procedures and SWMS material."
-        ]
+        "id": "pilot",
+        "title": "Make the smallest complete version",
+        "action": "Finish one spread, poster, strip, sticker sheet or short scene with readable lettering.",
+        "output": "A thing people can actually react to.",
+        "example": "One four-panel case for the Ten Millimetre Detective Agency."
       },
       {
-        "heading": "Library",
-        "body": "The original 45-slide deck and a structured catalogue of its contents.",
-        "bullets": [
-          "Source words, panels, scenes and checklists.",
-          "Unclear lettering, source issues and unverified claims identified."
-        ]
+        "id": "read",
+        "title": "See what people get",
+        "action": "Show it in the intended size. Ask what happened, where the laugh was and what point stayed with them.",
+        "output": "Specific changes to the joke, sequence, picture or type.",
+        "example": "If everyone spots the missing socket but nobody understands the final panel, change that panel."
       },
       {
-        "heading": "Systems",
-        "body": "A practical development workflow and a short image-brief form.",
-        "bullets": [
-          "Capture observations, compare jokes and blend ideas.",
-          "Brief, review, revise and adapt the result."
-        ]
+        "id": "check",
+        "title": "Revise and check the point",
+        "action": "Keep the strongest joke, fix confusing artwork and check factual claims against suitable sources. Task-based material needs the relevant task owner and reviewer.",
+        "output": "An approved version with dated source notes and the final text.",
+        "example": "The workshop joke can stay broad. A drawing for an actual work method must match that job."
       },
       {
-        "heading": "About & provenance",
-        "body": "Where the material begins, what the project is exploring and how to read its status.",
-        "bullets": [
-          "Original archive and proposed new work.",
-          "AI imagery and human editorial decisions."
-        ]
+        "id": "release",
+        "title": "Release the versions that earn their keep",
+        "action": "Adapt the approved idea to a few useful sizes and contexts, then keep feedback with the source.",
+        "output": "A small set of finished files, with the original and derivatives clearly identified.",
+        "example": "The same socket case becomes a newspaper strip, a poster and a short animation with different pacing."
+      }
+    ],
+    "products": [
+      {
+        "id": "gift-books",
+        "name": "Gift picture books",
+        "format": "Illustrated books and themed collections",
+        "seed": "Someone you love treats every household job as an optional side quest.",
+        "example": "The Museum of Things I'll Fix: a guided tour of temporary repairs that have become family heirlooms. Each spread introduces another magnificent exhibit and the person defending it.",
+        "buyer_or_place": "Proposed gift-shop, bookshop, club stall, roadhouse shelf or direct-order edition.",
+        "next_step": "Finish one cover and three connected spreads. Print them at intended reading size and see whether people want to turn the page.",
+        "stage": "sketch"
       },
       {
-        "heading": "Sitemap",
-        "body": "You are here. A rare planning success.",
-        "bullets": [
-          "All nine pages in one place."
-        ]
+        "id": "pocket-guides",
+        "name": "Small guides for very specific disasters",
+        "format": "Pocket booklets, zines and fold-out guides",
+        "seed": "The first trip away from home exposes all the things somebody else used to do.",
+        "example": "Your First Week Feeding Yourself: a character discovers that a cupboard full of sauces is a recipe for owning sauces. One spread follows a meal from shopping list to the final washing-up.",
+        "buyer_or_place": "Proposed gift packs, local shops, camp welcome packs, library activities or leaving-home presents.",
+        "next_step": "Make one eight-page folded booklet around a single ordinary-life theme.",
+        "stage": "small pilot"
+      },
+      {
+        "id": "posters",
+        "name": "The fridge has lodged a complaint",
+        "format": "Posters and noticeboard series",
+        "seed": "The shared fridge is full, nobody owns the smell and everybody owns the good milk.",
+        "example": "A mock statement from the fridge: 'I can keep it cold. I can't make it yours.' A cutaway scene shows labelled lunch boxes, a mystery tub and a worker trying to deny a very familiar casserole dish.",
+        "buyer_or_place": "Proposed camp noticeboards, club kitchens, lunchrooms, sheds and community halls.",
+        "next_step": "Make one large-type poster and one smaller noticeboard version. Check both from the distance people will actually stand.",
+        "stage": "small pilot"
+      },
+      {
+        "id": "newsletter",
+        "name": "The Crib Room Correspondent",
+        "format": "Newsletter column and recurring email feature",
+        "seed": "An everyday object gets a right of reply.",
+        "example": "The kettle writes to management about being left empty. Next issue, the broom responds to allegations that it has never been seen during a shift.",
+        "buyer_or_place": "Proposed club, workplace, camp, association or community newsletters.",
+        "next_step": "Draft three short columns with one image each so an editor can judge whether the idea has legs.",
+        "stage": "sketch"
+      },
+      {
+        "id": "magazine",
+        "name": "The Rough as Guts Quarterly",
+        "format": "Magazine, seasonal annual or mini newspaper",
+        "seed": "Several good recurring bits deserve to live together.",
+        "example": "One issue could contain a shed cartoon, a camp-life letter, a 'spot the pointless extra step' puzzle, a character interview and the Lost Property Awards.",
+        "buyer_or_place": "Proposed local-shop counter, club reading pile, ag-show stall or direct subscription test.",
+        "next_step": "Build a short sample issue from finished material and test whether the mix feels like a publication people would keep.",
+        "stage": "sketch"
+      },
+      {
+        "id": "newspaper-cartoons",
+        "name": "Bush Telegraph Toons",
+        "format": "Single-panel newspaper cartoons and four-panel strips",
+        "seed": "A small-town inconvenience becomes an absurd public institution.",
+        "example": "A pothole gets its own office, waiting room and retirement plaque while the road crew tries to find its original job number. The subject is bureaucracy, with room for a different local gripe each week.",
+        "buyer_or_place": "Proposed country newspapers, community news sheets, town newsletters and local websites.",
+        "next_step": "Create three self-contained cartoons in the same cast and supply both a column-width and a large-print proof.",
+        "stage": "sketch"
+      },
+      {
+        "id": "jokes",
+        "name": "The Short Yarn Department",
+        "format": "Caption jokes, illustrated one-liners and share cards",
+        "seed": "A character has an impressive explanation for doing the simplest thing badly.",
+        "example": "A worker presents an elaborate diagram of where the missing broom could be. Behind him, it is holding the door open.",
+        "buyer_or_place": "Proposed newsletter fillers, club screens, social feeds, calendars and printed cards.",
+        "next_step": "Write a dozen setups, choose the strongest three and test the pictures with the captions temporarily hidden.",
+        "stage": "small pilot"
+      },
+      {
+        "id": "comedy-skits",
+        "name": "The Five-Minute Job",
+        "format": "Comedy sketches, short scripts and performed video",
+        "seed": "A tiny repair attracts a committee and turns into a major operation.",
+        "example": "Two mates begin with a loose cupboard handle. Each helpful arrival brings a larger tool and a longer explanation. The quiet person who fetched the right screw finishes the job while the committee is still discussing access.",
+        "buyer_or_place": "Proposed hall gigs, club nights, short video series and camp entertainment.",
+        "next_step": "Write and read aloud one short scene with a clear ending. Test the timing before producing animation or filming.",
+        "stage": "sketch"
+      },
+      {
+        "id": "stickers",
+        "name": "Small signs with a point",
+        "format": "Sticker sheets, labels, magnets and removable decals",
+        "seed": "The joke belongs exactly where the habit happens.",
+        "example": "A dishwasher sticker reads 'A cupboard with consequences' above a tiny character carefully stacking a plate. A shared-food label says 'This has an owner. Apparently that's me.'",
+        "buyer_or_place": "Proposed club kitchens, households, lunch boxes, sheds, welcome packs and gift bundles.",
+        "next_step": "Mock up one small sheet. Check lettering at actual size and choose surfaces that suit the material.",
+        "stage": "small pilot"
+      },
+      {
+        "id": "swms",
+        "name": "Illustrated support for the actual SWMS",
+        "format": "Task drawings and visual companions to reviewed safe work method statements",
+        "seed": "A task-specific document needs pictures that help workers connect the written sequence to the real job.",
+        "example": "Use the equipment, location and sequence in a supplied, reviewed SWMS to draw a matching task sheet. The responsible task team checks every depicted control and step before it becomes part of their material.",
+        "buyer_or_place": "A proposed service for organisations that already own the task, document and review process.",
+        "next_step": "Choose one actual task with its responsible reviewer. Agree the source document and illustration brief, then review the drawings with the people doing that work.",
+        "stage": "requires task review",
+        "source_url": "https://www.safeworkaustralia.gov.au/doc/safe-work-method-statement-high-risk-construction-work-information-sheet",
+        "review_note": "Safe Work Australia's guidance describes SWMS for high risk construction work. This proposal is illustration support tied to the specific work and its review process."
+      },
+      {
+        "id": "animation",
+        "name": "The Ten Millimetre Detective Agency",
+        "format": "Short animation, loops and recurring episodes",
+        "seed": "The smallest missing tool gets the grandest investigation.",
+        "example": "A trench-coated socket interviews a toolbox, a ute seat and a suspiciously innocent magnetic tray. The final witness is the bloke who put it somewhere safe.",
+        "buyer_or_place": "Proposed short-video channels, club screens, event displays and companion content for books.",
+        "next_step": "Storyboard one case and make a short animatic with temporary sound before committing to finished animation.",
+        "stage": "sketch"
+      },
+      {
+        "id": "merch",
+        "name": "Objects that carry the joke",
+        "format": "Tea towels, mugs, aprons, shirts, calendars and shed prints",
+        "seed": "A useful household object comments on the job it keeps being denied.",
+        "example": "A tea towel shows the Workload Forecast: dishes gathering over the sink, clearing after someone actually dries them. An apron gives the cook a dramatic title beside a very modest meal.",
+        "buyer_or_place": "Proposed gift stalls, club fundraisers, roadhouses, small shops and direct-order bundles.",
+        "next_step": "Pick one design that works on one object. Make a sample and check that the artwork survives seams, handles, folds and normal viewing distance.",
+        "stage": "sketch"
+      },
+      {
+        "id": "sports-clubs",
+        "name": "Give the club a larrikin",
+        "format": "Sports-club mascots, match-day cartoons and junior activity sheets",
+        "seed": "Every club has a character who can call a mark across the oval and miss the roster on the wall.",
+        "example": "A fictional galah mascot announces itself as Head of Encouragement and Avoiding the Washing-Up. It can star in a match-day strip, a volunteer thank-you, a gear-return reminder and a junior colouring page.",
+        "buyer_or_place": "Proposed footy, cricket, bowls and other sports clubs, with each club helping shape its own character.",
+        "next_step": "Invent one original mascot with a club, then make one match-day cartoon and one practical club notice in that voice.",
+        "stage": "sketch"
+      },
+      {
+        "id": "public-issue-campaigns",
+        "name": "Political campaigns & public-issue cartoons",
+        "format": "Generic public-facing issue cartoons, campaign posters and explainer strips",
+        "seed": "An ordinary public problem is buried under grand language and an unhelpful process.",
+        "example": "Shed Parliament debates who left the gate open while a goat eats the minutes. A separate factual panel explains the relevant public process using checked, clearly sourced information.",
+        "buyer_or_place": "Proposed public exhibitions, community papers, civic information projects and issue-based public campaigns.",
+        "next_step": "Pick one publicly relevant issue, define the factual question and create a stand-alone cartoon plus a checked explanation. Review claims and publication requirements for its actual use.",
+        "stage": "requires task review",
+        "scope": "General public-facing issues and satire. Concepts are not tailored to demographic groups or voter profiles."
+      },
+      {
+        "id": "noticeboard-serials",
+        "name": "Next week on the noticeboard",
+        "format": "Serial comic panels and rotating community displays",
+        "seed": "A character's unfinished job keeps acquiring new consequences.",
+        "example": "A lost property box begins as one lonely glove. Each instalment gives it a new resident, a new rule and eventually a committee demanding a larger box.",
+        "buyer_or_place": "Proposed camp noticeboards, halls, club foyers, libraries and community shops.",
+        "next_step": "Draw three instalments that work individually and reward anyone who sees the whole run.",
+        "stage": "small pilot"
+      },
+      {
+        "id": "live-readings",
+        "name": "A yarn, a picture and a room full of mates",
+        "format": "Illustrated readings, hall-night comedy and caption contests",
+        "seed": "The audience recognises the habit before the narrator finishes the setup.",
+        "example": "Put a silent picture of a wildly overpacked ute on screen. Read three increasingly confident explanations, then reveal the one thing its owner forgot.",
+        "buyer_or_place": "Proposed country halls, bowls clubs, show events, libraries and informal club entertainment.",
+        "next_step": "Prepare a short set from a few finished images and rehearse the read aloud. Use the response to improve the captions.",
+        "stage": "sketch"
+      },
+      {
+        "id": "audio",
+        "name": "The Kettle Has the Floor",
+        "format": "Short audio yarns, radio-ready sketches and narrated cartoons",
+        "seed": "One recurring voice can report from the same fictional shed every week.",
+        "example": "The shed radio carries an urgent bulletin about a missing 10 mm socket. A caller offers a completely unrelated socket and a twenty-minute story about where it came from.",
+        "buyer_or_place": "Proposed community-radio submissions, club audio, podcasts and accessible narrated editions.",
+        "next_step": "Record one clean, short sketch and provide a transcript plus an optional still illustration.",
+        "stage": "sketch"
+      },
+      {
+        "id": "tabletop",
+        "name": "The Smoko Argument Pack",
+        "format": "Caption games, scenario cards and printable club activities",
+        "seed": "Everyone knows the bloke in the picture and everyone has a better line for it.",
+        "example": "One card shows a ute packed for a ten-minute errand. Players supply the missing explanation, predict the forgotten item or match it to the worst possible tool.",
+        "buyer_or_place": "Proposed club tables, family gatherings, camp recreation rooms and gift packs.",
+        "next_step": "Print a small set of illustrated cards and try one clear rule with a group. Keep the game moving without needing a host to explain every card.",
+        "stage": "small pilot"
+      }
+    ],
+    "wildcards": [
+      {
+        "title": "The Cubicle Gazette",
+        "setting": "Country-show toilets, club bathrooms and camp amenities, with permission from the venue.",
+        "idea": "A tiny changing newspaper for the back of the door, complete with a headline, one cartoon and an absurd classified ad.",
+        "visual": "A serious broadsheet front page reporting that the last clean mug has been sighted near the sink.",
+        "pilot": "One readable sheet with a single joke. Test the lettering and whether people understand it without leaning forward."
+      },
+      {
+        "title": "The Lost Property Royal Show",
+        "setting": "An ag-show display or club foyer.",
+        "idea": "Give abandoned everyday objects the treatment of prize livestock, with judging notes and ribbons.",
+        "visual": "A magnificent unmatched glove under a Champion ribbon; a line of hopeful coffee mugs waits to be judged.",
+        "pilot": "Create a handful of removable illustrated award cards and a mock display from fictional objects."
+      },
+      {
+        "title": "The Corrugated Comic",
+        "setting": "A show stand, shed exhibition or temporary community-art display.",
+        "idea": "A comic designed across a series of upright corrugated panels, so readers walk along the story.",
+        "visual": "A three-stage attempt to close a stubborn gate, ending with the quiet discovery that somebody stacked timber behind it.",
+        "pilot": "Make a paper model and one removable panel before producing an outdoor version."
+      },
+      {
+        "title": "Moppa's Feral Chores Club",
+        "setting": "A family activity day, junior club session or illustrated home edition.",
+        "idea": "A proudly scruffy emu becomes an accidental ambassador for finishing jobs.",
+        "visual": "Moppa insists a mess is a creative project while sweeping it into the unmistakable shape of a second emu.",
+        "pilot": "One character sheet, a short strip and a simple activity page. Check that the joke works for the intended age group."
+      },
+      {
+        "title": "The Roadhouse Placemat Yarn",
+        "setting": "A proposed roadhouse or club-meal tabletop trial.",
+        "idea": "A one-meal comic, caption puzzle or small 'spot the forgotten item' scene that can be read while food arrives.",
+        "visual": "A traveller packed everything for the trip except the reason they stopped: the shopping list still pinned to the fridge at home.",
+        "pilot": "One paper placemat design, tested around plates and cups at actual size."
+      },
+      {
+        "title": "The Ten Millimetre Escape Room",
+        "setting": "A club social day, library activity or ag-show stall.",
+        "idea": "A short picture puzzle follows a missing socket through a ute, shed and kitchen drawer.",
+        "visual": "Comic evidence cards, an unhelpful witness statement and a toolbox with a suspiciously comfortable empty space.",
+        "pilot": "One printable puzzle with a clear solution and no special props."
+      },
+      {
+        "title": "The Shed Choir",
+        "setting": "A hall gig or club variety night.",
+        "idea": "A performed comedy piece builds a familiar shed soundtrack from voices, ordinary props and increasingly unhelpful commentary.",
+        "visual": "A line of solemn performers each holds a caption card while one person makes the noise of the tool everyone claims to own.",
+        "pilot": "A short read-through or audio demo with simple stage directions."
+      },
+      {
+        "title": "The Town's Unofficial Useful Map",
+        "setting": "A fictional town in a book, show display or local publication concept.",
+        "idea": "Map the landmarks everyone really uses: the shady seat, the shop door nobody knows how to open and the bend where visitors always turn too early.",
+        "visual": "A friendly illustrated town map with character vignettes and a recurring visitor getting increasingly overconfident.",
+        "pilot": "Draw a wholly fictional sample map, then explore a real place only with its facts and permissions checked."
+      }
+    ],
+    "routes": [
+      {
+        "title": "One camp gripe, three useful formats",
+        "steps": [
+          "Capture a real shared-fridge story and its best line.",
+          "Make one poster written from the fridge's point of view.",
+          "Adapt it into a short newsletter letter.",
+          "Use the same characters in a brief skit, with a proper ending."
+        ],
+        "first_test": "Show the poster at the size and distance intended for a noticeboard. Ask what habit it is about before discussing whether it is funny."
+      },
+      {
+        "title": "A recurring town cartoon",
+        "steps": [
+          "Choose a fictional town and a small stable cast.",
+          "Write three independent stories from ordinary local frustrations.",
+          "Finish one single-panel cartoon and one short strip.",
+          "Prepare a clean sample package for an editor to assess."
+        ],
+        "first_test": "Print the cartoon at a normal newspaper column width and confirm that the smallest lettering is still comfortable to read."
+      },
+      {
+        "title": "A club mascot that does some work",
+        "steps": [
+          "Find the club habit members recognise and can laugh about.",
+          "Create an original mascot with a repeatable personality.",
+          "Make a match-day gag, a volunteer thank-you and a practical notice.",
+          "Revise with the club before considering stickers or merchandise."
+        ],
+        "first_test": "Put the three examples together and see whether members recognise the same character and voice in each."
+      },
+      {
+        "title": "Turn a good spread into a small product family",
+        "steps": [
+          "Finish a short picture-book sequence around one recognisable habit.",
+          "Select a single visual gag that still works outside the story.",
+          "Try it as a sticker or print with text resized for that object.",
+          "Make an animatic only if timing adds another laugh."
+        ],
+        "first_test": "Read the book spread aloud, then show the stand-alone design without its story. Both versions should make sense on their own."
+      },
+      {
+        "title": "Illustration attached to real task material",
+        "steps": [
+          "Start with the actual task, its current document and the responsible reviewer.",
+          "Agree exactly which steps or controls need visual support.",
+          "Draw the real equipment and setting with editable labels.",
+          "Review the images against that job, then retain the source and revision record."
+        ],
+        "first_test": "Ask the task team to walk through one drawing and identify anything missing, wrong or open to a dangerous interpretation."
+      }
+    ],
+    "first_choices": [
+      {
+        "title": "Quickest thing to put in someone's hand",
+        "pick": "A small sticker sheet or one folded booklet.",
+        "why": "A complete object with a clear size, purpose and reading moment."
+      },
+      {
+        "title": "Best way to test a recurring voice",
+        "pick": "Three newsletter columns or a short run of newspaper cartoons.",
+        "why": "Enough repetition to reveal whether the character keeps finding fresh situations."
+      },
+      {
+        "title": "Best use of Daz's lived stories",
+        "pick": "A short book sequence, camp serial or performed yarn.",
+        "why": "Room for the specific detail and the line that an invented generic gag would miss."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Safe Work Australia: Safe work method statement for high risk construction work, information sheet",
+        "url": "https://www.safeworkaustralia.gov.au/doc/safe-work-method-statement-high-risk-construction-work-information-sheet",
+        "used_for": "Context for the task-specific SWMS illustration proposal. The creative product names, examples and proposed distribution contexts are original brainstorming, not claims made by this source."
       }
     ]
   }

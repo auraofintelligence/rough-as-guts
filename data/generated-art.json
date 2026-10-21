@@ -6,11 +6,11 @@
   "tool": "image_gen.imagegen",
   "model": null,
   "model_disclosure": "The built-in tool response did not expose a model name or model version. No model identity is inferred.",
-  "mode": "New AI-generated raster illustrations; one targeted built-in image edit on the workplace hero",
-  "image_count": 9,
+  "mode": "New AI-generated raster illustrations and targeted cleanup edits, as recorded per asset",
+  "image_count": 13,
   "project": "Rough as Guts website",
-  "provenance_note": "These nine images were newly generated for this website from written scene prompts. They are separate from the original Daz PowerPoint posters, and do not depict the real Daz or Luke.",
-  "source_references": "No source image was supplied to the nine new-generation calls. The workplace cleanup edit referenced its own initial generated image.",
+  "provenance_note": "These images were newly generated for this website from written scene prompts. They are separate from the original Daz PowerPoint posters, and do not depict the real Daz or Luke. The former provenance-page hero is retained in this record as an unused historical asset.",
+  "source_references": "No source image was supplied to the new-generation calls. The workplace cleanup edit referenced its own initial generated image.",
   "review_scope": "Visual review of each generated image for the requested scene, tone, composition, unintended lettering and instructional hazards. These are humorous scene-setting illustrations, not safety, medical or operational guidance.",
   "assets": [
     {
@@ -328,6 +328,185 @@
         "bytes": 598926,
         "encoding": "WebP quality 88, same composition, no retouching",
         "derived_from": "assets/generated/hero-sitemap.png"
+      }
+    },
+    {
+      "id": "pipeline",
+      "title": "Product Pipeline",
+      "path": "assets/generated/hero-pipeline.png",
+      "filename": "hero-pipeline.png",
+      "mime_type": "image/png",
+      "sha256": "9a0fc075be4aee7f4cf9e1b237748457a205592a1626f71507c05bb6e88f3839",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3350069,
+      "prompt": "Use case: illustration-story. Asset type: large Product Pipeline page hero illustration for an Australian comic-life-skills website, wide 16:9 landscape. Primary request: An exciting, coherent country agricultural-show or remote footy-club stall doubles as a creative workbench for a humorous comic brand. Four fictional adults of varied ages from young adult to older adult share a warm laugh as they develop and display a dog-eared comic book, a large yellow wordless poster, colourful die-cut stickers, an entirely wordless newspaper comic strip, a cap, a T-shirt, and a few hand-drawn animation storyboard sheets. All these products share a cheerful absurd galah mascot: a cheeky pink-and-grey galah in work boots, with expressive cartoon eyebrows, repeated in different simple poses. One person holds up the T-shirt; one points at a wordless storyboard; another works on a blank notebook. Products and creative tools form one lively integrated scene across a timber stall table, not a display of UI cards. Rural Australian showground in the distance: gum trees, dusty ochre ground, simple footy-club shed and a few softly suggested country-show stalls. Friendly ambitious creative energy, country-town/outback authenticity, adult faces and natural human proportions. Style/medium: bold hand-inked Australian rough everyday-life comic, expressive thick black outlines, premium worn cream paper and print texture, rich safety yellow, charcoal black, dusty ochre, small restrained red and galah pink accents; match the warm handcrafted comic feel of the website. Composition: wide cinematic single scene, all key people/products mostly in the right two-thirds; keep the left third noticeably quieter, with uncluttered warm cream paper fading into the rural scene, suitable for a large HTML page title. Good focal faces and one large comicbook/mascot poster, small products secondary, pleasing depth and light. Absolutely NO embedded text: no letters, words, numbers, labels, writing-like marks, gibberish, logos, trademarks, fake signatures or watermarks anywhere. Book covers, poster borders, newspaper strips, cap and shirt have only the simple wordless galah cartoon, no typography. No party brands, actual political candidates, real named people, real corporate identity, safety instructions, unsafe operations or injury. No full instructional poster, no collage grid, no UI or app-screen appearance. Generate one complete original illustration, no source-image reuse.",
+      "alt": "Four fictional adults develop and display wordless galah comic books, posters, storyboards, stickers, a cap and T-shirts at a country-show creative stall.",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-d8ec5e3a-5a36-4003-9aba-28d67299eabb.png",
+        "source_images": []
+      },
+      "edit_history": [],
+      "review": {
+        "method": "visual inspection of the generated output",
+        "result": "Approved: one coherent Australian country-show workbench scene, four adults, cheerful pink-and-grey galah mascot repeated across book/poster/merchandise/storyboard props, quiet left area for HTML copy, no intended text or logos, no party branding, actual candidates or safety procedures.",
+        "intended_text": "none",
+        "safety_instructions": "none"
+      },
+      "web_derivative": {
+        "path": "assets/generated/hero-pipeline.webp",
+        "sha256": "c1754759966abf408561d6139a76b43b0d65a1dd55d42de77a96aa69ff0f2b2f",
+        "bytes": 525062,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/hero-pipeline.png"
+      }
+    },
+    {
+      "id": "concept-men",
+      "audience": "men",
+      "title": "The Gym Opening Ceremony",
+      "path": "assets/generated/concept-men.png",
+      "filename": "concept-men.png",
+      "mime_type": "image/png",
+      "sha256": "43175ad2e675f675965b378e8f99ca77ab7a4c2d9061d4897e7ab0d6e0fd9a6e",
+      "width": 1673,
+      "height": 940,
+      "bytes": 2710259,
+      "source": {
+        "file": "data/site-content.json",
+        "sample_gag_title": "The Gym Opening Ceremony",
+        "status": "Concept in development",
+        "adaptation": "Applauding adult mates, blank bunting and confetti reinforce the approved opening-ceremony exaggeration."
+      },
+      "prompt": "Use case: illustration-story. Asset type: landscape inline concept illustration for an Australian comic life-skills website, wide 16:9. Primary request: THE GYM OPENING CEREMONY, a wordless visual gag. An ordinary fictional adult Australian bloke dramatically cuts a celebratory red ribbon in front of one lone exercise mat in his modest home workout corner. He wears brand-new trainers, a blank smart watch and simple T-shirt and shorts. An immaculate new reusable water bottle stands beside the completely unused mat. The little exercise setup has absurdly grand launch celebration: blank yellow bunting, a burst of paper confetti and two adult mates enthusiastically applauding as if a major public building has opened. His expression is proud and theatrical. The ribbon is safely stretched between two small freestanding posts, scissors cutting only the ribbon, people clear of the blades. More ceremony than exercise is the obvious joke, affectionate and recognisable, no ridicule of body size or ability. One coherent richly detailed single scene, clear central mat and ribbon-cutting action. Style: bold hand-inked Australian rough everyday-life comic, expressive thick black outlines, premium worn cream paper print texture, safety yellow, charcoal black, dusty ochre, small restrained red accents, warm humorous light. Full-width landscape framing for an inline image; no need for a blank title area. No text, no words, letters, numbers, logos, brand marks, fake signatures, watermark or gibberish on bunting, shoes, bottle, clothing or watch. No exercise instruction, unsafe lifting, sexualisation or actual named people. No UI card grid or full poster typography.",
+      "alt": "An adult bloke cuts a ceremonial ribbon in front of one exercise mat, with new shoes, a blank smart watch, a water bottle, confetti and two applauding mates.",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-5b0fd256-678b-408a-878c-5dc9617a1670.png",
+        "source_images": []
+      },
+      "edit_history": [
+        {
+          "tool": "image_gen.imagegen",
+          "mode": "built-in edit",
+          "model": null,
+          "prompt": "Change only tiny incidental marks in this comic illustration: remove all letter-like marks, brand-like emblems and logos from the applauding man's cap at the upper left, from the central man's new shoes and shoe tongues, and from the smart-watch face. Replace them with plain matching cap fabric, clean unbranded shoe material and a solid black blank watch screen. Preserve every other detail: three adults, their faces and positions, theatrical ribbon-cutting scissors, red ribbon, celebration confetti, yellow blank bunting, lone exercise mat, water bottle, colours, texture and composition. Absolutely no new words, symbols resembling letters, numbers, brands or signatures. A precise cleanup edit, otherwise identical.",
+          "input": "The initial generated concept illustration",
+          "change": "Removed incidental label-like or brand-like details while preserving the requested composition."
+        }
+      ],
+      "review": {
+        "method": "visual inspection",
+        "result": "Approved after visual inspection and a targeted lettering cleanup. Ribbon-cutting ceremony is comically larger than the lone workout setup. Adults are clear of the scissors, and no exercise procedure is depicted.",
+        "intended_text": "none",
+        "safety_instructions": "none"
+      },
+      "web_derivative": {
+        "path": "assets/generated/concept-men.webp",
+        "sha256": "65704508aa9cd70eb5ff5301a776df613a179beb22d682ce1ca32fef3e133411",
+        "bytes": 348066,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/concept-men.png"
+      }
+    },
+    {
+      "id": "concept-women",
+      "audience": "women",
+      "title": "The Chair Has Joined the Wardrobe",
+      "path": "assets/generated/concept-women.png",
+      "filename": "concept-women.png",
+      "mime_type": "image/png",
+      "sha256": "181a0b981efde9a9eb17b7fef86b6062c7d725dad8a56c0d7fcdfb1217f98069",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3449559,
+      "source": {
+        "file": "data/site-content.json",
+        "sample_gag_title": "The Chair Has Joined the Wardrobe",
+        "status": "Concept in development",
+        "adaptation": "The requested amused mate and tiny blank mailbox reinforce the approved clothes-chair gag."
+      },
+      "prompt": "Use case: illustration-story. Asset type: landscape inline concept illustration for an Australian comic life-skills website, wide 16:9. Primary request: THE CHAIR HAS JOINED THE WARDROBE, a wordless affectionate domestic visual gag. In an ordinary Australian bedroom or spare room, a simple wooden chair is almost buried under an absurd towering mountain of clean and worn-once clothes. The clothes mountain has acquired a tiny free-standing rural mailbox at the chair's base, as if the pile is a whole address of its own. The mailbox is fully blank, no numbers or words. A fictional adult woman in an ordinary loose T-shirt and shorts recognises her own mess with an amused, slightly sheepish grin, one hand gesturing towards the inaccessible seat where she meant to sit. Her adult woman mate in casual modest clothes looks at the tiny mailbox and laughs warmly with her, not mockingly at her. The chair, huge clothes pile and very small mailbox must be the unmistakable central visual punchline; one sock dangles over a chair leg. Respectful normal adult bodies, no sexualisation, no gender caricature beyond the requested people. Style: bold hand-inked Australian rough everyday-life comic, expressive thick black outlines, high-quality worn cream paper and print texture, safety yellow, charcoal black, dusty ochre and restrained red accents, warm natural indoor light. One coherent richly composed landscape scene, full-width inline framing, no UI grid or instructional poster. Absolutely no text, letters, numbers, logos, garment brands, labels, writing-like scribbles, fake signatures or watermark anywhere.",
+      "alt": "Two adult women laugh in recognition at a towering clothes pile on a chair that has acquired its own tiny blank mailbox.",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-4c7c785a-6f69-45b9-ba52-fb911abb565a.png",
+        "source_images": []
+      },
+      "edit_history": [],
+      "review": {
+        "method": "visual inspection",
+        "result": "Approved after visual inspection. Chair, absurd clothes mountain, tiny blank mailbox, amused owner and warmly laughing adult mate all read clearly. No generated wording or logos.",
+        "intended_text": "none",
+        "safety_instructions": "none"
+      },
+      "web_derivative": {
+        "path": "assets/generated/concept-women.webp",
+        "sha256": "1ed3eeec09afac5621c581eb8c016f00df79822e4dbd5cf9d9433ef5c9ae3356",
+        "bytes": 487600,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/concept-women.png"
+      }
+    },
+    {
+      "id": "concept-youth",
+      "audience": "youth",
+      "title": "The Bag That Was Ready Yesterday",
+      "path": "assets/generated/concept-youth.png",
+      "filename": "concept-youth.png",
+      "mime_type": "image/png",
+      "sha256": "93c84134fbe50df7225aa7fb3961dcfb04c39d80d58c3c90abc6c378280ee362",
+      "width": 1672,
+      "height": 940,
+      "bytes": 2700705,
+      "source": {
+        "file": "data/site-content.json",
+        "sample_gag_title": "The Bag That Was Ready Yesterday",
+        "status": "Concept in development",
+        "adaptation": "The source concept's WAIT sign was replaced with a blank flag and an imaginary waving lunchbox so the image contains no lettering."
+      },
+      "prompt": "Use case: illustration-story. Asset type: landscape inline concept illustration for a school-appropriate Australian youth life-skills website, wide 16:9. Primary request: THE BAG THAT WAS READY YESTERDAY, a wordless everyday-school-preparation gag based on this setup: the bag is zipped, shoes are on, the bus is coming, but lunch remains on the kitchen bench. A fictional Australian teenager about 15 or 16 in ordinary modest T-shirt, shorts and trainers stands proudly at the open front door with a neatly zipped backpack on one shoulder, looking pleased to be ready. In the clear foreground on the kitchen bench, a closed lunchbox containing the forgotten packed lunch remains behind. Give the lunchbox a small whimsical imaginary pair of cartoon arms waving for attention and expressive little eyes, to communicate the joke without lettering. A tiny completely blank flag may sit beside the lunchbox; no sign wording. A distant unmarked school bus is glimpsed safely through the window or doorway, no traffic hazard or road crossing. Warm encouraging humour, capable teen having a normal small oversight, never shaming, insulting or infantilising. Kitchen-to-front-door composition must make the distance between teen and lunchbox obvious, both readable in one coherent scene. Style: bold hand-inked Australian rough everyday-life comic, expressive thick black outlines, premium worn cream paper print texture, safety yellow, charcoal black, dusty ochre and restrained red accents, warm morning light. Full-width landscape inline illustration, no title space required, no panel grid. Absolutely no text, letters, numbers, school logos, brands, labels, fake signatures, watermarks or gibberish. No alcohol, tobacco, sexual content, injury, bullying or unsafe operation. No reuse of old poster imagery.",
+      "alt": "A teenager leaves with a zipped backpack while a forgotten lunchbox waves imaginary cartoon arms from the kitchen bench.",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-89a78789-5b18-41f2-b958-cffe2c4789c5.png",
+        "source_images": []
+      },
+      "edit_history": [
+        {
+          "tool": "image_gen.imagegen",
+          "mode": "built-in edit",
+          "model": null,
+          "prompt": "Change only the tiny label-like stickers or brand-like emblems on the refrigerator and the teenager's shoes in this comic illustration. Replace fridge stickers with the matching plain stainless-steel surface and remove any letter-like shoe detail, leaving unbranded shoes. Keep absolutely everything else unchanged: teenage student at doorway with zipped backpack, waving anthropomorphic lunchbox and blank flag on the kitchen bench, distant blank school bus, warm morning light, all anatomy, colours and comic texture. No text, numbers, logos or lettering-like marks anywhere. A precise cleanup edit, otherwise identical.",
+          "input": "The initial generated concept illustration",
+          "change": "Removed incidental label-like or brand-like details while preserving the requested composition."
+        }
+      ],
+      "review": {
+        "method": "visual inspection",
+        "result": "Approved after visual inspection and a targeted incidental-label cleanup. A school-age teen with packed bag is ready to leave while lunch remains on the bench. Imaginary lunchbox arms supply the wordless gag. No unsafe road activity, alcohol, sexual content or shaming.",
+        "intended_text": "none",
+        "safety_instructions": "none"
+      },
+      "web_derivative": {
+        "path": "assets/generated/concept-youth.webp",
+        "sha256": "b69c1dd9ecda98edd028fc2f38e8684f1160d5792f7d84103282d1258b82c231",
+        "bytes": 338846,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/concept-youth.png"
       }
     }
   ]

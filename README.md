@@ -15,10 +15,14 @@ Concept and supplied draft artwork: Darryl Gough (Daz). Wider guide development,
 - Worksites and worker camps
 - Original 45-slide library, with searchable readable transcripts
 - Editorial system and browser-local image-brief builder
-- Origins, source comparison and interim licence
+- Product pipeline, from an observation to an illustrated guide or workplace format
 - Site map
 
-The site is static HTML, CSS and JavaScript, with no accounts, analytics, external fonts or server-side collection. It supports phones and laptops, adjustable text size, keyboard navigation, reduced motion, lazy-loaded posters, poster zoom, footer navigation and previous/next links.
+These are the nine primary pages. Systems and Product Pipeline are available in the main navigation. The old `provenance.html` address redirects to the source comparison on `library.html`, preserving a requested slide. It has no hero and is excluded from navigation and the sitemap.
+
+The site is static HTML, CSS and JavaScript, with no accounts, analytics, external fonts or server-side collection. It supports phones and laptops, adjustable text size, keyboard navigation, reduced motion, lazy-loaded posters, poster zoom, footer navigation and previous/next links. Each primary page has its own hero illustration.
+
+The men's and women's editions have distinct chapters and observational premises. Their approved sample gags remain separate examples. Young Crew uses school-appropriate copy and respectful everyday-life situations.
 
 ## Source archive and new illustrations
 
@@ -26,9 +30,15 @@ The site is static HTML, CSS and JavaScript, with no accounts, analytics, extern
 
 `assets/references/` contains full-dimension WebP web copies and `assets/thumbnails/` contains smaller gallery previews. `data/source-provenance.json` links the original files, source slide and internal PowerPoint media path, hashes, dimensions, compression settings and metadata observations. Marker detection does not validate C2PA signatures.
 
-`assets/generated/` contains new hero artwork. `data/generated-art.json` records the prompts and source file hashes. New illustrations are distinct from Daz's source archive.
+The original source artwork appears in three places: home uses slides 6, 28 and 39; Worksites uses slides 11, 16 and 30; the library contains all 45 source records and the 42 embedded images. The original-versus-web-copy comparison is on the library page. The other primary pages use new illustrations rather than source-poster filler.
+
+`assets/generated/` contains the new hero artwork and the inline `concept-men`, `concept-women` and `concept-youth` illustrations. PNG sources and WebP browsing copies are retained. `data/generated-art.json` records the prompts and source file hashes. New illustrations are distinct from Daz's source archive.
 
 `data/catalogue.json` retains the complete transcribed slide content and separate visual scene briefs. `data/content-catalogue.txt` is the readable companion. Source errors and uncertain lettering are retained and flagged. The source archive is draft material, not a validated safety or medical manual.
+
+## Systems and product pipeline
+
+Systems provides the editorial workflow, visual patterns and a browser-local image-brief builder. Product Pipeline shows how observations, jokes, factual review, artwork and format choices contribute to a finished item. Proposed books, cards, posters, animations and SWMS support remain marked as work in development.
 
 ## Rebuild
 
@@ -39,6 +49,8 @@ python scripts/build_site.py
 python scripts/check_site.py
 python -m http.server 8765
 ```
+
+The check covers the nine primary pages and legacy redirect, unique heroes, local links and anchors, source-image placement, inline edition illustrations, distinct edition chapter headings, source hashes and the unchanged interim licence. Site text is checked for em dashes, with the exact `LICENCE.md` and binary assets excluded.
 
 Regenerating the source archive requires the original PowerPoint and the extraction manifest. `scripts/prepare-source-assets.py --help` describes those inputs. It is not needed to view or publish the already-built static site.
 
