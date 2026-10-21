@@ -430,13 +430,25 @@
         ]
       },
       {
-        "heading": "Try a few jokes, then blend with purpose",
-        "body": "Explore different ways to make the same point: a literal exaggeration, an unexpected comparison, a familiar excuse, a before-and-after scene or a short exchange. Take the strongest parts from different versions when they work together.",
+        "id": "loose-goose",
+        "heading": "Try some Loose Goose angles",
+        "body": "Luke’s Loose Goose Comedy Engine explores real memories through different comic angles and spoken-performance beats. These prompts draw on its Memory Seed, Comedy Lenses and Beat Score. The picture and panel suggestions below adapt those ideas for Rough as Guts.",
         "bullets": [
-          "Compare several captions against the same useful point.",
-          "Choose the joke that works for the intended reader.",
-          "Keep the clearest scene and the best line together.",
-          "Drop extra ideas when they muddy the picture."
+          "Keep the memory and the riff separate. What happened, what do we remember, and what are we guessing or exaggerating? An unknown detail can stay unknown, including someone else’s motives.",
+          "Try another angle on the same moment: an observation, a short exchange, acting it out, or telling the joke on yourself. Which version gives us something to explore?",
+          "Try a status reversal. Who appears to be in charge or knows what they’re doing? What could happen that changes that impression?",
+          "Look for a visual reveal. Could a prop, receipt, picture or expression carry the joke? What happens if we leave the explanation out?",
+          "Play with the sequence: setup, turn, punchline, pause and a possible callback. For a comic, could moving the reveal to the next panel change how it reads? For a skit, what happens when we read it aloud?"
+        ],
+        "links": [
+          {
+            "label": "Open Loose Goose Comedy Engine",
+            "url": "https://auraofintelligence.github.io/loose-goose-comedy-engine/"
+          },
+          {
+            "label": "Read the GitHub project & notes",
+            "url": "https://github.com/auraofintelligence/loose-goose-comedy-engine"
+          }
         ]
       },
       {

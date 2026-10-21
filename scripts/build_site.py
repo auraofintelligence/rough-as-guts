@@ -139,8 +139,10 @@ def page_sections(page,key,heroes):
                 out+=f'<a class="edition-link" href="{edition}.html"><img src="{heroes[edition]}" alt="" loading="lazy" width="640" height="480"><div><h3>{label}</h3><p>{desc}</p></div></a>'
             out+='</div></section>'
         anchor=' id="chapters"' if i==0 and key in ['men','women','youth'] else ''
+        if s.get('id'):anchor=' id="'+esc(s['id'])+'"'
         out+='<section class="section container"'+anchor+'><div class="reading"><h2>'+esc(s['heading'])+'</h2>'+p(s.get('body',''))+ul(s.get('bullets',[]))
         if s.get('picture_idea'):out+='<details class="chapter-brief"><summary>Picture brief for this chapter</summary>'+p(s['picture_idea'],'scene-note')+'</details>'
+        if s.get('links'):out+='<div class="hero-actions">'+''.join(link(item['url'],item['label'],'button secondary') for item in s['links'])+'</div>'
         out+='</div></section>'
     if key not in ['men','women','youth']:out+=sample_gags(page,key)
     return out
@@ -191,7 +193,7 @@ def main():
         head=f'''<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(label)} · Rough as Guts</title><meta name="description" content="{esc(page['lead'])}"><meta name="theme-color" content="#ffd52a"><link rel="canonical" href="{BASE+filename}"><link rel="icon" href="assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css"><meta property="og:title" content="{esc(label)} · Rough as Guts"><meta property="og:description" content="{esc(page['lead'])}"><meta property="og:type" content="website"><meta property="og:url" content="{BASE+filename}"><meta property="og:image" content="{BASE+heroes[key]}"><meta name="twitter:card" content="summary_large_image"><script src="site.js" defer></script></head><body data-page="{key}"><a class="skip-link" href="#main">Skip to content</a><header class="site-header"><a class="brand" href="index.html">ROUGH AS GUTS<small>GOOD LAUGHS. USEFUL HINTS.</small></a><button class="menu-toggle" aria-controls="main-nav" aria-expanded="false">Menu</button><nav id="main-nav" class="main-nav" aria-label="Main navigation">{nav}</nav><div class="read-tools" role="group" aria-label="Text size"><button id="text-smaller" aria-label="Smaller text">A−</button><button id="text-reset" aria-label="Reset text size">A</button><button id="text-larger" aria-label="Larger text">A+</button></div></header><main id="main"><section class="hero"><img class="hero-image" src="{heroes[key]}" alt="{esc(page['heroAlt'])}" fetchpriority="high" width="1536" height="1024"><div class="hero-copy"><span class="eyebrow">{esc(page['eyebrow'])}</span><h1>{HERO_TITLES[key]}</h1><p class="lead">{esc(page['lead'])}</p><div class="hero-actions">'''
         if key=='home':head+=link('#editions','Find their edition','button')+link('library.html','Rummage through the originals','button secondary')
         elif key=='library':head+=link('#browse','Browse all 45 slides','button')+link('#compare','Compare source copies','button secondary')
-        elif key=='systems':head+=link('#brief-builder','Build an image brief','button')
+        elif key=='systems':head+=link('#brief-builder','Build an image brief','button')+link('#loose-goose','Loose Goose comedy prompts','button secondary')
         elif key=='pipeline':head+=link('#formats','Explore the product range','button')+link('#wildcards','Try the weird stuff','button secondary')
         elif key in ['men','women','youth']:head+=link('#sample-gags','Get a taste','button')+link('#chapters','Inside the edition','button secondary')
         else:head+=link('#inside','Have a look','button')+link('systems.html','Make a new page','button secondary')
