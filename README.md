@@ -1,6 +1,6 @@
 # Rough as Guts
 
-A bold, readable illustrated-guide prototype for gifts, everyday competence, worker camps and site communication.
+A bold, readable illustrated-guide prototype built around **joyful responsible abundance**: light satire that invites safer, healthier and more considerate habits, with more room to enjoy life together.
 
 Website: https://auraofintelligence.github.io/rough-as-guts/
 
@@ -22,7 +22,9 @@ These are the nine primary pages. Systems and Product Pipeline are available in 
 
 The site is static HTML, CSS and JavaScript, with no accounts, analytics, external fonts or server-side collection. It supports phones and laptops, adjustable text size, keyboard navigation, reduced motion, lazy-loaded posters, poster zoom, footer navigation and previous/next links. Each primary page has its own hero illustration.
 
-The men's and women's editions have distinct chapters and observational premises. Their approved sample gags remain separate examples. Young Crew uses school-appropriate copy and respectful everyday-life situations.
+The men's and women's editions have distinct situations and chapters. New examples show a recognisable habit, a better action the person can take and a shared benefit. The person in the joke can learn, contribute and belong. Gifts offer encouragement and a way to discuss change. Young Crew uses school-appropriate situations, practical agency and room to ask for help, without making a child's family circumstances the joke.
+
+These are editorial drafts. The site records proposed useful actions and questions to explore with intended readers; it does not claim that an illustration or joke has been shown to change behaviour. The source review and editorial correction are documented in [the 28 October 2026 review](docs/editorial-review-2026-10-28.md).
 
 ## Source archive and new illustrations
 
@@ -30,15 +32,17 @@ The men's and women's editions have distinct chapters and observational premises
 
 `assets/references/` contains full-dimension WebP web copies and `assets/thumbnails/` contains smaller gallery previews. `data/source-provenance.json` links the original files, source slide and internal PowerPoint media path, hashes, dimensions, compression settings and metadata observations. Marker detection does not validate C2PA signatures.
 
-The original source artwork appears in three places: home uses slides 6, 28 and 39; Worksites uses slides 11, 16 and 30; the library contains all 45 source records and the 42 embedded images. The original-versus-web-copy comparison is on the library page. The other primary pages use new illustrations rather than source-poster filler.
+The original source artwork appears in three places: home uses slides 11 and 26; Worksites uses slides 24, 30 and 44; the library contains all 45 source records and the 42 embedded images. The original-versus-web-copy comparison is on the library page. The other primary pages use new illustrations. Curation illustrates communication patterns; it does not independently validate the source's technical claims.
 
-`assets/generated/` contains the new hero artwork and the inline `concept-men`, `concept-women` and `concept-youth` illustrations. PNG sources and WebP browsing copies are retained. `data/generated-art.json` records the prompts and source file hashes. New illustrations are distinct from Daz's source archive.
+`assets/generated/` contains new hero artwork and inline concept illustrations. The revised men's, women's and workplace heroes use `hero-*-care-v2`; the men's, women's and Young Crew concepts use `concept-*-care-v2`. These six revisions show care, a useful response or a positive result. Their earlier PNG sources remain available as historical artwork, alongside PNG sources and WebP copies of the revisions. `data/generated-art.json` records prompts and file hashes. New illustrations are distinct from Daz's protected source archive.
 
 `data/catalogue.json` retains the complete transcribed slide content and separate visual scene briefs. `data/content-catalogue.txt` is the readable companion. Source errors and uncertain lettering are retained and flagged. The source archive is draft material, not a validated safety or medical manual.
 
 ## Systems and product pipeline
 
-Systems provides the editorial workflow, visual patterns and a browser-local image-brief builder. Product Pipeline is a brainstorm of possible formats, sample concepts, country oddities and different versions of the same idea. It makes no claims about which format is best, quickest or most likely to sell.
+Systems provides the editorial workflow, visual patterns, Loose Goose comedy prompts and a browser-local image-brief builder. The existing useful-point field is now required as "Better action & why it helps". The two optional additions remain a comic-angle choice and another version to try. The resulting brief asks for the better action and its benefit to appear in the proposed image or sequence.
+
+Product Pipeline explores 18 formats and seven country concepts. Each has a visible improvement pathway and a possible shared benefit; the product entries also include a question for checking the idea with intended readers. These remain options to develop, change or discard, with no claimed audience response or commercial ranking. Workplace and SWMS illustrations require review against the actual task, equipment, conditions and responsible work method.
 
 ## Rebuild
 
@@ -50,7 +54,7 @@ python scripts/check_site.py
 python -m http.server 8765
 ```
 
-The check covers the nine primary pages and legacy redirect, unique heroes, local links and anchors, source-image placement, inline edition illustrations, distinct edition chapter headings, source hashes and the unchanged interim licence. Site text is checked for em dashes, with the exact `LICENCE.md` and binary assets excluded.
+The check covers the nine primary pages and legacy redirect, unique and revised heroes, local links and anchors, source-image placement, revised inline illustrations, distinct edition headings, source hashes and the unchanged interim licence. It also checks for nonempty better-action and benefit fields in new gags, all 15 edition sections, the 18 product formats and seven country concepts. The form's better-action field must be required while its two comedy controls remain optional. Site text is checked for em dashes, with the exact `LICENCE.md` and binary assets excluded. These checks verify structure and source integrity; reader interpretation and task accuracy still need appropriate review.
 
 Regenerating the source archive requires the original PowerPoint and the extraction manifest. `scripts/prepare-source-assets.py --help` describes those inputs. It is not needed to view or publish the already-built static site.
 

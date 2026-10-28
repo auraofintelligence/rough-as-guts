@@ -11,7 +11,7 @@ PRIMARY_PAGES={
 LEGACY_PAGE='provenance.html'
 MAIN_NAV={'men.html','women.html','youth.html','workplace.html','library.html','systems.html','pipeline.html'}
 class Page(HTMLParser):
-    def __init__(self):super().__init__();self.links=[];self.ids=[];self.heroes=[];self.h1=0;self.has_viewport=False;self.images=[];self.canonical=[];self.main_nav=[];self.in_main_nav=False
+    def __init__(self):super().__init__();self.links=[];self.ids=[];self.heroes=[];self.h1=0;self.has_viewport=False;self.images=[];self.canonical=[];self.main_nav=[];self.in_main_nav=False;self.controls={}
     def handle_starttag(self,tag,attrs):
         a=dict(attrs)
         if tag=='nav' and a.get('id')=='main-nav':self.in_main_nav=True
@@ -22,6 +22,7 @@ class Page(HTMLParser):
         if tag=='img':
             self.images.append(a)
             if a.get('class')=='hero-image':self.heroes.append(a.get('src'))
+        if tag in ['input','select','textarea'] and a.get('id'):self.controls[a['id']]=a
         if tag=='link' and a.get('rel')=='canonical':self.canonical.append(a.get('href'))
         for key in ['href','src']:
             if key in a:self.links.append(a[key])
@@ -71,17 +72,52 @@ provenance=json.loads((ROOT/'data/source-provenance.json').read_text(encoding='u
 catalogue=json.loads((ROOT/'data/catalogue.json').read_text(encoding='utf-8'))
 if [r['slide_number'] for r in catalogue['slides']]!=list(range(1,46)):errors.append('Catalogue coverage')
 source_paths={asset['path']:record['slide'] for record in provenance['slides'] if record.get('has_image') for asset in [record['original'],record['reference'],record['thumbnail']]}
-expected_sources={'index.html':{6,28,39},'workplace.html':{11,16,30},'library.html':{record['slide'] for record in provenance['slides'] if record.get('has_image')}}
+expected_sources={'index.html':{11,26},'workplace.html':{24,30,44},'library.html':{record['slide'] for record in provenance['slides'] if record.get('has_image')}}
 for name,parser in parsers.items():
     shown_sources={source_paths[urlsplit(image.get('src','')).path] for image in parser.images if urlsplit(image.get('src','')).path in source_paths}
     if shown_sources!=expected_sources.get(name,set()):errors.append(f'{name}: unexpected original-source image placement {sorted(shown_sources)}')
 for edition in ['men','women','youth']:
     page=parsers.get(edition+'.html')
-    concept=f'assets/generated/concept-{edition}.webp'
+    concept=f'assets/generated/concept-{edition}-care-v2.webp'
     if page and not any(image.get('src')==concept for image in page.images):errors.append(f'{edition}.html: new inline concept illustration missing')
+for edition in ['men','women','workplace']:
+    page=parsers.get(edition+'.html')
+    hero=f'assets/generated/hero-{edition}-care-v2.webp'
+    if page and page.heroes!=[hero]:errors.append(f'{edition}.html: revised care-focused hero missing')
 content=json.loads((ROOT/'data/site-content.json').read_text(encoding='utf-8'))
 headings={edition:{section['heading'].strip().casefold() for section in content[edition]['sections']} for edition in ['men','women']}
 if headings['men']&headings['women']:errors.append('Men and women must have distinct chapter headings')
+def require_text_fields(item,fields,location):
+    for field in fields:
+        if not isinstance(item.get(field),str) or not item[field].strip():errors.append(f'{location}: missing or empty {field}')
+gag_count=0
+for key,page_content in content.items():
+    for index,gag in enumerate(page_content.get('sample_gags',[]),1):
+        require_text_fields(gag,['try_this','benefit'],f'{key} sample gag {index}')
+        gag_count+=1
+for key in ['home','workplace']:
+    if not content[key].get('sample_gags'):errors.append(f'{key}: improvement examples missing')
+edition_section_count=0
+for key in ['men','women','youth']:
+    for index,section in enumerate(content[key].get('sections',[]),1):
+        require_text_fields(section,['try_this','benefit'],f'{key} section {index}')
+        edition_section_count+=1
+if edition_section_count!=15:errors.append(f'Expected 15 edition sections, got {edition_section_count}')
+products=content['pipeline'].get('products',[])
+wildcards=content['pipeline'].get('wildcards',[])
+if len(products)!=18:errors.append(f'Expected 18 product formats, got {len(products)}')
+if len(wildcards)!=7:errors.append(f'Expected 7 country concepts, got {len(wildcards)}')
+for index,product in enumerate(products,1):require_text_fields(product,['try_this','benefit','check_question'],f'Product {index}')
+for index,wildcard in enumerate(wildcards,1):require_text_fields(wildcard,['try_this','benefit'],f'Country concept {index}')
+systems_page=parsers.get('systems.html')
+if systems_page:
+    if 'required' not in systems_page.controls.get('brief-point',{}):errors.append('The brief must require a better action and its purpose')
+    for control in ['brief-angle','brief-alternative']:
+        if control not in systems_page.controls:errors.append(f'Systems form is missing {control}')
+        elif 'required' in systems_page.controls[control]:errors.append(f'{control} must remain optional')
+historical_art=[f'assets/generated/hero-{key}.png' for key in ['men','women','workplace']]+[f'assets/generated/concept-{key}.png' for key in ['men','women','youth']]
+for asset in historical_art:
+    if not (ROOT/asset).exists():errors.append(f'Historical illustration source missing: {asset}')
 checked_assets=0
 for record in provenance['slides']:
     if not record.get('has_image'):continue
@@ -100,6 +136,6 @@ for file in ROOT.rglob('*'):
     try:text=file.read_text(encoding='utf-8')
     except UnicodeDecodeError:continue
     if chr(0x2014) in text:errors.append(f'Em dash in site text: {file.relative_to(ROOT).as_posix()}')
-report={'pages':len(files),'primary_pages':len(actual_pages&PRIMARY_PAGES),'legacy_redirects':int(LEGACY_PAGE in actual_pages),'unique_heroes':len(set(heroes)),'source_slides':len(catalogue['slides']),'original_images':sum(bool(r.get('has_image')) for r in provenance['slides']),'checked_assets':checked_assets,'errors':errors}
+report={'pages':len(files),'primary_pages':len(actual_pages&PRIMARY_PAGES),'legacy_redirects':int(LEGACY_PAGE in actual_pages),'unique_heroes':len(set(heroes)),'source_slides':len(catalogue['slides']),'original_images':sum(bool(r.get('has_image')) for r in provenance['slides']),'checked_assets':checked_assets,'gags_with_improvement':gag_count,'edition_sections_with_improvement':edition_section_count,'product_formats':len(products),'country_concepts':len(wildcards),'errors':errors}
 print(json.dumps(report,indent=2))
 raise SystemExit(1 if errors else 0)

@@ -1,15 +1,14 @@
 {
   "schema_version": "1.0",
-  "generated_local_date": "2026-10-21",
   "timezone": "Australia/Brisbane",
   "generation_method": "Built-in image_gen tool",
   "tool": "image_gen.imagegen",
   "model": null,
   "model_disclosure": "The built-in tool response did not expose a model name or model version. No model identity is inferred.",
   "mode": "New AI-generated raster illustrations and targeted cleanup edits, as recorded per asset",
-  "image_count": 13,
+  "image_count": 19,
   "project": "Rough as Guts website",
-  "provenance_note": "These images were newly generated for this website from written scene prompts. They are separate from the original Daz PowerPoint posters, and do not depict the real Daz or Luke. The former provenance-page hero is retained in this record as an unused historical asset.",
+  "provenance_note": "Original and revised site illustrations are recorded with their prompts and hashes. Six replacement illustrations generated on 2026-10-28 show cooperation, learning and an improvement pathway. Superseded site artwork remains available as history. These fictional people do not depict Daz or Luke. Visual inspection is not technical approval or evidence of behaviour change.",
   "source_references": "No source image was supplied to the new-generation calls. The workplace cleanup edit referenced its own initial generated image.",
   "review_scope": "Visual review of each generated image for the requested scene, tone, composition, unintended lettering and instructional hazards. These are humorous scene-setting illustrations, not safety, medical or operational guidance.",
   "assets": [
@@ -45,7 +44,8 @@
         "bytes": 447474,
         "encoding": "WebP quality 88, same composition, no retouching",
         "derived_from": "assets/generated/hero-home.png"
-      }
+      },
+      "generated_local_date": "2026-10-21"
     },
     {
       "id": "men",
@@ -79,7 +79,10 @@
         "bytes": 390330,
         "encoding": "WebP quality 88, same composition, no retouching",
         "derived_from": "assets/generated/hero-men.png"
-      }
+      },
+      "current_use": "Historical asset retained; replaced in the live site on 2026-10-28 because the revised purpose requires visible improvement.",
+      "replaced_by": "assets/generated/hero-men-care-v2.png",
+      "generated_local_date": "2026-10-21"
     },
     {
       "id": "women",
@@ -113,7 +116,10 @@
         "bytes": 372830,
         "encoding": "WebP quality 88, same composition, no retouching",
         "derived_from": "assets/generated/hero-women.png"
-      }
+      },
+      "current_use": "Historical asset retained; replaced in the live site on 2026-10-28 because the revised purpose requires visible improvement.",
+      "replaced_by": "assets/generated/hero-women-care-v2.png",
+      "generated_local_date": "2026-10-21"
     },
     {
       "id": "youth",
@@ -147,7 +153,8 @@
         "bytes": 428530,
         "encoding": "WebP quality 88, same composition, no retouching",
         "derived_from": "assets/generated/hero-youth.png"
-      }
+      },
+      "generated_local_date": "2026-10-21"
     },
     {
       "id": "workplace",
@@ -192,7 +199,10 @@
         "bytes": 358682,
         "encoding": "WebP quality 88, same composition, no retouching",
         "derived_from": "assets/generated/hero-workplace.png"
-      }
+      },
+      "current_use": "Historical asset retained; replaced in the live site on 2026-10-28 because the revised purpose requires visible improvement.",
+      "replaced_by": "assets/generated/hero-workplace-care-v2.png",
+      "generated_local_date": "2026-10-21"
     },
     {
       "id": "library",
@@ -226,7 +236,8 @@
         "bytes": 557312,
         "encoding": "WebP quality 88, same composition, no retouching",
         "derived_from": "assets/generated/hero-library.png"
-      }
+      },
+      "generated_local_date": "2026-10-21"
     },
     {
       "id": "systems",
@@ -260,7 +271,8 @@
         "bytes": 439078,
         "encoding": "WebP quality 88, same composition, no retouching",
         "derived_from": "assets/generated/hero-systems.png"
-      }
+      },
+      "generated_local_date": "2026-10-21"
     },
     {
       "id": "provenance",
@@ -294,7 +306,8 @@
         "bytes": 565512,
         "encoding": "WebP quality 88, same composition, no retouching",
         "derived_from": "assets/generated/hero-provenance.png"
-      }
+      },
+      "generated_local_date": "2026-10-21"
     },
     {
       "id": "sitemap",
@@ -328,7 +341,8 @@
         "bytes": 598926,
         "encoding": "WebP quality 88, same composition, no retouching",
         "derived_from": "assets/generated/hero-sitemap.png"
-      }
+      },
+      "generated_local_date": "2026-10-21"
     },
     {
       "id": "pipeline",
@@ -363,7 +377,8 @@
         "bytes": 525062,
         "encoding": "WebP quality 88, same composition, no retouching",
         "derived_from": "assets/generated/hero-pipeline.png"
-      }
+      },
+      "generated_local_date": "2026-10-21"
     },
     {
       "id": "concept-men",
@@ -414,7 +429,10 @@
         "bytes": 348066,
         "encoding": "WebP quality 88, same composition, no retouching",
         "derived_from": "assets/generated/concept-men.png"
-      }
+      },
+      "current_use": "Historical asset retained; replaced in the live site on 2026-10-28 because the revised purpose requires visible improvement.",
+      "replaced_by": "assets/generated/concept-men-care-v2.png",
+      "generated_local_date": "2026-10-21"
     },
     {
       "id": "concept-women",
@@ -456,7 +474,10 @@
         "bytes": 487600,
         "encoding": "WebP quality 88, same composition, no retouching",
         "derived_from": "assets/generated/concept-women.png"
-      }
+      },
+      "current_use": "Historical asset retained; replaced in the live site on 2026-10-28 because the revised purpose requires visible improvement.",
+      "replaced_by": "assets/generated/concept-women-care-v2.png",
+      "generated_local_date": "2026-10-21"
     },
     {
       "id": "concept-youth",
@@ -507,7 +528,228 @@
         "bytes": 338846,
         "encoding": "WebP quality 88, same composition, no retouching",
         "derived_from": "assets/generated/concept-youth.png"
-      }
+      },
+      "current_use": "Historical asset retained; replaced in the live site on 2026-10-28 because the revised purpose requires visible improvement.",
+      "replaced_by": "assets/generated/concept-youth-care-v2.png",
+      "generated_local_date": "2026-10-21"
+    },
+    {
+      "id": "hero-men-care-v2",
+      "title": "Shared work, shared dinner",
+      "path": "assets/generated/hero-men-care-v2.png",
+      "filename": "hero-men-care-v2.png",
+      "mime_type": "image/png",
+      "sha256": "2bfdec098b5ab2c4d933da5d412f8afbf90541b0370d785e53ae897014840689",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2793605,
+      "prompt": "Use case: illustration-story. Create a finished wide 16:9 raster illustration for the Rough as Guts website. Bold warm Australian working-life comic style, expressive heavy black ink outlines, high-quality coherent hand-drawn anatomy and props, worn cream paper, safety yellow, dusty ochre, charcoal black and restrained red. Warmth, capability and light self-recognition, never contempt. Ordinary fictional adults or teenagers, varied normal bodies, no real people. Absolutely no letters, words, numbers, logos, brands, watermark or fake signatures anywhere. No speech balloons. Text will be added in HTML. Do not portray injury, operating machinery or technical safety procedures. Asset type: single-scene website hero, not a comic grid. Scene: a modest Australian home kitchen at late afternoon. Centre-right an adult man in everyday shorts and T-shirt is actually washing plates in a clean sink and placing clean mugs in a drying rack, while another adult sets out a shared meal on a nearby table. A comically tall but stable stack of used mugs is visibly getting cleared, a third empty shelf now reclaimed. The main man looks capable and pleased, not puzzled. The humour is the heroic number of mugs being dealt with; cooperation frees time to enjoy dinner together. Clear visual separation of used items and clean drying rack. Warm kitchen light, hints of yard beyond window. Left third quieter textured shadow and wall for HTML hero copy. No pet in kitchen, no spoiled food, no toaster or powered appliances near sink.",
+      "alt": "An adult man washes dishes and clears a tall collection of mugs while another adult sets out a shared meal.",
+      "supersedes": "assets/generated/hero-men.png",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-4d6a6594-3a24-41e0-837e-c595b211e29b.png"
+      },
+      "edit_history": [],
+      "review": {
+        "method": "visual inspection of final PNG",
+        "result": "Capable washing-up and shared meal preparation visible; warm social benefit and quiet left hero area.",
+        "intended_text": "none",
+        "instructional_scope": "Everyday social action and scene-setting; no technical work procedure or medical treatment illustrated."
+      },
+      "web_derivative": {
+        "path": "assets/generated/hero-men-care-v2.webp",
+        "sha256": "39c99c923d31646e7e04e1daa114201ec887d5b8b5fc789be65c9cae160a43ff",
+        "bytes": 369930,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/hero-men-care-v2.png"
+      },
+      "generated_local_date": "2026-10-28"
+    },
+    {
+      "id": "hero-women-care-v2",
+      "title": "People plates, pet space",
+      "path": "assets/generated/hero-women-care-v2.png",
+      "filename": "hero-women-care-v2.png",
+      "mime_type": "image/png",
+      "sha256": "929e6df5ade0f1ccc174828f9694de6ff8eee442c41edbfc5e8a1a2b7609c4f4",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2645713,
+      "prompt": "Use case: illustration-story. Create a finished wide 16:9 raster illustration for the Rough as Guts website. Bold warm Australian working-life comic style, expressive heavy black ink outlines, high-quality coherent hand-drawn anatomy and props, worn cream paper, safety yellow, dusty ochre, charcoal black and restrained red. Warmth, capability and light self-recognition, never contempt. Ordinary fictional adults or teenagers, varied normal bodies, no real people. Absolutely no letters, words, numbers, logos, brands, watermark or fake signatures anywhere. No speech balloons. Text will be added in HTML. Do not portray injury, operating machinery or technical safety procedures. Asset type: single-scene website hero, not a comic grid. Scene: adult woman in casual everyday clothes ACTUALLY washing ordinary people plates in the clean kitchen sink, another adult woman helps dry and put away clean plates. They smile warmly at a hopeful dog waiting OUTSIDE the kitchen beyond a clearly visible closed low gate in an open rear doorway. The dog and its clearly separate pet bowl stay in the outdoor/laundry pet area on the far side of that gate, several feet away from the sink and food preparation. The dog looks lovingly hopeful but cannot reach people plates or the food worktop. Woman does not hold any plate near dog. Sink, dish brush and rack clearly show proper dishwashing activity. Dog has no inspector badge, no clothes, no licking utensils, no dishes on floor inside kitchen. The light joke is the dog hoping for a job it has not got; the actual behaviour is the women sharing the work, then being ready to enjoy the meal. Composition people, clean sink and gated dog relationship centre-right, quiet darker cream wall on left third for HTML copy. Ordinary warm Australian home, no mouldy jars.",
+      "alt": "Two adult women wash and dry people plates while a hopeful dog and its separate bowl remain outside the kitchen behind a closed low gate.",
+      "supersedes": "assets/generated/hero-women.png",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-a9414e07-c76a-43b6-89bc-f8b800ffa340.png"
+      },
+      "edit_history": [],
+      "review": {
+        "method": "visual inspection of final PNG",
+        "result": "People plates stay at the clean sink; dog and pet bowl are on the patio beyond the closed gate. Women actively share washing and drying.",
+        "intended_text": "none",
+        "instructional_scope": "Everyday social action and scene-setting; no technical work procedure or medical treatment illustrated."
+      },
+      "web_derivative": {
+        "path": "assets/generated/hero-women-care-v2.webp",
+        "sha256": "10cecd2482b174c24139c380ac54f15f78b748dea1232afde26346b08790b306",
+        "bytes": 321182,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/hero-women-care-v2.png"
+      },
+      "generated_local_date": "2026-10-28"
+    },
+    {
+      "id": "hero-workplace-care-v2",
+      "title": "A crew ready to work together",
+      "path": "assets/generated/hero-workplace-care-v2.png",
+      "filename": "hero-workplace-care-v2.png",
+      "mime_type": "image/png",
+      "sha256": "c0d3c7d18bb99c4870937e0270ba9071ff3c793fd7cc111edcb2b5ff132da4c5",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2823701,
+      "prompt": "Use case: illustration-story. Create a finished wide 16:9 raster illustration for the Rough as Guts website. Bold warm Australian working-life comic style, expressive heavy black ink outlines, high-quality coherent hand-drawn anatomy and props, worn cream paper, safety yellow, dusty ochre, charcoal black and restrained red. Warmth, capability and light self-recognition, never contempt. Ordinary fictional adults or teenagers, varied normal bodies, no real people. Absolutely no letters, words, numbers, logos, brands, watermark or fake signatures anywhere. No speech balloons. Text will be added in HTML. Do not portray injury, operating machinery or technical safety procedures. Asset type: single-scene website hero, not a comic grid. Scene: an IDLE Australian workshop in daylight, with three adult workers of different genders in sensible work clothes cooperating before work starts. One worker places a hand tool in an orderly wall rack, a second finishes moving an empty crate into a designated storage alcove, and a third has an open blank clipboard with only simple pictorial marks, inviting a peer to look and check together. No machinery is running, nobody holds an electrical lead or demonstrates isolation. The walking route from workshop door to bench is wide and visibly clear. The shared check is welcoming, not a boss reprimanding a fool. Friendly smiles, an unhurried capable atmosphere. A small absurd pile of unneeded coffee mugs safely on a side shelf may add recognition, but keep main action tool storage, shared check and clear route. Strong rich illustration with people and bench centre-right, quiet darker left third for HTML copy. No printed signs or painted route letters/numbers, no unsafe demonstration.",
+      "alt": "Three adults in an idle workshop put away hand tools, store a crate and check a pictorial list together beside a clear walking route.",
+      "supersedes": "assets/generated/hero-workplace.png",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-a9724331-06e8-4062-9e9a-ce733d069992.png"
+      },
+      "edit_history": [],
+      "review": {
+        "method": "visual inspection of final PNG",
+        "result": "No operating machinery, injury or technical safety procedure shown. Peers cooperate with tool storage, a blank pictorial list and a visibly clear route.",
+        "intended_text": "none",
+        "instructional_scope": "Everyday social action and scene-setting; no technical work procedure or medical treatment illustrated."
+      },
+      "web_derivative": {
+        "path": "assets/generated/hero-workplace-care-v2.webp",
+        "sha256": "60073a57381f125ff2ea97ba16834e36e8329d218a88a703e0f0b6ed29d6b162",
+        "bytes": 395736,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/hero-workplace-care-v2.png"
+      },
+      "generated_local_date": "2026-10-28"
+    },
+    {
+      "id": "concept-men-care-v2",
+      "title": "Return the whole favour",
+      "path": "assets/generated/concept-men-care-v2.png",
+      "filename": "concept-men-care-v2.png",
+      "mime_type": "image/png",
+      "sha256": "91acf348e3fe20b9767056c773ad588717950e9e1c689085294319cd3583312e",
+      "width": 2115,
+      "height": 744,
+      "bytes": 2595877,
+      "prompt": "Use case: illustration-story. Create a finished wide 16:9 raster illustration for the Rough as Guts website. Bold warm Australian working-life comic style, expressive heavy black ink outlines, high-quality coherent hand-drawn anatomy and props, worn cream paper, safety yellow, dusty ochre, charcoal black and restrained red. Warmth, capability and light self-recognition, never contempt. Ordinary fictional adults or teenagers, varied normal bodies, no real people. Absolutely no letters, words, numbers, logos, brands, watermark or fake signatures anywhere. No speech balloons. Text will be added in HTML. Do not portray injury, operating machinery or technical safety procedures. Asset type: wide three-panel wordless comic strip, three panels separated by bold black vertical gutters, exactly ordered left to right: recognition, useful action, enjoyable result. SAME two fictional adult mates through the strip, one curly-haired borrower in a plain ochre T-shirt, one short-haired lender in a muted red checked shirt. Panel 1: the borrower arrives at his mate's shed with an open drill carry case containing a cordless drill and battery; the empty fitted charger space is obvious and a charger lies on the borrower's home shelf in a small pictorial thought inset. Both men recognise an incomplete return with rueful friendly expressions, not anger. Panel 2: borrower at his bench deliberately checks the cordless drill, battery and charger all together in the open carry case, the complete three items clearly visible; he closes the case for return. Panel 3: case returned to lender, complete drill, battery and charger visible beside them; both mates sit beside a now clear bench enjoying two cuppas and relaxed conversation. No personified tools, no drill operating, no handshakes that hide the complete returned kit. The last panel clearly rewards keeping trust and completing the favour. No text or icons with letters/numbers.",
+      "alt": "Three comic panels show a borrower noticing a missing charger, checking the complete drill kit and returning it before enjoying a cuppa with his mate.",
+      "supersedes": "assets/generated/concept-men.png",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-70422078-9cf1-4507-a7bb-9fb2a4205d4e.png"
+      },
+      "edit_history": [],
+      "review": {
+        "method": "visual inspection of final PNG",
+        "result": "Same mates and drill kit across three panels. Missing charger recognised, complete kit checked and returned, relaxed social outcome visible. No drill operation. The returned kit includes drill, battery and charger; no text labels.",
+        "intended_text": "none",
+        "instructional_scope": "Everyday social action and scene-setting; no technical work procedure or medical treatment illustrated."
+      },
+      "web_derivative": {
+        "path": "assets/generated/concept-men-care-v2.webp",
+        "sha256": "98cfb1dcd159552f604c25ef8fdba2d94f448f3db088bb0d099641f584a927c6",
+        "bytes": 236090,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/concept-men-care-v2.png"
+      },
+      "generated_local_date": "2026-10-28"
+    },
+    {
+      "id": "concept-women-care-v2",
+      "title": "The chair gets its job back",
+      "path": "assets/generated/concept-women-care-v2.png",
+      "filename": "concept-women-care-v2.png",
+      "mime_type": "image/png",
+      "sha256": "d2313aadd74cc4f26289154f34c7e95f3bcf21ca220265993917fdfc16a976ae",
+      "width": 1672,
+      "height": 940,
+      "bytes": 3036410,
+      "prompt": "Use case: illustration-story. Create a finished wide 16:9 raster illustration for the Rough as Guts website. Bold warm Australian working-life comic style, expressive heavy black ink outlines, high-quality coherent hand-drawn anatomy and props, worn cream paper, safety yellow, dusty ochre, charcoal black and restrained red. Warmth, capability and light self-recognition, never contempt. Ordinary fictional adults or teenagers, varied normal bodies, no real people. Absolutely no letters, words, numbers, logos, brands, watermark or fake signatures anywhere. No speech balloons. Text will be added in HTML. Do not portray injury, operating machinery or technical safety procedures. Asset type: wide three-panel wordless comic strip, three panels separated by bold black vertical gutters, exactly ordered left to right: recognition, useful action, enjoyable result. SAME two fictional adult women across strip, one curly dark-haired woman in an ochre T-shirt and shorts, one fair-haired friend in muted red everyday top and jeans. Panel 1: a small living room chair buried under a frankly absurd mountain of ordinary clothing blocks a wanted seat; the owner recognises it with an amused rueful face while her visiting friend holds two cups, both equal adults not a scolding superior. Panel 2: the OWNER actively sorts clothes, placing washable items into a laundry basket and clean folded items onto a proper cupboard shelf; her friend helps fold a shirt beside her, both doing work, clear distinction between washing basket and clean storage, chair being cleared. Panel 3: the recovered chair is occupied by its owner and the friend sits in a second nearby chair, both relaxed over their cuppas with a little daylight and room to breathe. The home need not look magazine-perfect, only a welcoming usable space. No miniature mailbox, no fake labels, no repeated admiration of the clothes pile; the ending is enjoying the regained space.",
+      "alt": "Three comic panels show two adult women recognising a clothes-covered chair, sorting clothes into washing and clean storage, then enjoying their cuppas in the recovered seating.",
+      "supersedes": "assets/generated/concept-women.png",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-512f779c-2584-46f3-aca5-fc77ab81352a.png"
+      },
+      "edit_history": [],
+      "review": {
+        "method": "visual inspection of final PNG",
+        "result": "Owner participates actively; friend helps as an equal. Washing basket and clean folded storage visible, then owner and friend actually sit in usable space. No mailbox gimmick.",
+        "intended_text": "none",
+        "instructional_scope": "Everyday social action and scene-setting; no technical work procedure or medical treatment illustrated."
+      },
+      "web_derivative": {
+        "path": "assets/generated/concept-women-care-v2.webp",
+        "sha256": "bb6f2a2bdcbef1a1a52458b191e7fead604a3ee30f434024f26b85849a42cca0",
+        "bytes": 431548,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/concept-women-care-v2.png"
+      },
+      "generated_local_date": "2026-10-28"
+    },
+    {
+      "id": "concept-youth-care-v2",
+      "title": "A reminder becomes a routine",
+      "path": "assets/generated/concept-youth-care-v2.png",
+      "filename": "concept-youth-care-v2.png",
+      "mime_type": "image/png",
+      "sha256": "faae35f7eb7813bf924194e28c62773307708c7dead452f0d5b33a34435236b2",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2675021,
+      "prompt": "Use case: illustration-story. Create a finished wide 16:9 raster illustration for the Rough as Guts website. Bold warm Australian working-life comic style, expressive heavy black ink outlines, high-quality coherent hand-drawn anatomy and props, worn cream paper, safety yellow, dusty ochre, charcoal black and restrained red. Warmth, capability and light self-recognition, never contempt. Ordinary fictional adults or teenagers, varied normal bodies, no real people. Absolutely no letters, words, numbers, logos, brands, watermark or fake signatures anywhere. No speech balloons. Text will be added in HTML. Do not portray injury, operating machinery or technical safety procedures. Asset type: wide three-panel wordless comic strip, three panels separated by bold black vertical gutters, exactly ordered left to right: noticing, useful routine, relaxed result. SAME high-school-age teenager with short curly dark hair, warm brown skin, plain ochre T-shirt, shorts and backpack through strip. Panel 1: teenager pauses at front door with backpack while a closed lunchbox remains visible on kitchen bench; a supportive adult in the background simply points gently toward it, neither shaming nor performing the task for the teenager. Panel 2: teenager looks at a simple household check card with EXACTLY THREE WORDLESS PICTURES: backpack, lunchbox and water bottle, NO letters, numbers, ticked words or decorative text. They visibly place the lunchbox into the open backpack beside a reusable water bottle themselves. Panel 3: teenager leaves calmly with backpack and a smiling school-age friend, a wave to the supportive adult in the doorway. No rushing toward a bus, no ridicule, no suggestion of neglectful parents. The changed behaviour is a practical self-check and accepting a helpful reminder, with independence and connection as the reward. No personified lunchbox or magically packing bag.",
+      "alt": "Three comic panels show a teenager noticing a forgotten lunch, using a three-picture bag, lunch and water check card to pack it, then leaving calmly with a friend.",
+      "supersedes": "assets/generated/concept-youth.png",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-5baec14d-9a17-4293-a231-336edaf684de.png"
+      },
+      "edit_history": [],
+      "review": {
+        "method": "visual inspection of final PNG",
+        "result": "Supportive adult gestures without ridicule; teenager packs lunch and water themselves; exactly three wordless check-card pictures; final relaxed departure with a friend. No personified lunchbox.",
+        "intended_text": "none",
+        "instructional_scope": "Everyday social action and scene-setting; no technical work procedure or medical treatment illustrated."
+      },
+      "web_derivative": {
+        "path": "assets/generated/concept-youth-care-v2.webp",
+        "sha256": "848934b35a875f44861812d659b4bb66037e5ecc905f60adef23706e7a388ce1",
+        "bytes": 293994,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/concept-youth-care-v2.png"
+      },
+      "generated_local_date": "2026-10-28"
     }
-  ]
+  ],
+  "initial_generation_local_date": "2026-10-21",
+  "last_updated_local_date": "2026-10-28"
 }

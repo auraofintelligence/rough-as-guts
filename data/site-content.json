@@ -1,444 +1,542 @@
 {
   "home": {
-    "eyebrow": "ROUGH AS GUTS • GUIDES IN DEVELOPMENT",
-    "title": "For someone you love. Who drives you bloody nuts.",
-    "lead": "Funny picture guides for the habits that make families, mates and co-workers say, “How have you survived this long?”",
-    "heroAlt": "A lively Australian comic scene with several adults discovering a Rough as Guts guide among the everyday mess they have created.",
-    "intro": "Buy it for a mate. Give it to your partner. Leave it on the kitchen bench and let nature take its course. Rough as Guts is being developed around a simple idea: a good laugh can get a useful thought through the door.",
+    "eyebrow": "ROUGH AS GUTS • LAUGH, LEARN, LIVE WELL",
+    "title": "Have a laugh. Leave with a better way.",
+    "lead": "Light satire and useful know-how for a safer shift, a kinder home and more life to enjoy.",
+    "heroAlt": "Friends share an illustrated guide at an Australian bowls club table, enjoying a laugh together.",
+    "intro": "Rough as Guts starts with habits we can recognise in ourselves. The familiar excuse gets the laugh, then the person gets a way to do things differently. The aim is joyful responsible abundance: more health, capability, trust, time and shared enjoyment.",
     "sections": [
       {
-        "heading": "The present with a fairly obvious hint",
-        "body": "Some gifts say, “I was thinking of you.” This one might say, “I was thinking of your wet towel, your seventh abandoned coffee mug and the way you pack for a weekend like you’re fleeing the country.” The affection stays. The habit gets a proper roasting.",
+        "heading": "A gift that offers a hand",
+        "body": "Give a guide to a mate, partner or yourself as an invitation to try something together. A shared laugh can open a conversation about the mess, the borrowed gear or the way we talk to each other. Offer help and leave room for a reply.",
         "bullets": [
-          "For family members whose contribution to the washing-up is a weather report.",
-          "For mates who treat preparation as a personal insult.",
-          "For co-workers with a PhD in making a five-minute job take all afternoon.",
-          "For yourself, when the picture looks uncomfortably familiar."
+          "Read the page together instead of using it to embarrass someone.",
+          "Talk about the behaviour and what would help.",
+          "Share the work of making the change."
+        ],
+        "try_this": "Choose a habit you are willing to work on too. Agree what each person will do, then notice the effort when things improve.",
+        "benefit": "Less resentment and more room for people to enjoy being together."
+      },
+      {
+        "heading": "Different lives. The same dignity.",
+        "body": "Men’s, women’s and Young Crew editions use different situations and characters. The opportunity to learn belongs to everyone. Worksite material also asks what training, equipment, supervision and work design need to improve, rather than blaming the person nearest the problem.",
+        "bullets": [
+          "Men: finishing jobs, sharing care, listening and returning favours.",
+          "Women: hygiene, boundaries, making space and enjoying life with less chaos.",
+          "Young Crew: practical independence, support and permission to learn a different way.",
+          "Worksites: safe work, speaking up and a crew that acts on concerns."
         ]
       },
       {
-        "heading": "A whole crew of rough edges",
-        "body": "Men’s and women’s editions are in development, alongside Young Crew material and workplace ideas. Different people, different situations, plenty of room for everyone to recognise themselves. The joke can follow a character, a couple, a household or an entire camp.",
+        "heading": "Joyful responsible abundance",
+        "body": "The reward is a fuller life: health to enjoy it, skills to take part, relationships that hold up and time left for the people and things we love. Responsibility makes room for that enjoyment. The humour can be blunt and Australian while still being on the reader’s side.",
         "bullets": [
-          "Men: borrowed tools, five-minute repairs, mystery leftovers and sideline experts.",
-          "Women: handbag archaeology, epic voice notes, op-shop rescues and feral departures.",
-          "Young Crew: growing independence with humour and practical little wins.",
-          "Worksites: shared facilities, camp life and visual support for reviewed task material."
+          "Laugh at the excuse, then help the person move beyond it.",
+          "Celebrate asking, learning, repairing and contributing.",
+          "Keep pleasure, play and belonging in the final picture."
         ]
-      },
-      {
-        "heading": "Five new directions. All in development.",
-        "body": "The original mine-and-camp material is a starting point. These proposed topics take the same humour into the rest of life.",
-        "bullets": [
-          "Dating and getting along: listening, manners, boundaries and reading the room.",
-          "Exercise: starting sensibly, learning the movement and showing up again.",
-          "Cooking, cleaning and hygiene: feeding yourself and leaving somewhere fit for other humans.",
-          "Parenting: being present, sharing the work and remembering the actual child.",
-          "Travel: packing, planning and behaving like a decent visitor."
-        ]
-      },
-      {
-        "heading": "One good idea can go a long way",
-        "body": "A strong gag could become a book page, poster, small card, short animation or newsletter feature. The useful bit needs to survive each format: a recognisable situation, a clear action and a joke that lands.",
-        "bullets": [
-          "A picture you understand at a glance.",
-          "A caption worth reading aloud.",
-          "A useful point you can remember tomorrow.",
-          "Enough warmth that you might give it to someone you actually like."
-        ]
-      },
-      {
-        "heading": "Have a rummage",
-        "body": "The original 45-slide deck is the source archive. The Systems page shows how an observation can become a clearer, funnier illustrated idea. New editions and formats are in development; this site is a place to explore the work as it takes shape.",
-        "bullets": []
       }
     ],
     "sample_gags": [
       {
-        "title": "The Museum of Unwashed Mugs",
-        "setup": "Every room has a different exhibit. Several appear to be developing their own ecosystem.",
-        "punchline": "The dishwasher has capacity. Your bedside table has tenure.",
-        "visual": "A mock museum tour through a normal house, with abandoned mugs displayed under tiny spotlights and an unimpressed housemate holding a washing-up brush.",
-        "status": "Concept in development"
+        "title": "The Mugs Are Coming Home",
+        "setup": "The bedside table has become an unofficial café. The cups have outlasted several menus.",
+        "punchline": "The café has closed. The owner is doing the washing-up.",
+        "visual": "Three beats: a collection of abandoned mugs; the same person carries and washes them; the clear table holds a book and one fresh cup while they relax.",
+        "try_this": "Take your used mugs back, wash them and leave shared spaces ready for the next person. Agree a routine that everyone contributes to.",
+        "benefit": "A cleaner place to eat and drink, less work left for someone else and a space you can enjoy.",
+        "status": "Draft to try with readers"
       },
       {
-        "title": "Weekend Away. Expedition Equipment.",
-        "setup": "Three bags, two backup jackets and no toothbrush.",
-        "punchline": "Excellent. You’re prepared for everything except being there.",
-        "visual": "Two adults beside an overpacked car; camping gear towers above a small, conspicuously empty toiletries bag.",
-        "status": "Concept in development"
+        "title": "Packed for the Trip You Are Taking",
+        "setup": "The weekend bag has two backup jackets and no toothbrush.",
+        "punchline": "The spare expedition has been cancelled. The toothbrush made the team.",
+        "visual": "A traveller checks the actual trip needs, removes surplus gear and packs toiletries; the final scene is a relaxed arrival with a manageable bag.",
+        "try_this": "Check the trip, the essentials and what you can carry before packing. Use a list you can change after the journey.",
+        "benefit": "Less hauling, fewer forgotten necessities and more time to enjoy being away.",
+        "status": "Draft to try with readers"
       },
       {
-        "title": "The Five-Minute Job",
-        "setup": "It began with a loose handle. The whole room is now in pieces.",
-        "punchline": "The first tool you needed was a pause.",
-        "visual": "A DIY enthusiast surveys an absurd spread of dismantled household objects while a mate holds a single replacement screw.",
-        "status": "Concept in development"
+        "title": "The Job That Actually Ends",
+        "setup": "A loose cupboard handle is attracting a renovation speech.",
+        "punchline": "One right screw. A whole Saturday still available.",
+        "visual": "An adult pauses before dismantling the cupboard, checks the simple repair with a knowledgeable mate, completes it and joins friends outside. No electrical or structural work.",
+        "try_this": "Work out the actual problem before taking things apart. Use suitable instructions or ask someone who knows, and recognise when the job needs a qualified person.",
+        "benefit": "A working cupboard, less waste and a weekend that still contains leisure.",
+        "status": "Draft to try with readers"
       }
     ]
   },
   "men": {
-    "eyebrow": "MEN’S EDITION • IN DEVELOPMENT",
-    "title": "For the bloke who reckons he’s got a system.",
-    "lead": "The five-minute repair, the borrowed tool and the fridge tub nobody will open. There’s a useful hint in here somewhere. Probably under his keys.",
-    "heroAlt": "A puzzled adult man holds a tea towel stiff as a plank beside a sink full of dishes and overflowing laundry.",
-    "intro": "Give it to the mate who returns a drill without the charger. The brother whose leftovers have survived two governments. The partner who says “nearly done” from inside a wall. These proposed chapters give a few familiar habits a proper roasting, with enough affection that he might still lend you the book afterwards.",
+    "eyebrow": "MEN'S EDITION · IN DEVELOPMENT",
+    "title": "More clue. More time for the good stuff.",
+    "lead": "A laugh at the familiar excuse, followed by a way to finish the job, share the load and look after the people around you.",
+    "heroAlt": "An adult man washes dishes and clears a tall collection of mugs while another adult sets out a shared meal.",
+    "intro": "A useful gift says, \"Let's have a laugh and make this easier.\" These proposed pages follow different blokes recognising a habit, trying another way and getting something worthwhile back: trust, a calmer household, a job properly finished or an afternoon with their mates. The person in the joke gets to be the person who changes it.",
     "sections": [
       {
-        "heading": "The Five-Minute Job Needs a Site Office",
-        "body": "He went in to tighten a cupboard handle. The door is off, the contents are on the floor and he’s explaining why the whole kitchen was badly designed anyway. There are now three hardware receipts and no available bench space. This chapter is for the enthusiastic starter whose family would quite like to see him finish something.",
+        "heading": "The Five-Minute Job Can Have an Ending",
+        "body": "He went in to fix a loose handle. Now the cupboard is in several suburbs of the kitchen and he is considering a site office. The turn comes when he stops expanding the job, checks the method and gets the original repair finished. The final picture gives the household its kitchen back and him a reason to put the kettle on.",
         "bullets": [
-          "“While I’m here” is how a loose screw becomes a renovation.",
-          "The instruction sheet is currently protecting the bench from his coffee.",
-          "He’s saved forty dollars. The household has lost Saturday."
+          "The handle asked for help. The entire kitchen did not request redevelopment.",
+          "A job can pause for a question before it becomes a long weekend.",
+          "Put the tools away and leave the space ready for the next person."
         ],
-        "picture_idea": "A man stands proudly beside a cupboard stripped into dozens of parts. His partner holds one loose handle, and a tiny site office has appeared at the end of the kitchen bench."
+        "picture_idea": "Three panels: a bloke surveys the unnecessary cupboard demolition; he puts the right instructions beside the original loose handle and gets help with an unfamiliar part; he finishes the repair, clears the bench and joins the household for a cuppa.",
+        "try_this": "Agree what needs fixing, check that you know how to do it safely, get suitable help where needed, then finish and clear the work area before adding another job.",
+        "benefit": "The repair becomes useful to everyone, shared space stays usable and the free time at the end belongs to the household too."
       },
       {
-        "heading": "The Fridge Witness Protection Program",
-        "body": "Every container has a lid. Very few have an explanation. He lifts one, says “still smells alright” and promptly asks if anyone wants takeaway. The comedy lives in the leftovers he keeps out of principle, the sauce bottles with one teaspoon left and the empty milk carton thoughtfully returned to the shelf. A clean-out would answer several household questions.",
+        "heading": "The Fridge Can Retire From Archaeology",
+        "body": "Every container has a lid. Very few have an explanation. Instead of appointing a family member Chief Investigator, he owns the clean-out and the next meal plan. Labels, storage directions and a clear shelf replace the guessing game. The joke can end with an ordinary lunch being easy to find, which is a decent result for an expedition.",
         "bullets": [
-          "“That’s from Tuesday.” Which Tuesday has been referred to the archives.",
-          "The good container has been missing since the curry incident.",
-          "Putting an empty carton back is a very small act of warfare."
+          "\"Tuesday's leftovers\" could use a date and an owner's name.",
+          "An empty milk carton is information for the shopping list, not a fridge ornament.",
+          "A sniff is not a substitute for the food's storage and date guidance."
         ],
-        "picture_idea": "A man peers into a fridge full of identical tubs. Several wear tiny disguises, while a family member holds the missing container’s lid like a detective displaying evidence."
+        "picture_idea": "Three panels: a man confronts a fridge full of anonymous containers; he checks labels and storage guidance, deals with unsuitable food and cleans the shelf; he packs a clearly labelled lunch and adds milk to the shared shopping list.",
+        "try_this": "Take responsibility for your food: label and date prepared items, follow their storage guidance, deal with food that should no longer be kept and replace empty packaging with a shopping-list entry.",
+        "benefit": "People can find their food, share the fridge considerately and spend less time guessing or cleaning up someone else's mystery.",
+        "links": [
+          {
+            "label": "Queensland Health: recognising unsafe food",
+            "url": "https://www.qld.gov.au/health/staying-healthy/food-pantry/food-safety-for-consumers/food-safety-and-your-health/signs-of-potentially-unsafe-food"
+          }
+        ]
       },
       {
-        "heading": "The Apology Has Footnotes",
-        "body": "He’s sorry, obviously. First he needs twelve minutes to establish the weather, the traffic, the quality of the signage and what his mate would have done. By the time he reaches “but”, everyone has forgotten the original offence. These pages follow the heroic effort involved in saying a simple thing without turning it into an appeal hearing.",
+        "heading": "The Apology Can Lose Its Footnotes",
+        "body": "He has prepared an explanation involving traffic, weather and what his mate would have done. Then he notices the person waiting for him to own the actual mistake. The whiteboard folds away. He says what he did, listens and offers a repair he can follow through on. The humour comes from retiring the defence team, not from making the hurt person accept it.",
         "bullets": [
-          "“I’m sorry you took it that way” has arrived wearing a fake moustache.",
-          "His explanation now needs a whiteboard and a second witness.",
-          "Try “I stuffed that up.” There’s still time to enjoy the afternoon."
+          "\"I stuffed that up\" can travel without a supporting slide deck.",
+          "Listen to the effect before presenting the excuse.",
+          "A promised repair needs to appear in the next scene."
         ],
-        "picture_idea": "Different adults sit around a backyard table while an apologising man presents an absurdly long flowchart. A small card reading “Sorry. My fault.” waits unused beside his elbow."
+        "picture_idea": "A man begins an apology beside an enormous explanation chart. In the next panel he rolls it up and listens. In the final panel he carries out the agreed repair while the other adult has space to respond in their own time.",
+        "try_this": "Name what you did and its effect, apologise without shifting the blame, listen and agree a repair you can actually carry out. Give the other person room to respond.",
+        "benefit": "Responsibility becomes visible, the same argument has less fuel and trust has something practical to grow from."
       },
       {
-        "heading": "The Borrowed Drill Has Changed Families",
-        "body": "A mate lent him a drill for the weekend. It now has a regular parking spot, a preferred shelf and possibly voting rights at his place. Meanwhile the owner has bought another one. This chapter collects the missing chargers, blunt blades and mysterious accessories that make lending a tool feel like sponsoring a very expensive exchange student.",
+        "heading": "The Borrowed Drill Gets to Go Home",
+        "body": "The drill has been at his place long enough to know the neighbours. Its owner would quite like a reunion. Rather than celebrating the long loan, the page follows him finding the charger, checking the borrowed kit and arranging its return. His mate's surprise at seeing the whole lot together can carry the last laugh.",
         "bullets": [
-          "“Just finishing with it” is entering its third financial year.",
-          "He returned the case. A bold opening offer.",
-          "A borrowed mower should come home with fewer problems than it left with."
+          "The case, the tool and the charger were originally a group booking.",
+          "Mention damage while you are still the person returning it.",
+          "The next favour is easier when the previous one came home."
         ],
-        "picture_idea": "A borrowed drill poses in a framed family photo in a man’s shed. Outside, its original owner waits with an empty case and an increasingly patient expression."
+        "picture_idea": "A drill appears in an absurdly affectionate family-photo setup. Its borrower then gathers the charger and accessories, speaks honestly to the owner and returns the complete kit. Both mates share a cuppa with the tool back on its proper shelf.",
+        "try_this": "Ask before borrowing, agree when it will come back, return the complete kit in suitable condition and tell the owner promptly about any damage or problem.",
+        "benefit": "The owner can use their own gear, awkward chasing is avoided and helping each other remains enjoyable."
       },
       {
-        "heading": "The Sideline Has a New National Coach",
-        "body": "It’s an under-tens game at the suburban oval or the country rec ground. He’s arrived with tactical concerns normally reserved for a World Cup final. His child is more interested in the orange slices. These pages find the point where enthusiastic support becomes a full broadcast, complete with disputed decisions and an audience trying to watch their own kids.",
+        "heading": "The Sideline Has Room for a Supporter",
+        "body": "He arrived at junior sport with a tactical briefing worthy of a national final. His child mainly hoped he would watch. When he catches himself, the tactics board goes back in the car. He encourages the players, leaves coaching to the coach and asks what the child enjoyed. His enthusiasm finally has a job everybody can live with.",
         "bullets": [
-          "The coach has a plan. Apparently Dad has a louder one.",
-          "His match analysis lasted longer than the match.",
-          "The kid asked for a lift home, not a performance review."
+          "The coaching position has already been filled.",
+          "\"I liked watching you play\" does not require a performance review.",
+          "There are cones to collect if the tactical department needs a task."
         ],
-        "picture_idea": "Several parents watch a small junior sports game. One dad has unfolded a giant tactics board beside the esky while his child offers him an orange slice and a quiet seat."
+        "picture_idea": "A dad begins beside an oversized tactics board. His child points to the actual coach, and Dad catches the joke. He puts the board away, cheers respectfully and helps collect the cones before walking home listening to the child's story.",
+        "try_this": "Check what support the young player wants, follow the club's spectator expectations, encourage effort respectfully and offer practical help to the volunteers.",
+        "benefit": "Children get room to enjoy learning, volunteers can do their jobs and sport becomes a shared pleasure."
       }
     ],
     "sample_gags": [
       {
-        "title": "The Date Commentary Channel",
-        "setup": "He has explained his job, his old car, his new car and the correct way to reverse a trailer.",
-        "punchline": "Strong opening. Now find out her name.",
-        "visual": "Two adults on a casual date; one man’s speech bubble has become an enormous map of unrelated stories while his date patiently holds a small question mark.",
-        "status": "Concept in development"
+        "title": "The Date Commentary Channel Finds an Interviewer",
+        "setup": "He has explained his old car, his new car and several developments in trailer reversing. Then he notices he has barely asked a question.",
+        "punchline": "Breaking news: there is another person on this date.",
+        "visual": "Three comic beats: the man's stories fill a large speech bubble; he catches himself and asks an open question; both adults are talking and listening, with the empty boast bubble folded into a tiny paper aeroplane beside his plate.",
+        "status": "Concept for discussion",
+        "try_this": "Ask about the other person's interests, listen to the answer and make room for them to choose what they share. Respect their boundaries and interest.",
+        "benefit": "The meeting becomes a conversation both people can enjoy, with less pressure to perform or impress."
       },
       {
-        "title": "Dad Packed the Bag",
-        "setup": "Drinks, snacks, wipes, hat. He proudly announces everything is ready.",
-        "punchline": "Good start. Where’s the child?",
-        "visual": "An elaborately prepared parent stands beside a packed day bag while the child waits calmly in the doorway holding the missing shoes.",
-        "status": "Concept in development"
+        "title": "Dad Packed the Bag, Then Checked With the Kid",
+        "setup": "The day bag has supplies for an expedition. The child quietly holds up the missing shoes.",
+        "punchline": "Expedition control has accepted a late report from the actual passenger.",
+        "visual": "A parent proudly presents an overprepared day bag. The child points to their shoes and a simple activity list. Together they check what is needed, adjust the bag and head out smiling.",
+        "status": "Concept for discussion",
+        "try_this": "Check the activity and essentials together, include the child's needs and perspective, then confirm the travel and return plan with the responsible adults.",
+        "benefit": "The adult shares the preparation properly and the child gets practice contributing rather than being managed around."
       },
       {
-        "title": "The Gym Opening Ceremony",
-        "setup": "New shoes. New watch. New bottle. An inspirational announcement.",
-        "punchline": "Tomorrow’s workout still needs you to turn up.",
-        "visual": "A man cuts a ceremonial ribbon in front of a single exercise mat while a calendar quietly displays the following day.",
-        "status": "Concept in development"
+        "title": "The Gym Opening Ceremony Finally Starts the Session",
+        "setup": "New shoes, new watch, new bottle and a ribbon-cutting ceremony. His mate applauds, then points to the activity they agreed to do.",
+        "punchline": "The opening ceremony has concluded. Participants may now participate.",
+        "visual": "A bloke makes a grand launch of an exercise mat. In the next panel he puts the ceremony props aside and joins a mate in an ordinary, appropriate activity they know how to do. The final panel shows them enjoying the outing together.",
+        "status": "Concept for discussion",
+        "try_this": "Choose an activity that suits your current ability, learn how to do it appropriately and make an arrangement you can return to. Ask for suitable guidance when unsure.",
+        "benefit": "Movement becomes something to enjoy and practise, with encouragement that lasts beyond buying the gear."
       }
     ]
   },
   "women": {
-    "eyebrow": "WOMEN’S EDITION • IN DEVELOPMENT",
-    "title": "For the woman who calls this “under control”.",
-    "lead": "The handbag excavation, the five-minute voice note and the dog who pre-rinses the dishes. A few rough edges deserve their own illustrated guide.",
-    "heroAlt": "An amused adult woman holds a forgotten leftovers jar wearing a tiny birthday hat in front of an open fridge.",
-    "intro": "For the friend who brings home another “easy restoration”. The sister whose quick message needs an intermission. The partner who arrives looking immaculate and leaves holding her shoes and someone else’s cake. Give her a laugh and a fairly obvious hint. These proposed chapters have plenty of mess, cheek and questionable judgement to go round.",
+    "eyebrow": "WOMEN'S EDITION · IN DEVELOPMENT",
+    "title": "A laugh, a change and room to enjoy yourself.",
+    "lead": "From the overloaded handbag to the hopeful dog, the joke opens the door to more care, confidence and everyday ease.",
+    "heroAlt": "Two adult women wash and dry people plates while a hopeful dog and its separate bowl remain outside the kitchen behind a closed low gate.",
+    "intro": "These proposed pages give different women room to recognise a familiar habit and try another way. A friend might read one with you, share their own version or lend a hand. The payoff is a cleaner shared kitchen, a clearer message, a finished project or a night out that ends well. Joy has room to grow when responsibility is shared.",
     "sections": [
       {
-        "heading": "Your Handbag Has Applied for a Mining Lease",
-        "body": "She can produce pliers, emergency earrings and a cough lolly from a previous decade. Finding the house key requires a full excavation on the café table. Somewhere beneath the useful stuff is a sandwich she has stopped asking questions about. This chapter celebrates being prepared for almost anything, provided nobody needs it within the next twenty minutes.",
+        "heading": "The Handbag Mining Lease Can Close Early",
+        "body": "She can produce pliers and emergency earrings, but the house key requires a full excavation. The comic discovery gives her a reason to clear out food, return loose items to useful places and give the essentials a home. She gets to be resourceful without carrying last month's lunch as evidence.",
         "bullets": [
-          "She offered you a mint, then blew the handbag fluff off it.",
-          "The receipt says 2019. The banana has declined to comment.",
-          "Her keys are in the safe place. Unfortunately, so is everything else."
+          "The bag can carry supplies without becoming long-term food storage.",
+          "A key pocket is allowed to contain keys.",
+          "The excavation crew finishes early enough to enjoy the coffee."
         ],
-        "picture_idea": "A woman empties an enormous handbag across a small café table. A tiny excavator works through receipts while her friend holds up one key and a remarkably old banana."
+        "picture_idea": "A woman and a friend survey the absurd contents of an overloaded handbag. She clears out rubbish and old food, sorts the essentials into useful places and puts the keys into a consistent pocket. The final panel shows her finding them easily as both friends leave for a walk.",
+        "try_this": "Empty out rubbish and food, keep only what is useful for the day and put keys, phone and other essentials in consistent places. Clean the bag as its care instructions allow.",
+        "benefit": "Finding things takes less effort, food stays where it belongs and being prepared feels lighter."
       },
       {
-        "heading": "That Quick Voice Note Needs an Interval",
-        "body": "She’s walking through the supermarket or waiting outside the rural post office, recording “one quick thing”. It includes a family dispute, an unrelated dog sighting and every item currently on special. The intended listener only asked which milk to buy. These pages explore the moment a handy message becomes a podcast with accidental public participation.",
+        "heading": "The Voice Note Gets to the Milk Question",
+        "body": "Her quick message has reached a family Christmas dispute and an unrelated dog sighting. The listener still needs to know which milk to buy. She can keep the stories and care about the listener's time: answer the question, ask when they are free for the yarn and keep other people's private business out of the supermarket broadcast.",
         "bullets": [
-          "The checkout operator is now invested in what happened at Christmas.",
-          "“Long story short” was four minutes ago.",
-          "Her friend replies, “So, full cream or skim?”"
+          "The answer can arrive before the director's commentary.",
+          "\"Have you got time for a yarn?\" gives the listener a choice.",
+          "Christmas can wait until the milk is home."
         ],
-        "picture_idea": "A woman records a voice note beside a supermarket fridge. Her speech bubble winds through several aisles, and the checkout operator holds a tiny interval sign."
+        "picture_idea": "A speech bubble winds around a supermarket aisle. The woman pauses, sends the requested milk answer and asks her friend when they have time to chat. The final scene shows both choosing to sit together for the longer story, with private details kept between them.",
+        "try_this": "Put the practical answer first, ask before starting a long conversation and choose a suitable time and place for personal stories. Let the other person speak too.",
+        "benefit": "Connection stays welcome, useful information is easier to find and other people's time and privacy receive care.",
+        "links": [
+          {
+            "label": "Pets and food safety at home: Federation Council",
+            "url": "https://www.federationcouncil.nsw.gov.au/Environment-Waste/Public-Health/Food-Safety-at-Home/Pets-Food-Safety"
+          }
+        ]
       },
       {
-        "heading": "The Op-Shop Rescue Has Rescued Your Spare Room",
-        "body": "A cracked birdbath. A cabinet without handles. A lamp with a plug nobody recognises. She can see the potential, and everybody else can see the trailer filling up. The clean-up, the repairs and the question of where it will live belong to future her. Future her would quite like a word before the next council collection.",
+        "heading": "The Op-Shop Rescue Gets a Proper Home",
+        "body": "She can see the potential in the cabinet. Everyone else can see the blocked garage. The page gives that enthusiasm somewhere to go: choose a project with a real use, check what it needs and finish it before filling the next trailer. The final reveal is furniture in use, with room for the people who live there.",
         "bullets": [
-          "“It only needs a quick sand” has swallowed another long weekend.",
-          "She bought a second cabinet to store the bits for the first cabinet.",
-          "The bargain was fifteen dollars. Getting the car back in the garage is looking dearer."
+          "\"It only needs a quick sand\" can come with an honest look at the work.",
+          "The bargain includes somewhere suitable to put it.",
+          "A finished chair is allowed to hold a visitor."
         ],
-        "picture_idea": "A woman beams beside a trailer of dubious second-hand treasures. A family member attempts to reach the garage through a narrow corridor of unfinished rescues."
+        "picture_idea": "A woman stands beside a growing collection of unfinished second-hand finds. She and a household member choose one useful, suitable project and clear the others through agreed reuse or disposal. The final panel shows the finished cabinet in use and a clear garage walkway.",
+        "try_this": "Check the condition, work required, space and intended use before bringing something home. Agree about shared space, get suitable help for unfamiliar repairs and finish, pass on or properly dispose of stalled projects.",
+        "benefit": "Reuse becomes useful rather than a burden, shared areas remain accessible and the pleasure of making something is easier to enjoy."
       },
       {
-        "heading": "Five-Star Entrance. Feral Departure.",
-        "body": "She arrives at the wedding, the races or the bowls-club do looking magnificent. Hours later, the shoes are in a chip box and she’s carrying cake on a raffle ticket. The outfit has survived through determination and one overloaded safety pin. This chapter follows the grand exit of someone who insists she has packed everything she could possibly need.",
+        "heading": "The Grand Entrance Includes a Good Way Home",
+        "body": "She arrives ready for a marvellous night. The imagined departure involves a chip box full of shoes and a cake balanced on a raffle ticket. The story changes before that happens: a suitable way home, footwear she can manage and a container for anything she is taking. Preparation gives the good night somewhere decent to land.",
         "bullets": [
-          "The emergency flats are safely at home, having an excellent night.",
-          "She’s holding the good shoes like two freshly caught fish.",
-          "The clutch fits a lipstick. The evening has required a small removal truck."
+          "The emergency flats are more useful on this side of the front door.",
+          "A raffle ticket has limited qualifications as a cake carrier.",
+          "A good exit can leave the host with fond memories and their crockery."
         ],
-        "picture_idea": "A comic triptych shows three different women leaving adult social events: shoes in a chip box, cake balanced on a raffle ticket and an immaculate fascinator above a very improvised outfit repair."
+        "picture_idea": "A woman imagines a comically chaotic departure from a bowls-club celebration. She checks her arrangements before leaving, packs suitable footwear and takes a proper food container if needed. The final panel shows friends leaving considerately on their arranged ride while helping the host clear the table.",
+        "try_this": "Arrange a suitable way home, take what you need to be comfortable and check with the host before taking food or items away. Help leave the venue ready for others.",
+        "benefit": "Enjoyment comes with less avoidable stress, friends can look out for each other and hospitality stays a pleasure."
       },
       {
-        "heading": "The Dog Is Not the Dishwasher",
-        "body": "The dog shares the couch, the car seat and increasingly the cutlery. She calls his interest in the roast “helping”, then wipes a licked spoon on her jeans before putting it back. Visitors have begun guarding their plates. These pages give the much-loved family pest a break from his self-appointed job as head of kitchen quality control.",
+        "heading": "The Dog Retires From Dishwashing",
+        "body": "The dog looks delighted with his kitchen promotion. She catches herself treating a lick as a wash and laughs at how low the entry requirements were. Then she takes the plate back, washes the people’s crockery properly and settles the dog at his own bowl outside the kitchen. The dog remains adored, with a job suited to a dog.",
         "bullets": [
-          "“He only licked the handle.” A defence nobody requested.",
-          "The dog has a seat at dinner and absolutely no qualifications.",
-          "She licked the serving spoon. Even the dog looked concerned."
+          "An enthusiastic tongue is not washing-up equipment.",
+          "The dog's bowl can be his own dining room.",
+          "His new position is Waiting Hopefully, on the floor."
         ],
-        "picture_idea": "A woman stands beside a dog wearing a tiny kitchen-inspector badge. A guest protects a plate while a proper washing-up brush and sink wait conspicuously in the background."
+        "picture_idea": "Three panels: a woman notices the dog licking a people’s plate and catches the absurdity; she takes the dog and his feeding items out of the kitchen, washes the people’s plate properly and washes her hands after the pet clean-up; friends and family enjoy a clean table while the dog eats from his own bowl outside the kitchen and food preparation area.",
+        "try_this": "Keep pets and their feeding items out of the kitchen and food preparation area. Wash pet items separately from people’s cooking and eating items, wash people’s dishes properly and wash your hands after handling pets or their food, bowls and mess.",
+        "benefit": "Care for the pet and care for the people sharing the kitchen work together. Guests can relax and meals become more welcoming.",
+        "links": [
+          {
+            "label": "Pets and food safety at home: Federation Council",
+            "url": "https://www.federationcouncil.nsw.gov.au/Environment-Waste/Public-Health/Food-Safety-at-Home/Pets-Food-Safety"
+          }
+        ]
       }
     ],
     "sample_gags": [
       {
-        "title": "The Chair Has Joined the Wardrobe",
-        "setup": "Clean clothes. Worn-once clothes. Clothes awaiting a decision.",
-        "punchline": "At this point, the chair needs its own postcode.",
-        "visual": "A woman attempts to sit while a towering clothes pile on an ordinary chair has acquired a tiny mailbox and street number.",
-        "status": "Concept in development"
+        "title": "The Chair Returns to Active Seating",
+        "setup": "Clean clothes, worn-once clothes and clothes awaiting a decision have taken the chair out of service. She catches the joke when a friend has nowhere to sit.",
+        "punchline": "Chair management is delighted to announce the return of sitting.",
+        "visual": "A chair buried in clothes has acquired an absurd little mailbox. The woman sorts the clothes into laundry and suitable storage, removes the mailbox and invites her friend to sit with her. The last panel gives both people a comfortable place to enjoy their visit.",
+        "status": "Concept for discussion",
+        "try_this": "Sort the clothes into what needs washing and what can be put away, then keep seating and shared walkways available for their intended use.",
+        "benefit": "The space becomes easier to use and friends can spend their time together rather than moving the same pile."
       },
       {
-        "title": "Packing for All Possible Selves",
-        "setup": "Beach self. Hiking self. Fancy-dinner self. Emergency cold-weather self.",
-        "punchline": "Current self cannot lift the suitcase.",
-        "visual": "A traveller stands beside an enormous suitcase; small comic versions of her imagined holiday plans compete to add one more item.",
-        "status": "Concept in development"
+        "title": "Packing for the Trip You Are Actually Taking",
+        "setup": "Her imagined beach, hiking and fancy-dinner selves are all adding luggage. The person who has to carry it asks for a meeting.",
+        "punchline": "The committee has agreed to take the person and leave several hypothetical holidays at home.",
+        "visual": "Comic imagined holiday selves compete to fill a suitcase. The traveller checks the actual plans, conditions and essentials with a friend, makes a suitable packing list and repacks. In the final scene she can manage her luggage and help with shared trip preparations.",
+        "status": "Concept for discussion",
+        "try_this": "Pack for the actual activities and expected conditions, check the essentials and shared arrangements, and choose luggage you can manage appropriately.",
+        "benefit": "Travel preparation becomes more dependable and comfortable, with attention left for the people and places you are going to enjoy."
       },
       {
-        "title": "The Workout Collection",
-        "setup": "She has saved enough exercise videos to keep a sports institute busy.",
-        "punchline": "Pick one. The bookmark button has had a decent workout.",
-        "visual": "A woman in exercise gear faces a comically long ribbon of saved videos while a single mat and simple timer wait nearby.",
-        "status": "Concept in development"
+        "title": "The Workout Collection Goes Outside",
+        "setup": "She has saved enough exercise videos for an impressive opening presentation. Then she asks a mate to join her in an activity they can both enjoy.",
+        "punchline": "The bookmark button has earned a rest. The rest of us are going for a walk.",
+        "visual": "A woman surveys a comically long ribbon of saved workout videos. She puts the phone aside, agrees an appropriate activity with a friend and joins in. The ending shows them enjoying the outing rather than admiring new gear or comparing bodies.",
+        "status": "Concept for discussion",
+        "try_this": "Choose movement that suits your ability and circumstances, learn anything unfamiliar from a suitable person and make room to enjoy it regularly with or without company.",
+        "benefit": "Wellbeing becomes something lived and supported, with less pressure to perform an ideal version of yourself."
       }
     ]
   },
   "youth": {
-    "eyebrow": "YOUNG CREW • IN DEVELOPMENT",
-    "title": "A few useful clues for doing more of life yourself.",
-    "lead": "Funny, practical picture guides for the everyday things nobody is born knowing.",
-    "heroAlt": "A friendly comic group of teenagers helping one another with school bags, a shared kitchen, phones and everyday tasks.",
-    "intro": "School, friends, home, messages, work experience and getting yourself somewhere on time can pile up quickly. Young Crew is a proposed, school-appropriate part of Rough as Guts, built around situations young people recognise and skills they can actually use.",
+    "eyebrow": "YOUNG CREW · IN DEVELOPMENT",
+    "title": "You can learn a different way and still have a laugh.",
+    "lead": "Practical picture guides for building independence, looking after yourself and others, and getting support while you learn.",
+    "heroAlt": "A varied group of fictional teenagers help one another prepare for the day, clean up their shared activity and practise an unfamiliar task with a supportive adult.",
+    "intro": "Nobody arrives knowing every useful skill, and people get different chances to learn. Young Crew gives a young person a place in the change: notice what is happening, ask a question, try another habit and enjoy what it makes possible. The laugh belongs with them as they learn. A young person can choose a different way without carrying the job of fixing everyone around them.",
     "sections": [
       {
-        "heading": "You can learn this stuff",
-        "body": "Being unsure is a normal place to begin. A picture can make an awkward moment easier to talk about: an overdue message, a forgotten item, a room that got away from you or a job you have never tried before.",
+        "heading": "Borrow a Clue and Keep Your Dignity",
+        "body": "A young person faces a task everybody else seems to understand. They nearly bluff their way through, then ask to be shown. The adult admits they once needed a demonstration too. The comic moment is the unnecessary performance of already knowing, followed by the relief of actually learning something.",
         "bullets": [
-          "Show the situation clearly.",
-          "Offer a manageable next action.",
-          "Leave room to try again.",
-          "Keep the person’s dignity intact."
+          "\"Can you show me?\" is useful information, not a confession.",
+          "You can ask again when an explanation does not make sense.",
+          "A good demonstration has room for your questions."
+        ],
+        "picture_idea": "A teenager tries to look expert beside an unfamiliar everyday task. They ask a supportive adult to demonstrate, practise with guidance and complete it appropriately. The adult shares a harmless story about learning the same skill.",
+        "try_this": "Ask someone suitable to show you, explain back what you understand and practise with the help the task needs. Say when something is unclear or feels unsafe.",
+        "benefit": "Asking for help becomes a skill you can use, and confidence grows from understanding rather than pretending."
+      },
+      {
+        "heading": "Give Tomorrow You a Fair Go",
+        "body": "Yesterday You announced that the bag was ready. Today You has questions about the lunch, the clean top and how the bus works. The joke ends with the young person making a plan that fits their actual day, with help where needed. Tomorrow You can still be a bit sleepy without inheriting the entire scramble.",
+        "bullets": [
+          "A zipped bag has made no promises about its contents.",
+          "Essentials work better when they are packed together.",
+          "A plan can include asking who can help with the missing bit."
+        ],
+        "picture_idea": "A teenager admires a zipped but incomplete bag. With a friend or trusted adult, they check the activity, gather suitable clothes and essentials, and confirm travel arrangements. The final panel shows a calmer departure and the lunch travelling with its owner.",
+        "try_this": "Check what the day needs, prepare what you can, keep essential items in a place you can find and ask for help with things you cannot arrange alone.",
+        "benefit": "Getting ready becomes more predictable and there is more attention left for learning, friends and enjoying the day."
+      },
+      {
+        "heading": "Your Reply Can Wait for You",
+        "body": "The message has capital letters, three dramatic endings and a sentence that would start a second argument. A friend asks whether it says what the sender actually wants. They leave it unsent, return when ready and write a clearer response. The phone can carry the conversation without being given the steering wheel.",
+        "bullets": [
+          "The first draft does not have to become a group announcement.",
+          "Check what happened before writing the motive for everybody involved.",
+          "A boundary can be clear without an extra insult attached."
+        ],
+        "picture_idea": "A teenager's angry draft has become an absurdly large speech bubble. They put the phone down, talk through what they need with a supportive person and later send a brief, respectful boundary or question. A trusted adult is available if the situation includes threats or pressure.",
+        "try_this": "Leave the angry draft unsent, return when you are ready and state what you mean clearly. Check uncertain details, respect boundaries and seek a trusted adult's help with threats, pressure or a problem you cannot handle alone.",
+        "benefit": "You get more choice about your response, fewer avoidable arguments and support when the problem is bigger than a message."
+      },
+      {
+        "heading": "Learning Is Allowed to Be Visible",
+        "body": "At a club, on work experience or trying an activity, it can look as though everyone was issued the instructions at birth. They were not. This page gives the new person a question, a demonstration and a chance to practise. The supposed expert's first attempt can provide the laugh while the useful method stays clear.",
+        "bullets": [
+          "The confident nod is optional. Understanding the task matters.",
+          "You can ask who is responsible for showing you.",
+          "Stopping to check can be part of doing a job properly."
+        ],
+        "picture_idea": "A young person at work experience looks tempted to copy an unfamiliar task. They ask the responsible supervisor, receive the appropriate instruction and support, then contribute within what they have been shown and authorised to do.",
+        "try_this": "Find the responsible adult or supervisor, ask what you need to know and do only tasks you have been appropriately shown and authorised to do. Speak up about anything missing, confusing or unsafe.",
+        "benefit": "Learning and contributing can happen with suitable support, instead of confidence being mistaken for knowledge."
+      },
+      {
+        "heading": "You Get to Learn a Different Way",
+        "body": "A familiar habit can pass around a household or group until everyone assumes it is just how things are. The young person in this story tries a fairer way of sharing a job and asks for support. Another character catches themselves copying the old excuse. The ending makes room for people to learn together and for the young person to keep their own boundaries.",
+        "bullets": [
+          "A habit can be familiar and still be worth changing.",
+          "You can practise a useful skill without judging where you started.",
+          "Support can come from a trusted adult, teacher, coach, youth worker or someone else who treats you with care."
+        ],
+        "picture_idea": "A shared activity ends with everybody assuming somebody else will clean up. A teenager asks how the work can be shared and a supportive adult backs the request. People complete agreed jobs together, then enjoy the space. The young person is not left to manage the adults.",
+        "try_this": "Name the habit you want to handle differently, practise a workable alternative and ask a trusted person to support you. Share responsibilities fairly and keep adult responsibilities with the adults.",
+        "benefit": "Different choices can become part of your own life, with connection and support instead of blame or the pressure to repair everyone else."
+      }
+    ],
+    "sample_gags": [
+      {
+        "title": "The Bag That Was Ready Yesterday Gets Checked Today",
+        "setup": "The bag is zipped, the shoes are on and the bus is coming. The lunch is still waiting on the bench.",
+        "punchline": "Lunch would like to be included in the lunch plan.",
+        "visual": "A teenager points proudly to a packed bag while a lunchbox waves from the bench. They notice, check a suitable essentials list with a supportive person and add what is missing. The last panel shows them leaving with the lunch and their travel plan sorted.",
+        "status": "Concept for discussion",
+        "try_this": "Check the essentials for the actual day before leaving and ask for help if something important is missing or you do not have what you need.",
+        "benefit": "Preparation becomes a repeatable habit, with support available rather than a joke at your expense."
+      },
+      {
+        "title": "The Sports Bag Wildlife Reserve Closes for Cleaning",
+        "setup": "The bag has developed a smell with a surprisingly confident personality. Its owner and a mate recognise that it is time to deal with the gear.",
+        "punchline": "The imaginary wildlife has been relocated. Training can resume.",
+        "visual": "Two teenagers imagine a comic smell-creature emerging from a sports bag. The owner removes the used gear, follows its washing and drying instructions and cleans or airs the bag as appropriate. The final panel shows them ready to enjoy the next activity with their kit prepared.",
+        "status": "Concept for discussion",
+        "try_this": "Unpack after the activity, follow the gear's cleaning and drying instructions and return it to the bag when ready. Ask someone to show you if you have not learned how.",
+        "benefit": "Equipment is easier to care for and share space with, and learning the routine supports independence without shame."
+      },
+      {
+        "title": "The Furious Reply Gets a Second Draft",
+        "setup": "A teenager has written a message long enough to need its own interval. A friend asks, \"What do you actually want them to understand?\"",
+        "punchline": "The capitals have left the meeting. The point has stayed.",
+        "visual": "An enormous angry message bubble shrinks into an unsent draft. After a pause and a conversation with a supportive friend, the teenager writes a clear question or boundary. The final panel shows them choosing whether and how to continue, with adult support available for a serious problem.",
+        "status": "Concept for discussion",
+        "try_this": "Pause before sending, check the facts and rewrite around the question or boundary you need to communicate. Get trusted support when the situation involves pressure, threats or harm.",
+        "benefit": "The response can protect your boundaries and reduce avoidable harm while leaving room for a real conversation."
+      }
+    ]
+  },
+  "workplace": {
+    "eyebrow": "WORKSITES & CAMP LIFE • PEOPLE GO HOME WELL",
+    "title": "The laugh should help the crew work well.",
+    "lead": "Humorous posters and shared stories that point toward safer work, practical care and speaking up.",
+    "heroAlt": "Three adults in an idle workshop put away hand tools, store a crate and check a pictorial list together beside a clear walking route.",
+    "intro": "The purpose of a Rough as Guts work poster is a safer, healthier shift. A familiar shortcut can open the joke, but the picture needs to show a useful response and a crew willing to support it. Getting home well is the payoff. People need sound work systems as well as reminders.",
+    "sections": [
+      {
+        "heading": "Show the action that protects people",
+        "body": "A worker balancing on the wrong thing may get attention. A useful poster also makes the appropriate alternative clear for that actual job. Use the site’s equipment, controls and reviewed procedure, and show who can help when something is uncertain.",
+        "bullets": [
+          "Give the intended action more visual weight than the unsafe example.",
+          "Keep the hazard, the control and the caption consistent.",
+          "Use the actual task team and competent reviewer to check the scene."
+        ],
+        "try_this": "Ask a crew member to explain the action shown without prompting. Have the responsible task team check it against the job before it is displayed.",
+        "benefit": "A message people can use in the real setting, rather than a memorable picture of the wrong method."
+      },
+      {
+        "heading": "Make speaking up part of belonging",
+        "body": "A cartoon should never make the person asking a safety question the fool. The experienced hand can model listening and checking. Supervisors and managers have a part in the ending too: respond, provide what is needed and report back.",
+        "bullets": [
+          "Name the site’s reporting route.",
+          "Include workers and their health and safety representatives in developing the message.",
+          "Treat a concern as information to act on, not disloyalty."
+        ],
+        "try_this": "Show someone raising a concern, the right person listening and the resulting change. Leave room for workers to identify what still does not fit.",
+        "benefit": "Problems can be discussed and addressed before confidence, silence or pressure is mistaken for safety.",
+        "links": [
+          {
+            "label": "WorkSafe Queensland: reporting safety",
+            "url": "https://www.worksafe.qld.gov.au/safety-and-prevention/creating-safe-work/reporting-safety"
+          }
         ]
       },
       {
-        "heading": "Everyday independence",
-        "body": "The proposed guides focus on small skills that make a day easier: getting ready, looking after your things, preparing simple food, cleaning up and treating shared spaces with care.",
+        "heading": "The work system belongs in the picture",
+        "body": "A slogan about being careful cannot supply missing training, fix equipment or make an impossible workload reasonable. The story can show people changing the conditions of the job as well as their own decisions.",
         "bullets": [
-          "Check the bag before leaving.",
-          "Put an essential item somewhere you can find it.",
-          "Learn a simple meal and clean up afterwards.",
-          "Keep clothes, sports gear and personal hygiene on the radar.",
-          "Ask for help with something unfamiliar."
+          "Identify the real hazard and how it is controlled.",
+          "Ask what equipment, staffing, maintenance or work design needs attention.",
+          "Show management following through as well as workers participating."
+        ],
+        "try_this": "Use the poster discussion to identify a real control or support that is missing, assign responsibility through the site’s process and check that the response happened.",
+        "benefit": "Responsibility is shared by the people able to change the conditions of the work.",
+        "links": [
+          {
+            "label": "Safe Work Australia: identifying and controlling hazards",
+            "url": "https://www.safeworkaustralia.gov.au/safety-topic/managing-health-and-safety/identify-assess-and-control-hazards"
+          }
         ]
       },
       {
-        "heading": "Friends, messages and finding your words",
-        "body": "A useful joke can open a conversation about listening, handling disagreement, respecting boundaries or pausing before sending a message. Young Crew material should sound like it understands the situation, with language a young person can use.",
+        "heading": "Camp courtesy helps people recover",
+        "body": "After a shift, rest, food and shared space still matter. The joke can follow the person who turns the television down, cleans their dishes or makes room for someone coming off nights. Nobody needs a boot through the wall to be heard.",
         "bullets": [
-          "Give people a chance to finish speaking.",
-          "Check what someone means before building a whole story around it.",
-          "Pause when a reply is coming from anger.",
-          "Find a trusted adult when a problem feels too big to carry alone."
-        ]
+          "Agree quiet arrangements around sleeping crews.",
+          "Leave shared kitchens and amenities ready for others.",
+          "Raise repeated problems through the camp’s support channels."
+        ],
+        "try_this": "Discuss the actual shared-space problem and agree who will do what. Make the considerate option easy to use, such as a clear quiet area or an accessible cleaning kit.",
+        "benefit": "More rest, less conflict and a camp that feels livable."
       },
       {
-        "heading": "Moving, travelling and trying new things",
-        "body": "Exercise, everyday journeys and work experience offer plenty of visual humour. The proposed pages explore preparation, realistic expectations and how to ask a good question when everyone else seems to know what is happening.",
+        "heading": "An illustration can support the actual SWMS",
+        "body": "Safe Work Method Statements concern high risk construction work. Illustrated support must match the relevant task, hazards, controls and current document. The proposed service is to help communicate that work clearly, using a review with the responsible people.",
         "bullets": [
-          "Know where you are going and how you are getting home.",
-          "Bring the essentials for the activity.",
-          "Learn a new task from someone who can show you.",
-          "Choose an achievable start and build confidence through practice."
-        ]
+          "Use the current task document and the actual work conditions.",
+          "Resolve visual ambiguity before approving the illustration.",
+          "Keep the responsible reviewer, version and source identifiable."
+        ],
+        "try_this": "Put the drawing beside the task document and walk through it with the people responsible for that work. Correct any missing, invented or misleading detail.",
+        "benefit": "Humour supports a reliable work method and does not become a substitute for one."
       },
       {
-        "heading": "Made to read together",
-        "body": "A parent, teacher, youth worker, coach or young person could use a single page to start an ordinary conversation. The humour needs to work for the reader, with characters who have strengths, make mistakes and get another go.",
+        "heading": "From draft to a poster on a real site",
+        "body": "A page becomes useful through factual review, crew input and follow-through. Show it at the size and location intended, ask what action it communicates, and revise what is unclear. After use, ask whether the action is practical and what conditions still get in the way.",
         "bullets": [
-          "School-appropriate language and situations.",
-          "Different kinds of young people with a fair share of the good ideas.",
-          "Clear pictures with one useful point.",
-          "Young Crew concepts are in development and need feedback from young readers and the adults supporting them."
+          "A laugh is one response to observe, not proof of improved safety.",
+          "Check whether the better action is understood and supported.",
+          "Keep feedback about the work conditions with the content revision."
         ]
       }
     ],
     "sample_gags": [
       {
-        "title": "The Bag That Was Ready Yesterday",
-        "setup": "The bag is zipped. The shoes are on. The bus is coming.",
-        "punchline": "Your lunch has chosen to stay on the bench.",
-        "visual": "A teenager at the front door points proudly to a packed bag while a lunchbox on the kitchen bench holds a tiny sign saying WAIT.",
-        "status": "Concept in development"
+        "title": "Temporary Storage Has Moved In",
+        "setup": "The walkway contains a crate described as “just for a minute”. It appears to be receiving mail.",
+        "punchline": "The crate has a home now. It is not the walkway.",
+        "visual": "The crew agree suitable storage, move the obstruction through the site’s safe arrangements and leave the designated route clear. A supervisor addresses the storage shortage.",
+        "try_this": "Keep designated routes clear and report storage problems through the site’s process. Agree a suitable place for items rather than moving the obstruction onto somebody else’s route.",
+        "benefit": "People can move through the workplace and find equipment without inheriting the same problem.",
+        "status": "Poster concept for task and site review"
       },
       {
-        "title": "The Sports Bag Wildlife Reserve",
-        "setup": "Something in the bag has been there since last week.",
-        "punchline": "Air the gear before it starts charging rent.",
-        "visual": "Two teenagers open a sports bag; cartoon smell lines form a tiny imaginary creature while one holds a laundry basket.",
-        "status": "Concept in development"
+        "title": "The Tool You Needed Was a Question",
+        "setup": "A new starter nearly nods along to instructions they have not understood.",
+        "punchline": "“Which bit?” turns out to be an excellent piece of equipment.",
+        "visual": "Work is paused. The worker asks, a colleague explains using the actual instructions, and the supervisor confirms the needed training and arrangements before work resumes.",
+        "try_this": "When a task or control is unclear, pause and ask the appropriate person. Check the actual instructions and arrange the support needed before proceeding.",
+        "benefit": "Asking becomes a sign of care and competence, with fewer assumptions passed to the next person.",
+        "status": "Poster concept for task and site review"
       },
       {
-        "title": "The Reply You Wrote While Furious",
-        "setup": "A very long message. Several capital letters. A dramatic ending.",
-        "punchline": "Save the draft. Take a breath. Read it again.",
-        "visual": "A teenager’s phone displays a comically oversized message bubble while a friend offers a pause button on a small card.",
-        "status": "Concept in development"
-      }
-    ]
-  },
-  "workplace": {
-    "eyebrow": "WORKPLACE & CAMP LIFE • IN DEVELOPMENT",
-    "title": "Give them something they’ll actually stop to read.",
-    "lead": "Workshop posters, mine camps, shared facilities and the familiar moment when enthusiasm gets ahead of thought.",
-    "heroAlt": "An Australian mine-camp noticeboard with bold humorous posters, a crib-room scene and a crew stopping to read together.",
-    "intro": "Rough as Guts began with illustrated mine-and-camp ideas. That setting has plenty of material: crib rooms, shared walls, fatigue, traffic, gear, cleaning up and people convinced they can save thirty seconds. The opportunity is to make a useful point memorable and get the details right.",
-    "sections": [
-      {
-        "heading": "Start with a real situation",
-        "body": "A good workplace gag needs the grain of something a crew recognises. What keeps happening? What gets misunderstood? What small action would make the job or shared space work better? The source story gives the picture somewhere solid to stand.",
-        "bullets": [
-          "A familiar place and a specific moment.",
-          "A behaviour the reader can recognise.",
-          "A consequence that makes visual sense.",
-          "A better action the reader can identify."
-        ]
-      },
-      {
-        "heading": "Camp life counts",
-        "body": "The way people live together matters after the shift finishes too. Noise, bathrooms, laundry, meals, shared screens and cleaning are rich territory for humour with an immediately useful point.",
-        "bullets": [
-          "Quiet around people who are sleeping.",
-          "Leaving shared facilities ready for the next person.",
-          "Owning the mess you make.",
-          "Handling small annoyances before they become camp-wide entertainment."
-        ]
-      },
-      {
-        "heading": "Choose the format for the job",
-        "body": "A workshop poster needs to work from a few metres away. Big text, a clear picture and strong contrast help the point land quickly. A pocket card needs a quick point of reference. A booklet has room for examples. A short animation can show timing and consequences that one still picture struggles to explain.",
-        "bullets": [
-          "Posters: one message, a readable picture and a short caption.",
-          "Toolbox-talk and newsletter material: one familiar scenario to discuss.",
-          "Cards and booklets: concise reminders with room for necessary context.",
-          "Manual illustrations: clear scenes tied to reviewed text.",
-          "Short animations: a visible action and consequence."
-        ]
-      },
-      {
-        "heading": "A little humour in the SWMS",
-        "body": "A Safe Work Method Statement (SWMS) sets out a particular job and its controls. Proposed illustrated SWMS support would use the actual task, conditions, hazards, controls and approved wording for that work. A general workshop poster has a broader communication role. Both can use humour, with the useful message clear and the job-specific details kept accurate.",
-        "bullets": [
-          "Identify the procedure, task and intended readers.",
-          "Get the operational details from the people responsible for the work.",
-          "Check the illustration against the reviewed wording.",
-          "Keep the current approved source identifiable.",
-          "Review changes in the situation before reusing material."
-        ]
-      },
-      {
-        "heading": "Make the picture earn its place",
-        "body": "A joke about a bad habit can become confusing when the picture makes that habit look like the recommended method. Direction of travel, hand position, equipment, distances, labels and who is doing what all affect the meaning.",
-        "bullets": [
-          "Distinguish the bad example and the intended behaviour clearly.",
-          "Show recognisable equipment and plausible physical actions.",
-          "Check captions against what the picture actually depicts.",
-          "Use reviewers who understand the task and setting."
-        ]
-      },
-      {
-        "heading": "Where the work stands",
-        "body": "The library contains the original source deck, including unverified safety and medical claims, garbled lettering and some picture-and-caption mismatches. It is an archive of the starting material. Workplace products, reviewed adaptations and site-specific versions are in development.",
-        "bullets": [
-          "No source slide is presented here as approved training or an approved SWMS.",
-          "Proposed formats show the direction of the project.",
-          "A finished workplace item needs its own factual, visual and site review."
-        ]
+        "title": "The Replay Can Wait",
+        "setup": "The off-duty camp television is commentating directly through somebody’s day sleep.",
+        "punchline": "The match has a replay. Your mate has another shift.",
+        "visual": "A person notices the sleeping-crew reminder, lowers the off-duty lounge volume and moves the conversation to the agreed area. Later both crews enjoy the replay together.",
+        "try_this": "Follow the camp’s agreed quiet arrangements and talk through repeat noise problems using its support channels.",
+        "benefit": "People have a better chance to recover and still enjoy their time together.",
+        "status": "Camp communication draft to try with residents"
       }
     ]
   },
   "library": {
     "eyebrow": "SOURCE LIBRARY • ORIGINAL DECK",
     "title": "The whole original pile. All 45 slides.",
-    "lead": "The starting material: big headlines, Australian comic humour, mine life, camp life and everyday rough edges.",
+    "lead": "Daz’s original draft deck, preserved with readable transcripts, scene notes and an editorial review of what needs to improve.",
     "heroAlt": "A visual archive of original Rough as Guts illustrated pages arranged as a browsable collection, with varied subjects and layouts.",
-    "intro": "Daz’s supplied deck lives here in full: 42 original images and three text-only introduction slides. Search a topic, open a slide for readable wording and scene notes, or compare the exact original with its optimised web copy below.",
+    "intro": "The original 45 slides remain intact here for comparison. Some connect a recognisable shortcut to an action and a reason to care. Others contain unsafe suggestions, visual contradictions or humour that now needs changing. The editorial review explains that distinction; the archive is not a set of approved work posters.",
     "sections": []
   },
   "systems": {
-    "eyebrow": "HOW THE IDEAS GET BETTER",
-    "title": "Keep the good gag. Give it a proper brief.",
-    "lead": "A practical way to collect observations, blend ideas, check the useful point and turn them into pictures that say what we mean.",
+    "eyebrow": "HUMOUR WITH A WAY FORWARD",
+    "title": "Keep the laugh. Put the better way in the picture.",
+    "lead": "Explore a real situation, show a useful change and keep the person’s dignity in the joke.",
     "heroAlt": "An illustrated workbench with an everyday observation, alternate gag sketches, a clear image brief and a finished comic panel.",
-    "intro": "AI can produce another picture quickly. Getting the right picture takes a clear idea, useful source material and a few deliberate choices. This workflow gives the people making Rough as Guts a shared way to talk about the work.",
+    "intro": "Joyful responsible abundance is the direction: more capability, care, wellbeing and shared enjoyment. The story can begin with a familiar rough habit. It needs somewhere worth going after the laugh, with the reader able to recognise and try that change.",
     "sections": [
       {
-        "heading": "Catch the moment",
-        "body": "Start with something someone saw, did or had to clean up after. Write the observation in ordinary language. Capture where it happened, who was involved, what made it funny and what you wished had happened instead.",
+        "heading": "Begin with the person and the situation",
+        "body": "What is happening, who is affected and what makes the habit difficult to change? A familiar excuse can carry the joke without deciding that somebody is lazy, stupid or destined to fail. Keep observations, memories and assumptions distinct.",
         "bullets": [
-          "Keep the original observation.",
-          "Separate what happened from what you are assuming.",
-          "Name the habit or decision at the centre of the joke.",
-          "Choose the audience who will recognise it."
+          "Ask what support, knowledge, resources or work conditions are missing.",
+          "Let the person recognise themselves without having their dignity removed.",
+          "For young people, leave room to learn a different response and ask a trusted person for help."
         ]
       },
       {
-        "heading": "Find the useful point",
-        "body": "Say what the reader should understand or do after seeing the page. Keep it small enough to picture. Where the subject involves health, safety or a formal procedure, identify the relevant source and a person able to review it.",
+        "heading": "Give the story somewhere worth going",
+        "body": "Name the action the person can try and the benefit it offers them or others. Put that action in the scene. A disgusted bystander or an abandoned brush does not show anyone learning to wash the plate.",
         "bullets": [
-          "One main point per image or clearly separated panel.",
-          "A visible action the reader can recognise.",
-          "A factual source when the subject needs one.",
-          "An unresolved question recorded as a question."
+          "What do they do differently?",
+          "What makes that response possible?",
+          "What improves: health, safety, trust, calm, time or shared enjoyment?",
+          "Does the person take part in the solution?"
         ]
       },
       {
         "id": "loose-goose",
         "heading": "Try some Loose Goose angles",
-        "body": "Luke’s Loose Goose Comedy Engine explores real memories through different comic angles and spoken-performance beats. These prompts draw on its Memory Seed, Comedy Lenses and Beat Score. The picture and panel suggestions below adapt those ideas for Rough as Guts.",
+        "body": "Luke’s Loose Goose Comedy Engine offers ways to explore a real memory, comic angles and performance timing. Here we adapt those prompts toward a useful change. The target of the joke is the excuse or contradiction; the person gets the chance to learn.",
         "bullets": [
-          "Keep the memory and the riff separate. What happened, what do we remember, and what are we guessing or exaggerating? An unknown detail can stay unknown, including someone else’s motives.",
-          "Try another angle on the same moment: an observation, a short exchange, acting it out, or telling the joke on yourself. Which version gives us something to explore?",
-          "Try a status reversal. Who appears to be in charge or knows what they’re doing? What could happen that changes that impression?",
-          "Look for a visual reveal. Could a prop, receipt, picture or expression carry the joke? What happens if we leave the explanation out?",
-          "Play with the sequence: setup, turn, punchline, pause and a possible callback. For a comic, could moving the reveal to the next panel change how it reads? For a skit, what happens when we read it aloud?"
+          "Keep memory and invention separate. Leave unknown details and other people’s motives open.",
+          "Try an observation, an exchange or a joke on yourself. Which angle invites recognition while leaving room to change?",
+          "Let status change through learning: the person who asks or listens may be the one who gets the job right.",
+          "Use a visual reveal to expose the excuse, then show the better action and its benefit.",
+          "Play with setup, turn, pause and callback. Let the last beat reward care, repair or cooperation rather than a more elaborate bad habit."
         ],
         "links": [
           {
@@ -452,354 +550,390 @@
         ]
       },
       {
-        "heading": "Write the image before generating it",
-        "body": "Describe the picture in concrete terms: who is present, what each person is doing, where the action happens and which props matter. State the reading order for panels and make the important action easy to see.",
+        "heading": "Show the turn, the action and the payoff",
+        "body": "A sequence can move from recognition to a different choice and then an enjoyable result. In a single image, make the better action the main event and let the caption gently puncture the old excuse. The funniest-looking unsafe moment must not become the page’s recommendation.",
         "bullets": [
-          "Specify character variety without requiring one lead character across every edition.",
-          "Describe body position, gaze, hands and object placement where they affect meaning.",
-          "Give each panel its own scene and purpose.",
-          "Set aside clear space for captions and labels.",
-          "List visual mistakes that would change the meaning."
+          "Show the same person learning, asking, repairing or contributing.",
+          "Give the change enough visual space to be understood.",
+          "Keep the payoff ordinary and desirable: a shared meal, a clear route, a restored friendship or a calmer morning.",
+          "Use exact lettering separately from generated artwork."
         ]
       },
       {
-        "heading": "Review the result against the brief",
-        "body": "Look at the image before letting the joke carry you away. Check the action, equipment, expressions, panel sequence and relationship between words and picture. A funny illustration can still communicate the wrong thing.",
+        "heading": "Check care, accuracy and the actual work",
+        "body": "For safety and health topics, identify a suitable source and reviewer. For work material, use the actual task, equipment, controls and conditions. For every page, ask whether the humour rewards improvement or makes the harmful behaviour attractive.",
         "bullets": [
-          "Can a reader tell what is happening without an explanation?",
-          "Does the picture show the intended action and consequence?",
-          "Are important objects, hands and directions plausible?",
-          "Does every caption match its panel?",
-          "Has any invented lettering or detail changed the point?",
-          "Does it suit the audience and setting?"
+          "Can the reader explain the better action without your explanation?",
+          "Is the action feasible for the person and setting?",
+          "Does the picture agree with the source and caption?",
+          "Is someone’s disadvantage, family or social class being used as the joke?",
+          "Could the final beat be read as permission to keep doing the harmful thing?"
         ]
       },
       {
-        "heading": "Keep the version worth reusing",
-        "body": "Save the observation, chosen copy, image brief, references, review notes and finished asset together. When adapting it for a poster, book page or animation, check that the central point still survives. A smaller format may need a simpler idea.",
+        "heading": "Try it with people, then listen",
+        "body": "Show alternatives to the intended readers. Ask what happened, what the person could try and how the ending felt. Record their actual words and any observed response separately from your hopes for the page. A laugh, a generated score or our own approval does not establish behaviour change.",
         "bullets": [
-          "Record the source and the changes made.",
-          "Give each version a clear status.",
-          "Keep unresolved review points visible.",
-          "Recheck the adapted format before calling it finished."
+          "Ask what was clear, useful, uncomfortable or forced.",
+          "For work material, ask what gets in the way of doing it safely.",
+          "Revise the joke, the proposed action or the conditions around it.",
+          "Keep the original, source notes and revision together."
         ]
-      },
-      {
-        "heading": "More clue. Better results.",
-        "body": "The underlying aim is greater competence: noticing more, understanding the situation and choosing an action that works. A laugh can make that conversation easier. The useful habit is what people take away.",
-        "bullets": []
       }
     ],
     "brief_fields": [
       {
-        "label": "Audience",
-        "hint": "Who should recognise themselves in this?",
-        "example": "Adults sharing a mine-camp kitchen."
+        "label": "People and setting",
+        "hint": "Who is affected and what support is available?",
+        "example": "Two adults sharing a kitchen; both contribute to leaving it usable."
       },
       {
-        "label": "Situation",
-        "hint": "Where are we, and what has just happened?",
-        "example": "Someone has cooked dinner and left every pan beside the sink."
+        "label": "Habit",
+        "hint": "What is happening, without writing the person off?",
+        "example": "The cook leaves the used pans for someone else."
       },
       {
-        "label": "Useful point",
-        "hint": "What is the one thing the reader should take away?",
-        "example": "Cleaning up is part of finishing the meal."
+        "label": "Better action and benefit",
+        "hint": "What can they try, and what does it make possible?",
+        "example": "The cook washes the pans and shares the rest of the clean-up, so both people can relax after dinner."
       },
       {
-        "label": "Gag",
-        "hint": "What makes the situation funny?",
-        "example": "The cook declares the job complete while the kitchen looks like a disaster exhibit."
-      },
-      {
-        "label": "Visible action",
-        "hint": "Describe what each person is doing.",
-        "example": "The cook presents one plate proudly; a housemate surveys the pile of used pans."
-      },
-      {
-        "label": "Characters and setting",
-        "hint": "Include only details that help the story.",
-        "example": "Two adults, ordinary shared kitchen, evening, everyday clothes."
-      },
-      {
-        "label": "Format",
-        "hint": "Choose a single picture, ordered panels or a short sequence.",
-        "example": "One wide comic panel with clear space below for a caption."
-      },
-      {
-        "label": "Exact words",
-        "hint": "Separate the title, caption and any speech.",
-        "example": "Caption: Dinner is ready. The kitchen has requested backup."
-      },
-      {
-        "label": "Must show / avoid",
-        "hint": "Name the details that would change the meaning.",
-        "example": "Show used cookware clearly; avoid making the housemate responsible for cleaning it all."
+        "label": "Visual turn",
+        "hint": "How will the picture show the change?",
+        "example": "A grand chef’s pose gives way to washing-up; the final scene is the same people enjoying a clear table."
       },
       {
         "label": "Source and review",
-        "hint": "What supports the useful point, and what still needs checking?",
-        "example": "Everyday etiquette concept; review tone with intended readers."
+        "hint": "What is known, what needs checking and whose feedback is needed?",
+        "example": "Everyday courtesy draft; food-safety details checked with a suitable source, tone discussed with intended readers."
       }
     ]
   },
   "sitemap": {
     "eyebrow": "FIND YOUR WAY",
     "title": "The whole place, minus the wandering around.",
-    "lead": "Browse the audiences, explore the source material or see how an idea becomes a useful picture.",
+    "lead": "Find the editions, workplace ideas, source review and tools for humour that helps people move forward.",
     "heroAlt": "A playful illustrated signpost pointing toward adult guides, Young Crew, workplace material and the source library.",
-    "intro": "Choose an edition, browse Daz’s complete original deck, shape a new image brief in Systems or explore the formats and country wildcards in the Product pipeline.",
+    "intro": "The aim across these pages is joyful responsible abundance: a laugh that opens a safer, healthier and more considerate way to live. New concepts remain drafts to discuss and review with their intended readers.",
     "sections": []
   },
   "pipeline": {
     "eyebrow": "THE ROUGH AS GUTS PRODUCT SHED",
-    "title": "A book is one way out of the shed.",
-    "lead": "A cartoon, a sticker, a skit, a club mascot or something stuck to the back of a dunny door. Possible formats and example jokes to kick around.",
+    "title": "A laugh that leaves something better behind.",
+    "lead": "Books, posters, cartoons, skits and club characters with something useful to offer: more care, safer choices and more room to enjoy life together.",
     "heroAlt": "Four fictional adults develop and display wordless galah comic books, posters, storyboards, stickers, a cap and T-shirts at a country-show creative stall.",
-    "intro": "Books, posters, newsletters, guides and animation were among Luke and Daz's ideas. The concepts below are brainstorm examples, with other directions added for discussion.",
+    "intro": "Joyful responsible abundance is the direction. These format ideas explore how light satire could help someone recognise a habit, try a different response and enjoy the result. The person in the picture gets to learn, contribute and belong. The examples remain open to revision with the people who would use them.",
     "products": [
       {
         "id": "gift-books",
-        "name": "Gift picture books",
+        "name": "The Book of Nearly Done",
         "format": "Illustrated books and themed collections",
-        "seed": "Someone you love treats every household job as an optional side quest.",
-        "example": "The Museum of Things I'll Fix: a guided tour of temporary repairs that have become family heirlooms. Each spread introduces another magnificent exhibit and the person defending it.",
-        "buyer_or_place": "Gift-shop, bookshop, club stall, roadhouse shelf or direct-order edition.",
-        "next_step": "A cover and three illustrated spreads from The Museum of Things I'll Fix."
+        "seed": "A person sincerely wants to help, but keeps handing over the unfinished part of the job.",
+        "example": "A character proudly opens the Ministry of Nearly Done: one washed plate, a returned drill case without its charger, a bag packed without tomorrow's clothes. Each chapter ends with the character finishing the handover properly. The grand office closes early because there is finally time to sit down together.",
+        "buyer_or_place": "Gifts between family, friends or co-workers; bookshops, club stalls and roadhouse shelves.",
+        "next_step": "Explore a linked chapter showing the excuse, the change and the shared payoff.",
+        "try_this": "Agree what a finished job includes, then complete your part and check the handover.",
+        "benefit": "Other people can rely on the help, and everyone gets more time back.",
+        "check_question": "Can a reader describe what the character does differently, without feeling they are the joke?"
       },
       {
         "id": "pocket-guides",
-        "name": "Small guides for very specific disasters",
+        "name": "Feeding Yourself Includes the Kitchen",
         "format": "Pocket booklets, zines and fold-out guides",
-        "seed": "A character leaves home and discovers a few jobs that used to happen without their involvement.",
-        "example": "Your First Week Feeding Yourself: a character discovers that a cupboard full of sauces is a recipe for owning sauces. One spread follows a meal from shopping list to the final washing-up.",
-        "buyer_or_place": "Gift packs, local shops, camp welcome packs, library activities or leaving-home presents.",
-        "next_step": "A folded booklet following one meal from an empty fridge to the washing-up."
+        "seed": "A new cook has enthusiasm, six sauces and no idea what dinner actually requires.",
+        "example": "The cook lays out a magnificent sauce collection and asks which bottle counts as the vegetable. A mate helps them choose a meal, check the ingredients and follow the recipe. The last page shows them clearing up their own cooking mess, with tomorrow's meal no longer an archaeological question.",
+        "buyer_or_place": "Leaving-home gifts, camp welcome packs, libraries and shared households.",
+        "next_step": "Develop the meal sequence with clear illustrations and checked food-handling guidance for its setting.",
+        "try_this": "Plan a meal you can make, follow its instructions, ask when unsure and clean up afterwards.",
+        "benefit": "More independence, a usable kitchen and less work quietly passed to someone else.",
+        "check_question": "Does the guide help a learner work out what to do, rather than just point out inexperience?"
       },
       {
         "id": "posters",
-        "name": "The fridge has lodged a complaint",
+        "name": "The Walkway Would Like Its Job Back",
         "format": "Posters and noticeboard series",
-        "seed": "The shared fridge is full, nobody owns the smell and everybody owns the good milk.",
-        "example": "A mock statement from the fridge: 'I can keep it cold. I can't make it yours.' A cutaway scene shows labelled lunch boxes, a mystery tub and a worker trying to deny a very familiar casserole dish.",
-        "buyer_or_place": "Camp noticeboards, club kitchens, lunchrooms, sheds and community halls.",
-        "next_step": "A shared-fridge poster with labelled lunch boxes, a mystery tub and the fridge's written complaint."
+        "seed": "Materials creep into a shared access route until walking through becomes an obstacle course.",
+        "example": "A worker presents an absurdly elaborate route around their own stored gear. In the next scene, they move it to the designated place with the appropriate help and leave the access route clear. The final caption can take the mickey out of the unnecessary expedition, while the picture shows the change.",
+        "buyer_or_place": "Workshops, camp facilities, club storerooms and site noticeboards.",
+        "next_step": "Adapt the drawing to the actual access route, storage arrangements and site review.",
+        "try_this": "Use designated storage and raise obstructions that you cannot safely resolve through the site's process.",
+        "benefit": "People can move and work without inheriting an avoidable obstacle.",
+        "check_question": "Can workers identify the intended safe action, and does it match their actual site?"
       },
       {
         "id": "newsletter",
         "name": "The Crib Room Correspondent",
         "format": "Newsletter column and recurring email feature",
-        "seed": "An everyday object gets a right of reply.",
-        "example": "The kettle writes to management about being left empty. Next issue, the broom responds to allegations that it has never been seen during a shift.",
-        "buyer_or_place": "Club, workplace, camp, association or community newsletters.",
-        "next_step": "An illustrated letter from the kettle, followed by a reply from the broom in the next issue."
+        "seed": "A shared facility gets treated as though the next person is a free maintenance service.",
+        "example": "The kettle submits a fictional resignation after its third empty shift. The cartoon then follows the last user checking the next person has what they need and leaving the bench ready. A later issue could show that same person thanking a mate who has done the handover for them.",
+        "buyer_or_place": "Workplace, camp, club, association and community newsletters.",
+        "next_step": "Try a column and picture pairing a familiar shared-space frustration with a considerate handover.",
+        "try_this": "Leave shared equipment and spaces ready for the next user, following their instructions.",
+        "benefit": "Ordinary care gets passed along instead of ordinary resentment.",
+        "check_question": "What act of consideration stays with a reader after the kettle gag?"
       },
       {
         "id": "magazine",
-        "name": "The Rough as Guts Quarterly",
+        "name": "Rough as Guts: The Good Sorts Issue",
         "format": "Magazine, seasonal annual or mini newspaper",
-        "seed": "A collection mixing cartoons, fictional letters, puzzles and illustrated stories.",
-        "example": "One issue could contain a shed cartoon, a camp-life letter, a 'spot the pointless extra step' puzzle, a character interview and the Lost Property Awards.",
-        "buyer_or_place": "Local-shop counters, club reading piles, ag-show stalls or a subscription edition.",
-        "next_step": "A sample issue with a shed cartoon, a camp-life letter, a puzzle and the Lost Property Awards."
+        "seed": "Different people learn useful things from one another, with enough honesty to admit the messy beginning.",
+        "example": "A fictional issue follows a family, a camp crew and a club through jobs they used to leave for someone else. Cartoons sit beside practical pages and a 'How I Stopped Doing That' yarn. The celebration is the repaired relationship, returned gear or enjoyable shared meal, with the old excuse available for a gentle callback.",
+        "buyer_or_place": "Club reading piles, local shops, ag-show stalls and community publications.",
+        "next_step": "Explore an issue around a shared theme, with each contribution showing its own useful change.",
+        "try_this": "Share a habit you changed, how you learned it and what helped you keep going.",
+        "benefit": "Learning becomes something people can contribute to and enjoy together.",
+        "check_question": "Does the mix leave readers with usable ideas and people worth learning alongside?"
       },
       {
         "id": "newspaper-cartoons",
-        "name": "Bush Telegraph Toons",
+        "name": "Bush Telegraph: From Grumble to Report",
         "format": "Single-panel newspaper cartoons and four-panel strips",
-        "seed": "A small-town inconvenience becomes an absurd public institution.",
-        "example": "A pothole gets its own office, waiting room and retirement plaque while the road crew tries to find its original job number. The subject is bureaucracy, with room for a different local gripe each week.",
+        "seed": "A local problem has collected plenty of opinions but nobody has passed on the information needed to act on it.",
+        "example": "A fictional pothole has a fan club, anniversary cake and an enormous comments section. A resident interrupts the ceremony to send a clear report through the responsible authority's actual channel. The strip ends with a reference number and a follow-up, leaving the joke on the endless commentary rather than promising an instant repair.",
         "buyer_or_place": "Country newspapers, community news sheets, town newsletters and local websites.",
-        "next_step": "A single-panel pothole cartoon and a four-panel strip about its retirement ceremony."
+        "next_step": "Pair a fictional strip with the checked reporting information for the place using it.",
+        "try_this": "Report the problem clearly through the appropriate channel, without putting yourself at risk to collect details.",
+        "benefit": "A shared frustration becomes information someone can respond to.",
+        "check_question": "Can a reader find the relevant reporting route, and is the cartoon fair to the people doing the work?"
       },
       {
         "id": "jokes",
-        "name": "The Short Yarn Department",
+        "name": "The Last-Square Defence",
         "format": "Caption jokes, illustrated one-liners and share cards",
-        "seed": "An elaborate explanation for an obviously avoidable mess.",
-        "example": "A worker presents an elaborate diagram of where the missing broom could be. Behind him, it is holding the door open.",
-        "buyer_or_place": "Newsletter fillers, club screens, social feeds, calendars and printed cards.",
-        "next_step": "An illustrated broom joke with alternative captions on separate cards."
+        "seed": "A person puts more effort into avoiding a shared job than the job requires.",
+        "example": "Someone points proudly to a lonely corner of toilet paper: 'Didn't finish it.' The next picture gives them the much less dramatic role of fitting the new roll and checking the spare. Their self-important defence becomes a callback while the next person finds a bathroom that works.",
+        "buyer_or_place": "Household guides, camp amenities, club notices and newsletter cartoons.",
+        "next_step": "Compare a silent before-and-after version with a short exchange between the users.",
+        "try_this": "Replace shared supplies when you use them up, or tell the responsible person when stock is missing.",
+        "benefit": "The next person is looked after without needing to chase you.",
+        "check_question": "Does the change get as much attention as the excuse?"
       },
       {
         "id": "comedy-skits",
-        "name": "The Five-Minute Job",
+        "name": "A Quick Favour, Properly Asked",
         "format": "Comedy sketches, short scripts and performed video",
-        "seed": "A tiny repair attracts a committee and turns into a major operation.",
-        "example": "Two mates begin with a loose cupboard handle. Each helpful arrival brings a larger tool and a longer explanation. The quiet person who fetched the right screw finishes the job while the committee is still discussing access.",
-        "buyer_or_place": "Hall gigs, club nights, short video series and camp entertainment.",
-        "next_step": "A short script for the cupboard-handle repair, with entrances for each increasingly helpful visitor."
+        "seed": "A vague request for help quietly grows into a job the helper never agreed to.",
+        "example": "A mate asks for a ute and 'a couple of things', then reveals furniture for an entire house. Instead of turning the helper into a fool, the scene lets both pause, agree the actual load and time, and arrange the rest. The requester carries their share while the mate retires the imaginary removal-company uniform.",
+        "buyer_or_place": "Club nights, short video series, hall entertainment and guide companions.",
+        "next_step": "Read different versions of the conversation, keeping the honest agreement and helpful ending visible.",
+        "try_this": "Say what help you need, ask what the other person can offer and respect their answer.",
+        "benefit": "People can help willingly without a favour becoming a hidden obligation.",
+        "check_question": "Does the scene offer words someone could use without making generosity look foolish?"
       },
       {
         "id": "stickers",
-        "name": "Small signs with a point",
+        "name": "Put It Where Future You Can Find It",
         "format": "Sticker sheets, labels, magnets and removable decals",
-        "seed": "A small joke attached to the cupboard, appliance or lunch box involved.",
-        "example": "A dishwasher sticker reads 'A cupboard with consequences' above a tiny character carefully stacking a plate. A shared-food label says 'This has an owner. Apparently that's me.'",
-        "buyer_or_place": "Club kitchens, households, lunch boxes, sheds, welcome packs and gift bundles.",
-        "next_step": "A sheet of dishwasher, lunch-box and shared-fridge labels with small character illustrations."
+        "seed": "Tomorrow's missing item was left somewhere imaginative today.",
+        "example": "A reusable label shows a character presenting an empty hook as 'the search headquarters'. A matching panel shows them putting their keys or club gear in the agreed place. The final image is a calm departure, with their former search party enjoying the morning off.",
+        "buyer_or_place": "Households, camp rooms, club storerooms, welcome packs and gift bundles.",
+        "next_step": "Explore a label and matching guide panel around a genuinely useful place to return an item.",
+        "try_this": "Choose an agreed home for the item and return it after use.",
+        "benefit": "Less searching, fewer interrupted people and more time for the day itself.",
+        "check_question": "Does the label help the habit happen where the item is actually used?"
       },
       {
         "id": "swms",
-        "name": "Illustrated support for the actual SWMS",
+        "name": "The Plan That Fits the Job",
         "format": "Task drawings and visual companions to reviewed safe work method statements",
-        "seed": "Illustrations of a specific task, linked to its written sequence and actual equipment.",
-        "example": "A matching task sheet drawn from the equipment, location and sequence in a supplied, reviewed SWMS. The responsible task team checks the depicted controls and steps before using it in their material.",
-        "buyer_or_place": "Task-specific work documents and site training material, with the responsible organisation and reviewers.",
-        "next_step": "A task drawing beside its supplied SWMS, with source details and reviewer notes.",
+        "seed": "A worker notices that the picture or written sequence does not match the task in front of the team.",
+        "example": "A discussion scene lets a worker question the mismatch instead of pretending to understand it. The responsible task team checks and corrects the material before it is used. Any light satire belongs in the familiar 'reckon it'll be right' excuse, while the reviewed drawings communicate the real job clearly.",
+        "buyer_or_place": "Task-specific work documents and site communication, with the responsible organisation and reviewers.",
+        "next_step": "Develop drawings against the actual source document and retain the task team's review and revision notes.",
+        "try_this": "Follow the approved method and raise unclear instructions or changed conditions with the responsible person before proceeding.",
+        "benefit": "Speaking up becomes part of looking after the crew and understanding the task.",
+        "check_question": "Does the responsible task team confirm that the sequence, equipment and depicted controls match this job?",
         "source_url": "https://www.safeworkaustralia.gov.au/doc/safe-work-method-statement-high-risk-construction-work-information-sheet",
         "review_note": "Safe Work Australia's guidance describes SWMS for high risk construction work. This proposal is illustration support tied to the specific work and its review process."
       },
       {
         "id": "animation",
-        "name": "When the job is “finished”",
+        "name": "Dinner's Done. So Is the Washing-Up.",
         "format": "Short animation, loops and recurring episodes",
-        "seed": "Someone declares a job finished while the part they dislike is left for somebody else.",
-        "example": "Possible scene: the cook announces “Dinner’s done” over one plate and every saucepan in the house. Would the reveal carry the joke, or does it need a reply from the person facing the washing-up?",
-        "buyer_or_place": "Short-video channels, club screens, event displays and companion content for books.",
-        "next_step": "Try a silent reveal of the kitchen, then a version with the reply “You missed a bit.” Compare whether the joke is clear and whether either version feels like a familiar household moment."
+        "seed": "The cook declares dinner finished while the cooking mess is still waiting for somebody else.",
+        "example": "A proud reveal of one plate becomes a slow pan across every saucepan in the house. The cook sees the gap, shares a plan with the household and does their part of the clean-up. The closing shot puts them at the table with everyone else, rather than leaving another person in the kitchen.",
+        "buyer_or_place": "Short-video channels, club screens, camp displays and guide companions.",
+        "next_step": "Compare a quiet visual reveal with a short reply, keeping the clean-up and shared rest in both endings.",
+        "try_this": "Treat cooking, clearing and cleaning as a shared job with an agreed division of work.",
+        "benefit": "Feeding people also leaves them a usable kitchen and time to be together.",
+        "check_question": "Can viewers see who changes what, and does the ending share the enjoyment as well as the work?"
       },
       {
         "id": "merch",
-        "name": "Objects that carry the joke",
+        "name": "The Bags Made It to the Car",
         "format": "Tea towels, mugs, aprons, shirts, calendars and shed prints",
-        "seed": "A useful household object comments on the job it keeps being denied.",
-        "example": "A tea towel shows the Workload Forecast: dishes gathering over the sink, clearing after someone actually dries them. An apron gives the cook a dramatic title beside a very modest meal.",
+        "seed": "An everyday object can remind someone of a habit they want to build.",
+        "example": "A reusable shopping bag shows an absurd ceremonial procession from the kitchen hook to the front door. A companion calendar picture finishes with the owner actually using the bag at the shops. The joke celebrates remembering, with room for the owner to laugh at the old empty-handed entrance.",
         "buyer_or_place": "Gift stalls, club fundraisers, roadhouses, small shops and direct-order bundles.",
-        "next_step": "A Workload Forecast tea towel mock-up, with a matching sink-side print."
+        "next_step": "Try the image on the object involved and compare whether it is a useful reminder or just decoration.",
+        "try_this": "Put the things you need with the belongings you already take when leaving.",
+        "benefit": "Preparation becomes easier to remember and less dependent on somebody else's reminders.",
+        "check_question": "Would the owner welcome this reminder, and can they connect it to an action they want to take?"
       },
       {
         "id": "sports-clubs",
-        "name": "Give the club a larrikin",
+        "name": "The Galah Who Gives a Hand",
         "format": "Sports-club mascots, match-day cartoons and junior activity sheets",
-        "seed": "A fictional club character who can call a mark across the oval and miss the roster on the wall.",
-        "example": "A fictional galah mascot announces itself as Head of Encouragement and Avoiding the Washing-Up. It can star in a match-day strip, a volunteer thank-you, a gear-return reminder and a junior colouring page.",
+        "seed": "An enthusiastic club character has plenty to say and learns to make its help count.",
+        "example": "The galah arrives with a giant coaching board and discovers today's useful role is on the volunteer roster. It asks where it is needed, finishes that job and thanks the other helpers. Its next grand announcement is that everyone can enjoy the game because the set-up is actually done.",
         "buyer_or_place": "Footy, cricket, bowls and other sports clubs, with a character developed for the individual club.",
-        "next_step": "An original galah character sheet, a match-day cartoon and a gear-return notice."
+        "next_step": "Explore the character in a match-day strip, a practical club notice and a volunteer thank-you.",
+        "try_this": "Check the roster, ask where help is needed and follow through on the job you accept.",
+        "benefit": "The load is shared, new helpers belong and more people get to enjoy the club.",
+        "check_question": "Would members see a character worth joining in with, rather than a mascot rewarded for avoiding work?"
       },
       {
         "id": "public-issue-campaigns",
-        "name": "Political campaigns & public-issue cartoons",
+        "name": "The Great Not-My-Job Debate",
         "format": "Generic public-facing issue cartoons, campaign posters and explainer strips",
-        "seed": "An ordinary public problem is buried under grand language and an unhelpful process.",
-        "example": "Shed Parliament debates who left the gate open while a goat eats the minutes. A separate factual panel explains the relevant public process using checked, clearly sourced information.",
-        "buyer_or_place": "Public exhibitions, community papers, civic information projects and issue-based public campaigns.",
-        "next_step": "A Shed Parliament cartoon paired with a sourced explanation of a specific public process.",
+        "seed": "A shared problem attracts speeches and blame while the practical responsibilities remain unclear.",
+        "example": "A fictional Shed Parliament debates the untidy community hall until someone asks who can do what and which decision needs the responsible organisation. The group shares the work within its authority and follows the relevant public process for the rest. Satire of the grand speeches sits beside a checked explanation people can use.",
+        "buyer_or_place": "Community papers, public exhibitions, civic information projects and general public issue campaigns.",
+        "next_step": "Explore a fictional cartoon alongside the verified process and responsibilities for the actual issue.",
+        "try_this": "Clarify the facts and responsibilities, take the part you can and use the appropriate public channel for the rest.",
+        "benefit": "People can participate and cooperate without being left with cynicism or an invented promise.",
+        "check_question": "Is the factual explanation accurate, and does the satire leave readers a constructive way to participate?",
         "scope": "General public-facing issues and satire. Concepts are not tailored to demographic groups or voter profiles."
       },
       {
         "id": "noticeboard-serials",
-        "name": "Next week on the noticeboard",
+        "name": "The Gear Comes Home",
         "format": "Serial comic panels and rotating community displays",
-        "seed": "A character's unfinished job keeps acquiring new consequences.",
-        "example": "A lost property box begins as one lonely glove. Each instalment gives it a new resident, a new rule and eventually a committee demanding a larger box.",
+        "seed": "Shared equipment cannot do its next job while it is spread across everybody's houses.",
+        "example": "A club bag issues an extravagant reunion invitation to its scattered contents. Across the instalments, borrowers check their cupboards, return the gear and tell the coordinator about missing or damaged items. The final panel shows the next group ready to play, with the former borrowers helping them pack.",
         "buyer_or_place": "Camp noticeboards, halls, club foyers, libraries and community shops.",
-        "next_step": "A sequence of noticeboard panels following the lost property box from lonely glove to overcrowded institution."
+        "next_step": "Explore a serial that follows the return and handover, with local return details supplied by the club.",
+        "try_this": "Return shared gear to the agreed place and tell its coordinator about any problem.",
+        "benefit": "The next person gets a fair turn, and the coordinator does less chasing.",
+        "check_question": "Can readers find where and how to return the real items, and is asking for help made easy?"
       },
       {
         "id": "live-readings",
-        "name": "A yarn, a picture and a room full of mates",
+        "name": "The Picnic Expedition",
         "format": "Illustrated readings, hall-night comedy and caption contests",
-        "seed": "A narrated picture about a familiar habit, with room for competing explanations.",
-        "example": "A silent picture of a wildly overpacked ute, accompanied by increasingly confident explanations and a final reveal of the one thing its owner forgot.",
-        "buyer_or_place": "Country halls, bowls clubs, show events, libraries and informal club entertainment.",
-        "next_step": "A short illustrated reading with an overpacked-ute picture, competing explanations and a final reveal."
+        "seed": "Preparing for a shared outing becomes an impressive display of equipment without an agreed plan.",
+        "example": "A picture shows a ute packed as though the picnic might colonise another planet. The narrator discovers nobody has checked the meeting place or who is bringing lunch. A second image has the group agree the essentials and share the jobs, then spend the outing enjoying each other's company.",
+        "buyer_or_place": "Country halls, bowls clubs, show events, libraries and club entertainment.",
+        "next_step": "Read alternative explanations over both pictures and ask what the group changed between them.",
+        "try_this": "Agree the plan, check what is needed and share preparations with the people taking part.",
+        "benefit": "Preparation serves the shared experience instead of consuming it.",
+        "check_question": "Does the second picture offer something useful beyond 'pack less' or 'stop being silly'?"
       },
       {
         "id": "audio",
-        "name": "“Just a quick favour”",
+        "name": "The Conversation Gets a Second Person",
         "format": "Short audio yarns, radio-ready sketches and narrated cartoons",
-        "seed": "A request to pick up a couple of things grows until it sounds like a house move.",
-        "example": "Possible phone sketch: a mate asks to borrow the ute, then keeps adding furniture to the list. The other person asks, “Am I helping you move, or do I live with you now?” Does the growing request offer enough to play with?",
-        "buyer_or_place": "Community-radio submissions, club audio, podcasts and accessible narrated editions.",
-        "next_step": "Read it aloud with the requests delivered casually, then with increasingly obvious attempts to hide the scale of the favour. Which version, if either, gives the other person a useful comic response?"
+        "seed": "A person is so busy telling a story that their companion has not had room to join in.",
+        "example": "A storyteller delivers the history of three cars and a disappointing gearbox before noticing their mate is still holding the first question. They stop, ask about the other person's day and listen. The old car story returns as a shared callback rather than taking over the whole conversation again.",
+        "buyer_or_place": "Community-radio submissions, club audio, podcasts and narrated guide editions.",
+        "next_step": "Try the exchange aloud with different pauses and responses, leaving room for both voices.",
+        "try_this": "Ask a question, listen to the answer and make room for the other person's story.",
+        "benefit": "People feel included, and the conversation has more to offer both of them.",
+        "check_question": "Can listeners hear the change in attention, without one character being treated as beneath the other?"
       },
       {
         "id": "tabletop",
-        "name": "The Smoko Argument Pack",
+        "name": "What Would Help Here?",
         "format": "Caption games, scenario cards and printable club activities",
-        "seed": "Players supply the excuse a character might give for an obvious mess.",
-        "example": "One card shows a ute packed for a ten-minute errand. Players supply the missing explanation, predict the forgotten item or match it to the worst possible tool.",
-        "buyer_or_place": "Club tables, family gatherings, camp recreation rooms and gift packs.",
-        "next_step": "A printable pack of picture cards, excuse cards and a one-page set of game rules."
+        "seed": "A familiar mess can open a conversation about helping, responsibility and the way people speak to one another.",
+        "example": "A picture card shows a borrowed item returned incomplete or a shared kitchen left unusable. Players can supply an absurd excuse, then suggest a response that helps resolve it. A second picture lets the character put things right, with room to discuss which line would invite cooperation rather than start a fight.",
+        "buyer_or_place": "Club tables, family gatherings, camp recreation rooms and facilitated youth activities.",
+        "next_step": "Explore picture-and-response cards with intended participants, including how they would want a mate to raise the issue.",
+        "try_this": "Practise asking for a change clearly, listening and agreeing who will do what.",
+        "benefit": "A difficult subject can become a shared problem to solve with some warmth.",
+        "check_question": "Does the activity make repair and respectful conversation easier, or turn into scoring points against someone?"
       }
     ],
     "wildcards": [
       {
         "title": "The Cubicle Gazette",
-        "setting": "Country-show toilets, club bathrooms and camp amenities, with permission from the venue.",
-        "idea": "A tiny changing newspaper for the back of the door, complete with a headline, one cartoon and an absurd classified ad.",
-        "visual": "A serious broadsheet front page reporting that the last clean mug has been sighted near the sink.",
-        "pilot": "A door-sized newspaper sheet with one cartoon, a mock headline and a classified ad."
+        "setting": "Country-show toilets, club bathrooms and camp amenities, with the venue's involvement.",
+        "idea": "A changing back-of-door cartoon about leaving the amenities ready for the next person.",
+        "visual": "A character gives a victory speech over the last lonely corner of a toilet roll, then gets on with replacing it. A following panel shows them washing and drying their hands before leaving.",
+        "pilot": "Explore a readable amenities sheet with the venue's supply and reporting details.",
+        "try_this": "Leave the facilities usable, wash and dry your hands, and report missing supplies or problems.",
+        "benefit": "The next visitor is cared for, and ordinary hygiene becomes part of sharing a place."
       },
       {
-        "title": "The Lost Property Royal Show",
+        "title": "The Returned Property Royal Show",
         "setting": "An ag-show display or club foyer.",
-        "idea": "Abandoned everyday objects receive the treatment of prize livestock, complete with judging notes and ribbons.",
-        "visual": "A magnificent unmatched glove under a Champion ribbon; a line of hopeful coffee mugs waits to be judged.",
-        "pilot": "Removable illustrated award cards and a miniature display of fictional prize-winning lost property."
+        "idea": "Give returned, paired and properly handed-over belongings the extravagant honours of a show pavilion.",
+        "visual": "Two reunited gloves receive the Champion Pair ribbon. Their owner returns them to the kit bag, where the next volunteer finds what they need. The absent-minded beginning remains available for a gentle joke.",
+        "pilot": "Try illustrated awards beside a real, clearly explained return point.",
+        "try_this": "Check your belongings for borrowed gear, return it and mention anything missing or damaged.",
+        "benefit": "Recognition goes to restoring shared resources, with less chasing and more gear available."
       },
       {
         "title": "The Corrugated Comic",
         "setting": "A show stand, shed exhibition or temporary community-art display.",
-        "idea": "A comic designed across a series of upright corrugated panels, so readers walk along the story.",
-        "visual": "A three-stage attempt to close a stubborn gate, ending with the quiet discovery that somebody stacked timber behind it.",
-        "pilot": "A paper model of the comic wall and a sample illustrated panel."
+        "idea": "A walk-along story about making a shared space usable again.",
+        "visual": "The first panel gives an absurd grand tour around a door blocked by everybody's stored things. The crew agrees where the gear belongs, gets the appropriate help to move it and uses the doorway normally. Their grand expedition ends at the tea table.",
+        "pilot": "Explore the story as a paper wall, with each panel showing a clear part of the change.",
+        "try_this": "Agree shared access and storage arrangements, then keep those spaces usable.",
+        "benefit": "Cooperation creates room to move, work and enjoy the shed together."
       },
       {
-        "title": "Moppa's Feral Chores Club",
-        "setting": "A family activity day, junior club session or illustrated home edition.",
-        "idea": "A proudly scruffy emu becomes an accidental ambassador for finishing jobs.",
-        "visual": "Moppa insists a mess is a creative project while sweeping it into the unmistakable shape of a second emu.",
-        "pilot": "A character sheet, a short strip and a chores activity page."
+        "title": "Moppa's Have-a-Go Club",
+        "setting": "Family activities, junior club sessions and illustrated home editions.",
+        "idea": "A scruffy emu learns how to finish a job with help, practice and a bit of play.",
+        "visual": "Moppa calls the pile under the bed a 'very private collection'. A friend helps work out where things belong, Moppa joins in and they find the missing game. The last panel has them playing together in the space they cleared.",
+        "pilot": "Explore a short strip and activity page with the young people who would use it.",
+        "try_this": "Ask for help with an unfamiliar job, take part and practise a way to do it again.",
+        "benefit": "Learning brings independence and enjoyment without making a child's circumstances the joke."
       },
       {
         "title": "The Roadhouse Placemat Yarn",
-        "setting": "Roadhouse or club-meal tabletops.",
-        "idea": "A one-meal comic, caption puzzle or small 'spot the forgotten item' scene that can be read while food arrives.",
-        "visual": "A traveller packed everything for the trip except the reason they stopped: the shopping list still pinned to the fridge at home.",
-        "pilot": "A paper placemat with a comic and a missing-item puzzle arranged around the plate space."
+        "setting": "Roadhouse and club-meal tabletops.",
+        "idea": "A comic puzzle follows the journey from a spectacularly untidy meal to a table the next family can use.",
+        "visual": "The family searches for its car keys among a mountain of wrappers as though leading an expedition. They gather their rubbish, use the venue's bins and return the reusable items where asked. Their keys emerge, and the next visitors get a clear place to sit.",
+        "pilot": "Explore a placemat story and puzzle with the venue's actual table and return arrangements.",
+        "try_this": "Gather your belongings and rubbish, and follow the venue's arrangements for clearing your place.",
+        "benefit": "Travellers leave a welcome for the people who follow them."
       },
       {
-        "title": "The Shed Choir",
-        "setting": "A hall gig or club variety night.",
-        "idea": "A performed comedy piece builds a familiar shed soundtrack from voices, ordinary props and increasingly unhelpful commentary.",
-        "visual": "Solemn performers hold caption cards while one person supplies a tool noise and another disputes its accuracy.",
-        "pilot": "A short script, caption cards and an audio demo of the shed soundtrack."
+        "title": "The Pack-Up Chorus",
+        "setting": "Hall gigs, club variety nights and community events.",
+        "idea": "A comic chorus of 'someone else' gradually turns into people naming and sharing the pack-up jobs.",
+        "visual": "Performers initially produce a magnificent harmony of excuses. Then each takes an agreed role, using harmless stage props and voices. The final refrain happens with the pretend space ready, so the whole cast can take a bow together.",
+        "pilot": "Explore a short script with local volunteers and a clear transition from excuses to cooperation.",
+        "try_this": "Find out what needs doing, take an agreed role and let someone know when it is finished.",
+        "benefit": "Shared work leaves more people free to enjoy the event and each other's company."
       },
       {
-        "title": "The Town's Unofficial Useful Map",
-        "setting": "A fictional town in a book, show display or local publication concept.",
-        "idea": "A fictional town mapped through unofficial landmarks: a shady seat, an awkward shop door and the bend where the recurring visitor takes the wrong turn.",
-        "visual": "A friendly illustrated town map with character vignettes and a recurring visitor getting increasingly overconfident.",
-        "pilot": "An illustrated map of a fictional town, with its unofficial landmarks and recurring visitors."
+        "title": "The Ask-a-Local Map",
+        "setting": "A fictional town in a book, show display or community publication concept.",
+        "idea": "A welcoming map and comic let a visitor ask for help and a local practise giving useful directions.",
+        "visual": "The visitor is confidently heading for a landmark that moved years ago. They ask, the local replaces a long family-history explanation with clear directions, and both reach the community event. A real-place version would use checked local information.",
+        "pilot": "Explore a fictional map, then discuss a factual local version with the people represented.",
+        "try_this": "Ask when unsure, give clear information and check that the other person has what they need.",
+        "benefit": "Newcomers can belong, and local knowledge becomes something generously shared."
       }
     ],
     "routes": [
       {
-        "title": "The shared fridge",
+        "title": "The shared fridge becomes usable again",
         "steps": [
-          "Poster: a cutaway fridge giving evidence about an ownerless casserole and somebody else's missing milk.",
-          "Crib-room column: a letter from the fridge requesting that its occupants stop referring to the smell as 'a maintenance issue'.",
-          "Thirty-second skit: workers disown a mystery tub until somebody announces that the container is free to take home."
+          "Poster: the mystery-tub joke leads to a worker labelling their own food and leaving the shelf and bench ready, following the agreed camp rules.",
+          "Crib-room column: a former fridge offender tells the story on themselves, explains the habit they changed and thanks the crew for making the arrangement clear.",
+          "Short skit: a person starts to deny responsibility, recognises their own container and puts it right. The final moment lets the crew enjoy lunch together instead of continuing the argument."
         ],
-        "note": "One situation with a visual version, a written voice and a performed exchange."
+        "note": "Each version keeps the recognition, the person's own response and the shared benefit. Food-handling and clear-out instructions need review for the actual setting."
       },
       {
-        "title": "The club galah",
+        "title": "The club galah helps everyone play",
         "steps": [
-          "Match-day cartoon: the galah loudly coaches from the boundary while facing the wrong oval.",
-          "Gear-return notice: the same galah beside a mountain of club equipment and an empty bag labelled with its name.",
-          "Merchandise: a cap or shirt showing the galah as 'Head of Encouragement and Avoiding the Washing-Up'."
+          "Match-day cartoon: the galah catches itself delivering an unnecessary grand speech, checks the volunteer roster and helps finish the set-up.",
+          "Gear-return notice: the galah returns the kit to the club's agreed point, reports a missing item and helps the next team find what it needs.",
+          "Merchandise: the galah's comic pride is in giving a hand and joining the game afterwards. The image celebrates contribution, with room to remember how it learned."
         ],
-        "note": "The same fictional character in a cartoon, a club notice and a wearable joke."
+        "note": "The mascot can be a learner and a good companion. Its recognisable humour need not reward avoiding the jobs that keep a club going."
       }
     ],
     "sources": [
       {
         "title": "Safe Work Australia: Safe work method statement for high risk construction work, information sheet",
         "url": "https://www.safeworkaustralia.gov.au/doc/safe-work-method-statement-high-risk-construction-work-information-sheet",
-        "used_for": "Context for the task-specific SWMS illustration proposal. The creative product names, examples and proposed distribution contexts are original brainstorming, not claims made by this source."
+        "used_for": "Context for task-specific SWMS illustration support. The product names and comic scenes are proposals; this source does not validate them or establish that they change behaviour."
       }
     ]
   }
