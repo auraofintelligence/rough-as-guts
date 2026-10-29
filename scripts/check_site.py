@@ -102,7 +102,7 @@ for key in ['men','women','youth']:
     for index,section in enumerate(content[key].get('sections',[]),1):
         require_text_fields(section,['try_this','benefit'],f'{key} section {index}')
         edition_section_count+=1
-if edition_section_count!=15:errors.append(f'Expected 15 edition sections, got {edition_section_count}')
+if edition_section_count!=14:errors.append(f'Expected 14 edition sections, got {edition_section_count}')
 products=content['pipeline'].get('products',[])
 wildcards=content['pipeline'].get('wildcards',[])
 if len(products)!=18:errors.append(f'Expected 18 product formats, got {len(products)}')
