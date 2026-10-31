@@ -5,8 +5,8 @@ from PIL import Image
 
 ROOT=Path(__file__).resolve().parents[1]
 BASE='https://auraofintelligence.github.io/rough-as-guts/'
-PAGES=[('home','index.html','Home'),('men','men.html','Men'),('women','women.html','Women'),('youth','youth.html','Young Crew'),('workplace','workplace.html','Worksites'),('library','library.html','Original library'),('systems','systems.html','Systems'),('pipeline','pipeline.html','Product pipeline'),('sitemap','sitemap.html','Site map')]
-HERO_TITLES={'home':'Rough as guts','men':'For the blokes','women':'For the women','youth':'Young crew','workplace':'Work well. Get home well.','library':'The original rough stuff','systems':'Laugh. Learn. Try it.','pipeline':'Out of the shed','sitemap':'Find your way round'}
+PAGES=[('home','index.html','Home'),('men','men.html','Men'),('women','women.html','Women'),('youth','youth.html','Young Crew'),('workplace','workplace.html','Worksites'),('habits','habits.html','Habit ideas'),('library','library.html','Original library'),('systems','systems.html','Systems'),('pipeline','pipeline.html','Product pipeline'),('sitemap','sitemap.html','Site map')]
+HERO_TITLES={'home':'Rough as guts','men':'For the blokes','women':'For the women','youth':'Young crew','workplace':'Work well. Get home well.','habits':'Less mucking about. More living.','library':'The original rough stuff','systems':'Laugh. Learn. Try it.','pipeline':'Out of the shed','sitemap':'Find your way round'}
 SELECTED={'home':[11,26], 'workplace':[24,30,44]}
 CARE_HEROES={'men','women','workplace'}
 SOURCE_NOTES={11:'A reason to care: protection is connected to hearing family. The PPE selection and wording still need task review.',26:'The story turns from pretending to cope toward rest and support. Its specific fatigue instructions need revision against an actual procedure.',24:'The draft attempts to identify a hazard and show controls. Its lifting and support scenes are incomplete and need technical review.',30:'The draft attempts a verification sequence. Its truncated text and simplified isolation instructions must be replaced with the actual reviewed method.',44:'The draft gives planning, communication and support roles a place in the story. Its confined-space and rescue details need specialist review.'}
@@ -175,6 +175,39 @@ def pipeline(page):
     out+='</div><div id="production">'+link('systems.html#brief-builder','Image brief builder','button')+'</div></section>'
     return out
 
+def habit_ideas():
+    data=json.loads((ROOT/'data/habit-ideas.json').read_text(encoding='utf-8'))
+    groups=data['groups'];total=sum(len(group['items']) for group in groups)
+    out='<section class="section container" id="ideas"><h2>Find a habit to turn around</h2>'
+    out+=p(f'{total} ideas across {len(groups)} areas. Each pairs a familiar bad habit with a useful response. Try the scenes with readers and see whether the change is clear and worth making.')
+    out+='<div class="filters habit-filters"><div class="field"><label for="habit-search">Search the ideas</label><input id="habit-search" type="search" placeholder="Try towels, tools, seedlings or emergency kit"></div><div class="field"><label for="habit-topic">Choose an area of life</label><select id="habit-topic"><option value="">All areas</option>'
+    out+=''.join(f'<option value="{esc(group["id"])}">{esc(group["title"])}</option>' for group in groups)
+    out+='</select></div></div><p class="results-count" id="habit-count" role="status">'+f'{total} of {total} ideas</p>'
+    out+='<details class="habit-topic-index"><summary>Jump to one of the '+str(len(groups))+' areas</summary><nav class="habit-topics" aria-label="Habit topics">'+''.join(link('#'+group['id'],group['title']) for group in groups)+'</nav></details>'
+    out+='<p class="habit-key"><strong>Bad habit</strong><span aria-hidden="true"> → </span><strong>Better way</strong></p></section><div id="habit-groups">'
+    readable=['ROUGH AS GUTS: HABITS TO TURN AROUND',f'{total} candidate ideas across {len(groups)} areas. Bad habit -> better way.','For men, women and high-school-age young people. Drafts to test with readers.','']
+    for group in groups:
+        out+=f'<section class="section container habit-group" id="{esc(group["id"])}" data-topic="{esc(group["id"])}"><h2>{esc(group["title"])}</h2>'
+        readable.extend([group['title'].upper(),''])
+        if group.get('intro'):out+=p(group['intro'],'reading')
+        if group['id']=='gardening':
+            src='assets/generated/concept-gardening-habits.webp'
+            with Image.open(ROOT/src) as im:width,height=im.size
+            out+=f'<figure class="concept-figure"><a href="{src}"><img src="{src}" alt="A woman and teen check their impulse-bought plants against a garden plan, put suitable plants in suitable places and enjoy the yard together." loading="lazy" width="{width}" height="{height}"></a><figcaption>The garden gets a plan. The patio gets its people back. AI illustration draft. '+link(src,'Open the larger comic')+'</figcaption></figure>'
+        out+='<ol class="habit-list" start="'+str(group['items'][0]['number'])+'">'
+        for item in group['items']:
+            out+=f'<li class="habit-item" id="{esc(item["id"])}" value="{item["number"]}"><span class="habit-number" aria-hidden="true">{item["number"]:03}</span><p class="habit-bad"><span class="habit-label">Bad habit</span>{esc(item["bad_habit"])}</p><p class="habit-better"><span class="habit-label">Better way</span>{esc(item["better_action"])}</p></li>'
+            readable.append(f'{item["number"]:03}. {item["bad_habit"]} -> {item["better_action"]}')
+        out+='</ol>'
+        if group.get('sources'):
+            out+='<p class="caption habit-sources">Useful guidance: '+ ' · '.join(link(source['url'],source['label']) for source in group['sources'])+'</p>'
+            readable.extend(['Guidance:']+[source['label']+': '+source['url'] for source in group['sources']])
+        out+='</section>';readable.append('')
+    (ROOT/'data/habit-ideas.txt').write_text('\n'.join(readable)+'\n',encoding='utf-8')
+    out+='</div><p class="container empty-state" id="habit-empty" hidden>No matching ideas. Try another word or choose all areas.</p>'
+    out+='<section class="section container"><h2>Give an idea a picture</h2>'+p('Choose a habit, show the person trying a useful response and give the result room in the picture. Help, suitable equipment and better conditions can be part of the change. Ask readers what they understood and what they would actually try.')+'<div class="hero-actions">'+link('systems.html#brief-builder','Build an image brief','button')+'<a href="data/habit-ideas.txt" class="button secondary" download>Save the whole list</a></div></section>'
+    return out
+
 def main():
     ap=argparse.ArgumentParser();ap.add_argument('--catalogue-source');args=ap.parse_args()
     if args.catalogue_source:portable_catalogue(Path(args.catalogue_source))
@@ -197,7 +230,7 @@ def main():
     script_version=hashlib.sha256((ROOT/'site.js').read_bytes()).hexdigest()[:12]
     style_version=hashlib.sha256((ROOT/'styles.css').read_bytes()).hexdigest()[:12]
     for idx,(key,filename,label) in enumerate(PAGES):
-        page=content[key];nav=''.join(f'<a href="{f}"'+(' aria-current="page"' if k==key else '')+f'>{esc(l)}</a>' for k,f,l in PAGES if k in ['men','women','youth','workplace','library','systems','pipeline'])
+        page=content[key];nav=''.join(f'<a href="{f}"'+(' aria-current="page"' if k==key else '')+f'>{esc(l)}</a>' for k,f,l in PAGES if k in ['men','women','youth','workplace','habits','library','systems','pipeline'])
         footer_nav=''.join(link(f,l) for k,f,l in PAGES)
         prev=PAGES[(idx-1)%len(PAGES)];nxt=PAGES[(idx+1)%len(PAGES)]
         head=f'''<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(label)} · Rough as Guts</title><meta name="description" content="{esc(page['lead'])}"><meta name="theme-color" content="#ffd52a"><link rel="canonical" href="{BASE+filename}"><link rel="icon" href="assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css?v={style_version}"><meta property="og:title" content="{esc(label)} · Rough as Guts"><meta property="og:description" content="{esc(page['lead'])}"><meta property="og:type" content="website"><meta property="og:url" content="{BASE+filename}"><meta property="og:image" content="{BASE+heroes[key]}"><meta name="twitter:card" content="summary_large_image"><script src="site.js?v={script_version}" defer></script></head><body data-page="{key}"><a class="skip-link" href="#main">Skip to content</a><header class="site-header"><a class="brand" href="index.html">ROUGH AS GUTS<small>GOOD LAUGHS. GOOD CHANGES.</small></a><button class="menu-toggle" aria-controls="main-nav" aria-expanded="false">Menu</button><nav id="main-nav" class="main-nav" aria-label="Main navigation">{nav}</nav><div class="read-tools" role="group" aria-label="Text size"><button id="text-smaller" aria-label="Smaller text">A−</button><button id="text-reset" aria-label="Reset text size">A</button><button id="text-larger" aria-label="Larger text">A+</button></div></header><main id="main"><section class="hero"><img class="hero-image" src="{heroes[key]}" alt="{esc(page['heroAlt'])}" fetchpriority="high" width="1536" height="1024"><div class="hero-copy"><span class="eyebrow">{esc(page['eyebrow'])}</span><h1>{HERO_TITLES[key]}</h1><p class="lead">{esc(page['lead'])}</p><div class="hero-actions">'''
@@ -205,18 +238,20 @@ def main():
         elif key=='library':head+=link('#browse','Browse all 45 slides','button')+link('#compare','Compare source copies','button secondary')
         elif key=='systems':head+=link('#brief-builder','Build an image brief','button')+link('#loose-goose','Loose Goose comedy prompts','button secondary')
         elif key=='pipeline':head+=link('#formats','Explore the product range','button')+link('#wildcards','Try the weird stuff','button secondary')
+        elif key=='habits':head+=link('#ideas','Browse the ideas','button')+link('#gardening','Gardening','button secondary')+link('#prepping','Prepping','button secondary')
         elif key in ['men','women','youth']:head+=link('#sample-gags','Get a taste','button')+link('#chapters','Inside the edition','button secondary')
         else:head+=link('#inside','Have a look','button')+link('systems.html','Make a new page','button secondary')
         head+='</div></div></section><div class="shout-strip">'+('Learn a new way. Make room for your own life.' if key=='youth' else 'Joyful responsible abundance.')+'</div>'
         body=f'<div class="container intro reading" id="inside">{p(page["title"],"big-quote")}{p(page["intro"])}</div>'
         if key=='pipeline':body+=pipeline(page)
+        elif key=='habits':body+=habit_ideas()
         else:body+=page_sections(page,key,heroes)
         if key=='home':body+='<section class="section container"><h2>What else could it become?</h2>'+p('Books, posters, cartoons, animation and club characters can carry the same purpose: a laugh, a useful change and something worth enjoying.')+link('pipeline.html','Explore the product pipeline','button')+'</section>'
         if key=='library':
             body+=library(cat,prov)+comparison(prov)+'<section class="section container"><h2>Source records & rights</h2>'+p('Darryl Gough supplied the concept and original draft artwork. Luke Nathan Hayes is developing the wider guides, editorial system and website. Original files, readable transcripts and new illustration prompts remain available together here.')+link('LICENCE-NOTICE.md','Source rights and interim licence notice','button secondary')+'</section>'
         if key=='workplace':body+='<section class="section container"><h2>SWMS, in plain English</h2>'+p('SWMS stands for Safe Work Method Statement. Safe Work Australia describes its role in high-risk construction work: identifying the activities, hazards and risk controls. Humorous illustration can support clear communication, while the actual task and site details belong in the reviewed document.')+link('https://www.safeworkaustralia.gov.au/duties-tool/construction/hazards-information/high-risk-construction-work-requiring-swms','Read Safe Work Australia’s SWMS guidance')+'</section>'
         if key=='systems':
-            body+=brief_form()+'<section class="section container pattern-list"><h2>Borrow a visual pattern</h2>'
+            body+='<section class="section container"><h2>Looking for a familiar habit?</h2>'+p('Browse the working list for home, school, relationships, work, gardening and emergency preparedness. Bring a bad habit and its useful opposite into the image brief below.')+link('habits.html','Explore the habit ideas','button')+'</section>'+brief_form()+'<section class="section container pattern-list"><h2>Borrow a visual pattern</h2>'
             for pat in cat['layout_patterns'].values():body+='<details><summary>'+esc(pat['name'])+'</summary>'+p(pat['observed_structure'])+p(pat['generator_template'],'scene-note')+'</details>'
             body+='</section>'
         if key=='sitemap':

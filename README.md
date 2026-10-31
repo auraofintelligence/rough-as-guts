@@ -13,12 +13,13 @@ Concept and supplied draft artwork: Darryl Gough (Daz). Wider guide development,
 - Women's editions
 - Young Crew (high-school-age life skills)
 - Worksites and worker camps
+- Habit ideas: 190 bad-habit/useful-response pairs across 17 areas, including gardening and emergency preparedness
 - Original 45-slide library, with searchable readable transcripts
 - Editorial system and browser-local image-brief builder
 - Product pipeline, from an observation to an illustrated guide or workplace format
 - Site map
 
-These are the nine primary pages. Systems and Product Pipeline are available in the main navigation. The old `provenance.html` address redirects to the source comparison on `library.html`, preserving a requested slide. It has no hero and is excluded from navigation and the sitemap.
+These are the ten primary pages. Habit Ideas, Systems and Product Pipeline are available in the main navigation. The old `provenance.html` address redirects to the source comparison on `library.html`, preserving a requested slide. It has no hero and is excluded from navigation and the sitemap.
 
 The site is static HTML, CSS and JavaScript, with no accounts, analytics, external fonts or server-side collection. It supports phones and laptops, adjustable text size, keyboard navigation, reduced motion, lazy-loaded posters, poster zoom, footer navigation and previous/next links. Each primary page has its own hero illustration.
 
@@ -40,6 +41,8 @@ The original source artwork appears in three places: home uses slides 11 and 26;
 
 ## Systems and product pipeline
 
+Habit Ideas preserves the original 150 pairs and adds 20 gardening and 20 emergency preparedness ideas. Search, an area filter and topic links help readers browse the list on phone or laptop. Every pair stays visible without JavaScript. `data/habit-ideas.json` is the structured source; the build also creates a readable `data/habit-ideas.txt` download. Gardening links to Queensland waterwise guidance. Preparedness links to Get Ready Queensland planning, kit and animal resources. These are candidate teaching scenes, with current local official guidance supporting practical decisions. The page has its own hero and a new garden planning comic, recorded in the artwork manifest.
+
 Systems provides the editorial workflow, visual patterns, Loose Goose comedy prompts and a browser-local image-brief builder. The existing useful-point field is now required as "Better action & why it helps". The two optional additions remain a comic-angle choice and another version to try. The resulting brief asks for the better action and its benefit to appear in the proposed image or sequence.
 
 Product Pipeline explores 18 formats and seven country concepts. Each has a visible improvement pathway and a possible shared benefit; the product entries also include a question for checking the idea with intended readers. These remain options to develop, change or discard, with no claimed audience response or commercial ranking. Workplace and SWMS illustrations require review against the actual task, equipment, conditions and responsible work method.
@@ -54,7 +57,7 @@ python scripts/check_site.py
 python -m http.server 8765
 ```
 
-The check covers the nine primary pages and legacy redirect, unique and revised heroes, local links and anchors, source-image placement, revised inline illustrations, distinct edition headings, source hashes and the unchanged interim licence. It also checks for nonempty better-action and benefit fields in new gags, all 15 edition sections, the 18 product formats and seven country concepts. The form's better-action field must be required while its two comedy controls remain optional. Site text is checked for em dashes, with the exact `LICENCE.md` and binary assets excluded. These checks verify structure and source integrity; reader interpretation and task accuracy still need appropriate review.
+The check covers the ten primary pages and legacy redirect, unique and revised heroes, local links and anchors, source-image placement, revised inline illustrations, distinct edition headings, source hashes and the unchanged interim licence. It also checks for nonempty better-action and benefit fields in new gags, all 14 edition sections, the 18 product formats and seven country concepts. The habit bank is checked for 190 complete, consecutively numbered pairs across 17 areas and matching page anchors. The form's better-action field must be required while its two comedy controls remain optional. Site text is checked for em dashes, with the exact `LICENCE.md` and binary assets excluded. These checks verify structure and source integrity; reader interpretation and task accuracy still need appropriate review.
 
 Regenerating the source archive requires the original PowerPoint and the extraction manifest. `scripts/prepare-source-assets.py --help` describes those inputs. It is not needed to view or publish the already-built static site.
 

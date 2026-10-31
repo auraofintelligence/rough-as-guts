@@ -918,5 +918,13 @@
         "used_for": "Context for task-specific SWMS illustration support. The product names and comic scenes are proposals; this source does not validate them or establish that they change behaviour."
       }
     ]
+  },
+  "habits": {
+    "eyebrow": "HABIT IDEAS · A WORKING LIST",
+    "title": "Life hacks in reverse. A better way in reach.",
+    "lead": "190 familiar bad habits and useful ways forward, from the bathroom to the back paddock.",
+    "heroAlt": "Adults and a teenager share practical jobs in an Australian yard, returning tools, planning suitable planting and checking household emergency supplies.",
+    "intro": "A working bank for the men’s, women’s and young-crew editions. Each pair turns a familiar habit into a response someone can try, with help where needed. Swap the cast to suit the story. The aim is more health, trust, capability and time to enjoy life together.",
+    "sections": []
   }
 }

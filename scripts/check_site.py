@@ -6,10 +6,10 @@ import json,re,hashlib
 ROOT=Path(__file__).resolve().parents[1]
 PRIMARY_PAGES={
     'index.html','men.html','women.html','youth.html','workplace.html',
-    'library.html','systems.html','pipeline.html','sitemap.html'
+    'habits.html','library.html','systems.html','pipeline.html','sitemap.html'
 }
 LEGACY_PAGE='provenance.html'
-MAIN_NAV={'men.html','women.html','youth.html','workplace.html','library.html','systems.html','pipeline.html'}
+MAIN_NAV={'men.html','women.html','youth.html','workplace.html','habits.html','library.html','systems.html','pipeline.html'}
 class Page(HTMLParser):
     def __init__(self):super().__init__();self.links=[];self.ids=[];self.heroes=[];self.h1=0;self.has_viewport=False;self.images=[];self.canonical=[];self.main_nav=[];self.in_main_nav=False;self.controls={}
     def handle_starttag(self,tag,attrs):
@@ -55,7 +55,7 @@ for file in files:
             target=Page();target.feed(path.read_text(encoding='utf-8'))
             if unquote(split.fragment) not in target.ids:errors.append(f'{file.name}: missing anchor {url}')
 heroes=[parsers[name].heroes[0] for name in PRIMARY_PAGES if name in parsers and parsers[name].heroes]
-if len(set(heroes))!=len(PRIMARY_PAGES):errors.append('Heroes must be unique for all nine primary pages')
+if len(set(heroes))!=len(PRIMARY_PAGES):errors.append('Heroes must be unique for all primary pages')
 legacy=parsers.get(LEGACY_PAGE)
 if legacy:
     legacy_text=(ROOT/LEGACY_PAGE).read_text(encoding='utf-8')
@@ -103,6 +103,18 @@ for key in ['men','women','youth']:
         require_text_fields(section,['try_this','benefit'],f'{key} section {index}')
         edition_section_count+=1
 if edition_section_count!=14:errors.append(f'Expected 14 edition sections, got {edition_section_count}')
+habits=json.loads((ROOT/'data/habit-ideas.json').read_text(encoding='utf-8'))
+habit_groups=habits['groups'];habit_items=[item for group in habit_groups for item in group['items']]
+if len(habit_groups)!=17 or len(habit_items)!=190:errors.append('Habit bank must include 190 ideas across 17 areas')
+if [item.get('number') for item in habit_items]!=list(range(1,191)):errors.append('Habit ideas must preserve consecutive numbers')
+if len({item.get('id') for item in habit_items})!=190:errors.append('Habit ideas must have unique IDs')
+for item in habit_items:require_text_fields(item,['bad_habit','better_action'],f'Habit {item.get("number")}')
+habits_page=parsers.get('habits.html')
+if habits_page:
+    for required in ['ideas','gardening','prepping','habit-count','habit-empty']+[item['id'] for item in habit_items]:
+        if required not in habits_page.ids:errors.append(f'Habit page missing {required}')
+    for required in ['habit-search','habit-topic']:
+        if required not in habits_page.controls:errors.append(f'Habit page missing {required}')
 products=content['pipeline'].get('products',[])
 wildcards=content['pipeline'].get('wildcards',[])
 if len(products)!=18:errors.append(f'Expected 18 product formats, got {len(products)}')
@@ -136,6 +148,6 @@ for file in ROOT.rglob('*'):
     try:text=file.read_text(encoding='utf-8')
     except UnicodeDecodeError:continue
     if chr(0x2014) in text:errors.append(f'Em dash in site text: {file.relative_to(ROOT).as_posix()}')
-report={'pages':len(files),'primary_pages':len(actual_pages&PRIMARY_PAGES),'legacy_redirects':int(LEGACY_PAGE in actual_pages),'unique_heroes':len(set(heroes)),'source_slides':len(catalogue['slides']),'original_images':sum(bool(r.get('has_image')) for r in provenance['slides']),'checked_assets':checked_assets,'gags_with_improvement':gag_count,'edition_sections_with_improvement':edition_section_count,'product_formats':len(products),'country_concepts':len(wildcards),'errors':errors}
+report={'pages':len(files),'primary_pages':len(actual_pages&PRIMARY_PAGES),'legacy_redirects':int(LEGACY_PAGE in actual_pages),'unique_heroes':len(set(heroes)),'habit_ideas':len(habit_items),'habit_areas':len(habit_groups),'source_slides':len(catalogue['slides']),'original_images':sum(bool(r.get('has_image')) for r in provenance['slides']),'checked_assets':checked_assets,'gags_with_improvement':gag_count,'edition_sections_with_improvement':edition_section_count,'product_formats':len(products),'country_concepts':len(wildcards),'errors':errors}
 print(json.dumps(report,indent=2))
 raise SystemExit(1 if errors else 0)

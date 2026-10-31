@@ -6,9 +6,9 @@
   "model": null,
   "model_disclosure": "The built-in tool response did not expose a model name or model version. No model identity is inferred.",
   "mode": "New AI-generated raster illustrations and targeted cleanup edits, as recorded per asset",
-  "image_count": 19,
+  "image_count": 21,
   "project": "Rough as Guts website",
-  "provenance_note": "Original and revised site illustrations are recorded with their prompts and hashes. Six replacement illustrations generated on 2026-10-28 show cooperation, learning and an improvement pathway. Superseded site artwork remains available as history. These fictional people do not depict Daz or Luke. Visual inspection is not technical approval or evidence of behaviour change.",
+  "provenance_note": "Original and revised site illustrations are recorded with their prompts and hashes. Six replacement illustrations generated on 2026-10-28 show cooperation, learning and an improvement pathway. Superseded site artwork remains available as history. These fictional people do not depict Daz or Luke. Visual inspection is not technical approval or evidence of behaviour change. Two new illustrations added on 2026-10-31 support the habit ideas page, with everyday cooperation and a garden planning sequence.",
   "source_references": "No source image was supplied to the new-generation calls. The workplace cleanup edit referenced its own initial generated image.",
   "review_scope": "Visual review of each generated image for the requested scene, tone, composition, unintended lettering and instructional hazards. These are humorous scene-setting illustrations, not safety, medical or operational guidance.",
   "assets": [
@@ -748,8 +748,80 @@
         "derived_from": "assets/generated/concept-youth-care-v2.png"
       },
       "generated_local_date": "2026-10-28"
+    },
+    {
+      "id": "habits",
+      "title": "Habit ideas hero",
+      "path": "assets/generated/hero-habits.png",
+      "filename": "hero-habits.png",
+      "mime_type": "image/png",
+      "sha256": "657d3c2bdda9f983e208ce1e543481fcfb97abaadd565effcb4f2cbe67725ed6",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3077912,
+      "prompt": "Use case: illustration-story. Asset type: wide 16:9 website hero illustration for the Australian Rough as Guts illustrated life-skills project. Primary request: joyful responsible abundance through ordinary people sharing capable everyday jobs, warm good-humoured editorial comic rather than ridicule. Scene: a modest Australian rural/suburban home yard with shaded veranda and an orderly idle shed bench; a friendly adult man returns a complete borrowed hand-tool kit in its open fitted case to another adult at the bench. An adult woman and high-school-age teenager nearby consult a simple pictorial garden plan beside a few nursery seedlings. Under the veranda an ordinary household emergency kit with torch, radio and neatly stored water bottles sits ready, no danger or disaster occurring. Stored garden hand tools hang neatly well out of walkways. They are participating together, relaxed and competent, with warm smiles and an inviting yard. Style: bold confident black ink contours, softly textured editorial cartoon colour, muted ochre, cream, golden yellow and natural greens, realistic friendly proportions, Australian light. Composition: generous landscape 16:9; key activity in centre and right, left third relatively quiet veranda/wall/shade so a website can overlay white title text; full scenic illustration edge to edge. No text, captions, letters, numbers, brands, logos, watermark or speech bubbles. Avoid caricatures of poverty or intelligence, sexualisation, shame, slapstick injury, powered equipment, chemicals, weapons, dangerous demonstrations. No existing image references.",
+      "alt": "Adults and a teenager share practical jobs in an Australian yard, returning tools, planning suitable planting and checking household emergency supplies.",
+      "generation_local_date": "2026-10-31",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-d2e51bd5-2f9a-496a-b8d2-92ab5bb89f44.png",
+        "source_images": []
+      },
+      "edit_history": [],
+      "review": {
+        "method": "visual inspection",
+        "result": "Inspected: warm cooperative household, complete hand-tool kit, joint garden planning, orderly idle tools, modest preparedness supplies; no disaster or operating equipment. More photographic than the requested ink style.",
+        "intended_text": "none",
+        "safety_instructions": "none"
+      },
+      "web_derivative": {
+        "path": "assets/generated/hero-habits.webp",
+        "sha256": "e39eb4034a9cdbce3a7bb2f477264aaac90d9c809c15fc7cbf7ca3b9cc4980c3",
+        "bytes": 441978,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/hero-habits.png"
+      }
+    },
+    {
+      "id": "gardening-habits",
+      "title": "Garden planning concept",
+      "path": "assets/generated/concept-gardening-habits.png",
+      "filename": "concept-gardening-habits.png",
+      "mime_type": "image/png",
+      "sha256": "188db292eb022aab1919d43a68208ce8928d8a9f033bd5c4b3b204e31d9a0cbd",
+      "width": 1881,
+      "height": 836,
+      "bytes": 3623947,
+      "prompt": "Use case: illustration-story. Asset type: one wide three-panel sequential comic for an Australian Rough as Guts practical life-skills website. Three equal panels side by side separated by clean dark borders, all visible, coherent adult woman and high-school-age teenager remain the same across every panel. Warm expressive ink-drawn editorial cartoon, bold black contours, lightly textured cream paper, ochre/golden yellow and natural greens. A modest Australian backyard and veranda. Panel 1: adult woman and teen together notice a comically excessive collection of six nursery pots crowding a patio, some shade-loving broad foliage and some sun-loving-looking robust seedlings; they look amused and thoughtful rather than stupid or ashamed. A clear empty garden bed and sunny/shaded areas visible. Panel 2: the pair actively consult a simple pictorial garden plan with a sun symbol and drawings showing spacing, observe the actual light and available space, and choose just the suitable plants; the teenager points to a sensible spot while the adult listens. Nursery tags have only small picture symbols, no readable letters. Hand tools are idle and safely laid out away from walkways. Panel 3: same afternoon, selected small plants are appropriately spaced in the chosen garden bed, still small seedlings, and the unused nursery pots are neatly retained on a shelf for another suitable plan; both people have finished, washed hands implied by clean hands, and enjoy a relaxed drink together on the veranda while looking proudly at the manageable garden; hand tools are neatly stored. Show recognition, practical joint action, and enjoyment of the result. Mild humour in the first panel's nursery shopping excess and relieved patio space, not class, appearance or intelligence. No magic instant growth, no depicted chemical use, no powered equipment, no dangerous demonstrations, no text, speech, captions, labels, letters, logos or watermarks. Wide landscape strip around 2.25:1. No image references.",
+      "alt": "A woman and teen check their impulse-bought plants against a garden plan, put suitable plants in suitable places and enjoy the yard together.",
+      "generation_local_date": "2026-10-31",
+      "generation": {
+        "tool": "image_gen.imagegen",
+        "mode": "built-in",
+        "model": null,
+        "transparent_background": false,
+        "returned_artifact_filename": "exec-0a22da4d-07be-4001-8da6-8a68691706ae.png",
+        "source_images": []
+      },
+      "edit_history": [],
+      "review": {
+        "method": "visual inspection",
+        "result": "Inspected: same characters, excess nursery pots, shared pictorial planning, small plants still small, tools stored and relaxed payoff. A fictional scene, not planting specifications.",
+        "intended_text": "none",
+        "safety_instructions": "none"
+      },
+      "web_derivative": {
+        "path": "assets/generated/concept-gardening-habits.webp",
+        "sha256": "2a91997fde91f6c8389b80c9888b9ab50c56e1272ec0aafa610a4f1805ec35d2",
+        "bytes": 458904,
+        "encoding": "WebP quality 88, same composition, no retouching",
+        "derived_from": "assets/generated/concept-gardening-habits.png"
+      }
     }
   ],
   "initial_generation_local_date": "2026-10-21",
-  "last_updated_local_date": "2026-10-28"
+  "last_updated_local_date": "2026-10-31"
 }

@@ -59,6 +59,42 @@ if (search) {
   window.addEventListener('hashchange', openHash); openHash();
 }
 
+const habitSearch = $('#habit-search');
+if (habitSearch) {
+  const topic = $('#habit-topic');
+  const groups = $$('.habit-group').map(el => ({
+    el,
+    title: $('h2', el).textContent.toLowerCase(),
+    items: $$('.habit-item', el).map(item => ({el: item, text: item.textContent.toLowerCase()}))
+  }));
+  const total = groups.reduce((count, group) => count + group.items.length, 0);
+  function updateHabits() {
+    const terms = habitSearch.value.toLowerCase().trim().split(/\s+/).filter(Boolean);
+    let visible = 0;
+    groups.forEach(group => {
+      let groupCount = 0;
+      group.items.forEach(item => {
+        const text = group.title + ' ' + item.text;
+        const matches = (!topic.value || group.el.dataset.topic === topic.value) && terms.every(term => text.includes(term));
+        item.el.hidden = !matches;
+        if (matches) { visible++; groupCount++; }
+      });
+      group.el.hidden = groupCount === 0;
+    });
+    $('#habit-count').textContent = `${visible} of ${total} ideas`;
+    $('#habit-empty').hidden = visible > 0;
+  }
+  function showAllHabits() { habitSearch.value = ''; topic.value = ''; updateHabits(); }
+  habitSearch.addEventListener('input', updateHabits);
+  topic.addEventListener('change', updateHabits);
+  $$('.habit-topics a, body[data-page="habits"] .hero-actions a[href^="#"]').forEach(anchor => anchor.addEventListener('click', showAllHabits));
+  window.addEventListener('hashchange', () => {
+    const id = decodeURIComponent(location.hash.slice(1));
+    const target = document.getElementById(id);
+    if (target?.closest('.habit-group')) { showAllHabits(); target.scrollIntoView({block: 'start'}); }
+  });
+}
+
 const dialog = $('#poster-dialog');
 const posterImage = $('#dialog-poster');
 let posterZoom = 1;

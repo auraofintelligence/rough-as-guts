@@ -1,0 +1,1323 @@
+{
+  "title": "Habits to turn around",
+  "version": 1,
+  "groups": [
+    {
+      "id": "personal-hygiene",
+      "title": "Personal hygiene and looking after your body",
+      "items": [
+        {
+          "id": "habit-001",
+          "number": 1,
+          "bad_habit": "Using deodorant to extend the working life of dirty clothes",
+          "better_action": "wash yourself and wear clean clothes."
+        },
+        {
+          "id": "habit-002",
+          "number": 2,
+          "bad_habit": "Brushing your teeth only when someone important might smell them",
+          "better_action": "make dental care an everyday routine."
+        },
+        {
+          "id": "habit-003",
+          "number": 3,
+          "bad_habit": "Leaving the wet towel in a floor heap, then complaining it smells",
+          "better_action": "hang it to dry and wash it regularly."
+        },
+        {
+          "id": "habit-004",
+          "number": 4,
+          "bad_habit": "Leaving beard trimmings, hair or makeup residue as a bathroom signature",
+          "better_action": "clean up after yourself."
+        },
+        {
+          "id": "habit-005",
+          "number": 5,
+          "bad_habit": "Emptying the toilet roll without appointing a successor",
+          "better_action": "replace it before leaving."
+        },
+        {
+          "id": "habit-006",
+          "number": 6,
+          "bad_habit": "Treating handwashing as an optional finishing touch",
+          "better_action": "wash at the relevant times, including before preparing food."
+        },
+        {
+          "id": "habit-007",
+          "number": 7,
+          "bad_habit": "Sharing personal care items because ownership seems complicated",
+          "better_action": "keep personal items separate and care for them properly."
+        },
+        {
+          "id": "habit-008",
+          "number": 8,
+          "bad_habit": "Wearing yesterday’s sweaty sports gear because it has dried",
+          "better_action": "wash it and prepare clean gear."
+        },
+        {
+          "id": "habit-009",
+          "number": 9,
+          "bad_habit": "Ignoring a persistent health concern because mentioning it would make it official",
+          "better_action": "seek suitable professional advice."
+        },
+        {
+          "id": "habit-010",
+          "number": 10,
+          "bad_habit": "Mocking someone for taking care of themselves",
+          "better_action": "support the habit and consider what you could learn."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Healthdirect: dental care and teeth cleaning",
+          "url": "https://www.healthdirect.gov.au/healthy-living/hygiene-and-protection/teeth-cleaning"
+        }
+      ]
+    },
+    {
+      "id": "food-cooking",
+      "title": "Food, cooking and eating",
+      "items": [
+        {
+          "id": "habit-011",
+          "number": 11,
+          "bad_habit": "Shopping for the organised person you imagine becoming",
+          "better_action": "plan meals you can realistically prepare and enjoy."
+        },
+        {
+          "id": "habit-012",
+          "number": 12,
+          "bad_habit": "Buying a fourth sauce bottle because checking the cupboard takes effort",
+          "better_action": "check supplies before shopping."
+        },
+        {
+          "id": "habit-013",
+          "number": 13,
+          "bad_habit": "Starting dinner before discovering what the recipe requires",
+          "better_action": "read the method and organise the ingredients and equipment."
+        },
+        {
+          "id": "habit-014",
+          "number": 14,
+          "bad_habit": "Keeping a fridge full of unidentified historic events",
+          "better_action": "label stored food and follow storage and use instructions."
+        },
+        {
+          "id": "habit-015",
+          "number": 15,
+          "bad_habit": "Treating a sniff as a complete food-safety assessment",
+          "better_action": "use proper storage guidance and date information."
+        },
+        {
+          "id": "habit-016",
+          "number": 16,
+          "bad_habit": "Eating straight from a shared container, then returning it for everyone",
+          "better_action": "serve your portion using clean utensils."
+        },
+        {
+          "id": "habit-017",
+          "number": 17,
+          "bad_habit": "Returning empty packets to the cupboard",
+          "better_action": "dispose of them and update the shopping list."
+        },
+        {
+          "id": "habit-018",
+          "number": 18,
+          "bad_habit": "Calling a bench full of cooking mess “the chef’s privilege”",
+          "better_action": "include cleaning in the cooking job."
+        },
+        {
+          "id": "habit-019",
+          "number": 19,
+          "bad_habit": "Buying takeaway because the groceries require too much imagination",
+          "better_action": "keep a few achievable meals in your repertoire."
+        },
+        {
+          "id": "habit-020",
+          "number": 20,
+          "bad_habit": "Criticising every meal while contributing only appetite",
+          "better_action": "help plan, prepare, serve or clean up."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Eat for Health: meal planning",
+          "url": "https://www.eatforhealth.gov.au/eating-well/tips-eating-well/meal-planning"
+        },
+        {
+          "label": "Queensland Health: recognising potentially unsafe food",
+          "url": "https://www.qld.gov.au/health/staying-healthy/food-pantry/food-safety-for-consumers/food-safety-and-your-health/signs-of-potentially-unsafe-food"
+        }
+      ]
+    },
+    {
+      "id": "cleaning-shared-spaces",
+      "title": "Cleaning and shared spaces",
+      "items": [
+        {
+          "id": "habit-021",
+          "number": 21,
+          "bad_habit": "Building a rubbish sculpture above the bin",
+          "better_action": "empty it before the contents develop architecture."
+        },
+        {
+          "id": "habit-022",
+          "number": 22,
+          "bad_habit": "Putting rubbish beside the bin to save opening the lid",
+          "better_action": "put it in the appropriate bin."
+        },
+        {
+          "id": "habit-023",
+          "number": 23,
+          "bad_habit": "Leaving dishes “to soak” until somebody else takes over",
+          "better_action": "wash, dry and put away your share."
+        },
+        {
+          "id": "habit-024",
+          "number": 24,
+          "bad_habit": "Vacuuming around the same piles every week",
+          "better_action": "put things away so the floor can be cleaned."
+        },
+        {
+          "id": "habit-025",
+          "number": 25,
+          "bad_habit": "Giving every room the same treatment with one filthy cloth",
+          "better_action": "use suitable cleaning equipment and keep it clean."
+        },
+        {
+          "id": "habit-026",
+          "number": 26,
+          "bad_habit": "Cleaning only the section visitors can see",
+          "better_action": "agree what the job includes and finish it."
+        },
+        {
+          "id": "habit-027",
+          "number": 27,
+          "bad_habit": "Moving clutter from one room into another",
+          "better_action": "decide where it belongs, whether it is needed and who owns it."
+        },
+        {
+          "id": "habit-028",
+          "number": 28,
+          "bad_habit": "Leaving spills for the household’s mysterious cleaning spirit",
+          "better_action": "deal with them appropriately and promptly."
+        },
+        {
+          "id": "habit-029",
+          "number": 29,
+          "bad_habit": "Keeping broken cleaning equipment because buying it counted as effort",
+          "better_action": "maintain or replace it."
+        },
+        {
+          "id": "habit-030",
+          "number": 30,
+          "bad_habit": "Treating a shared toilet as somebody else’s problem",
+          "better_action": "leave it clean and supplied for the next person."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "laundry-organisation",
+      "title": "Laundry, possessions and domestic organisation",
+      "items": [
+        {
+          "id": "habit-031",
+          "number": 31,
+          "bad_habit": "Promoting a chair to permanent clothes storage",
+          "better_action": "sort washing from clothes ready to put away."
+        },
+        {
+          "id": "habit-032",
+          "number": 32,
+          "bad_habit": "Leaving laundry in the machine until the next person excavates it",
+          "better_action": "finish washing, drying and putting away."
+        },
+        {
+          "id": "habit-033",
+          "number": 33,
+          "bad_habit": "Keeping clean and dirty clothes in one democratic heap",
+          "better_action": "give them separate, usable places."
+        },
+        {
+          "id": "habit-034",
+          "number": 34,
+          "bad_habit": "Starting every departure with a search for keys, glasses and phone",
+          "better_action": "give essentials a consistent home."
+        },
+        {
+          "id": "habit-035",
+          "number": 35,
+          "bad_habit": "Buying storage containers instead of deciding what to keep",
+          "better_action": "sort possessions before buying more storage."
+        },
+        {
+          "id": "habit-036",
+          "number": 36,
+          "bad_habit": "Bringing home another “easy restoration” while six projects block the garage",
+          "better_action": "assess the work, space and actual use first."
+        },
+        {
+          "id": "habit-037",
+          "number": 37,
+          "bad_habit": "Keeping broken things indefinitely because they might become useful",
+          "better_action": "repair, pass on or dispose of them deliberately."
+        },
+        {
+          "id": "habit-038",
+          "number": 38,
+          "bad_habit": "Putting something somewhere “safe” that changes every time",
+          "better_action": "use a place you can remember and retrieve it from."
+        },
+        {
+          "id": "habit-039",
+          "number": 39,
+          "bad_habit": "Using the last shared supply and developing selective blindness",
+          "better_action": "refill it, replace it or tell the household."
+        },
+        {
+          "id": "habit-040",
+          "number": 40,
+          "bad_habit": "Keeping everyone’s belongings mixed together, then blaming them for losing things",
+          "better_action": "agree accessible places and respect them."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "time-attention",
+      "title": "Time, attention and getting things finished",
+      "items": [
+        {
+          "id": "habit-041",
+          "number": 41,
+          "bad_habit": "Snoozing every reminder until it becomes background music",
+          "better_action": "act on it or deliberately reschedule it."
+        },
+        {
+          "id": "habit-042",
+          "number": 42,
+          "bad_habit": "Saving an appointment screenshot and expecting destiny to remind you",
+          "better_action": "put the commitment in a usable calendar."
+        },
+        {
+          "id": "habit-043",
+          "number": 43,
+          "bad_habit": "Planning an arrival time without allowing for getting ready or travelling",
+          "better_action": "plan the whole departure."
+        },
+        {
+          "id": "habit-044",
+          "number": 44,
+          "bad_habit": "Saying yes to commitments that cannot all fit",
+          "better_action": "give an honest answer before others depend on it."
+        },
+        {
+          "id": "habit-045",
+          "number": 45,
+          "bad_habit": "Starting another project whenever the current one becomes unglamorous",
+          "better_action": "finish, pause or retire projects deliberately."
+        },
+        {
+          "id": "habit-046",
+          "number": 46,
+          "bad_habit": "Watching tutorials instead of practising",
+          "better_action": "use suitable instruction and actually try the skill."
+        },
+        {
+          "id": "habit-047",
+          "number": 47,
+          "bad_habit": "Rewriting the to-do list as a substitute for doing it",
+          "better_action": "choose a real task and work through it."
+        },
+        {
+          "id": "habit-048",
+          "number": 48,
+          "bad_habit": "Checking every notification while complaining about interruptions",
+          "better_action": "choose when to check messages."
+        },
+        {
+          "id": "habit-049",
+          "number": 49,
+          "bad_habit": "Calling something “nearly finished” while everyone waits for the usable result",
+          "better_action": "agree what finished means."
+        },
+        {
+          "id": "habit-050",
+          "number": 50,
+          "bad_habit": "Treating asking for help as proof of incompetence",
+          "better_action": "ask a useful question and learn the part you do not know."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "money-buying",
+      "title": "Money, buying and borrowing",
+      "items": [
+        {
+          "id": "habit-051",
+          "number": 51,
+          "bad_habit": "Buying something because it is discounted rather than wanted",
+          "better_action": "check the need, total cost and budget."
+        },
+        {
+          "id": "habit-052",
+          "number": 52,
+          "bad_habit": "Avoiding the bank balance so the money can enjoy its privacy",
+          "better_action": "review spending and upcoming commitments."
+        },
+        {
+          "id": "habit-053",
+          "number": 53,
+          "bad_habit": "Collecting subscriptions you no longer remember joining",
+          "better_action": "review recurring charges and cancel unused services."
+        },
+        {
+          "id": "habit-054",
+          "number": 54,
+          "bad_habit": "Treating several instalment purchases as several tiny prices",
+          "better_action": "consider all repayments together."
+        },
+        {
+          "id": "habit-055",
+          "number": 55,
+          "bad_habit": "Buying duplicates because finding the original seems harder",
+          "better_action": "check what you own first."
+        },
+        {
+          "id": "habit-056",
+          "number": 56,
+          "bad_habit": "Borrowing on terms that become conveniently vague",
+          "better_action": "agree the terms and keep your promise."
+        },
+        {
+          "id": "habit-057",
+          "number": 57,
+          "bad_habit": "Lending money you need for your own commitments to avoid an awkward conversation",
+          "better_action": "set an honest boundary."
+        },
+        {
+          "id": "habit-058",
+          "number": 58,
+          "bad_habit": "Hiding purchases from someone who shares the financial consequences",
+          "better_action": "discuss the shared budget and decisions."
+        },
+        {
+          "id": "habit-059",
+          "number": 59,
+          "bad_habit": "Keeping receipts in six vehicles and three washing machines",
+          "better_action": "keep purchase records somewhere retrievable."
+        },
+        {
+          "id": "habit-060",
+          "number": 60,
+          "bad_habit": "Spending to look successful while neglecting things you actually value",
+          "better_action": "decide what you want your money to make possible."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ASIC MoneySmart: buy now pay later services",
+          "url": "https://moneysmart.gov.au/other-ways-to-borrow/buy-now-pay-later-services"
+        }
+      ]
+    },
+    {
+      "id": "sleep-energy-exercise",
+      "title": "Sleep, energy, exercise and recreation",
+      "items": [
+        {
+          "id": "habit-061",
+          "number": 61,
+          "bad_habit": "Treating bedtime as the beginning of tomorrow’s scrolling",
+          "better_action": "make room for a workable wind-down and sleep routine."
+        },
+        {
+          "id": "habit-062",
+          "number": 62,
+          "bad_habit": "Giving everyone nearby front-row access to your late-night videos",
+          "better_action": "use headphones and respect their rest."
+        },
+        {
+          "id": "habit-063",
+          "number": 63,
+          "bad_habit": "Buying exercise equipment for a person who never arrives",
+          "better_action": "choose movement you can realistically enjoy and return to."
+        },
+        {
+          "id": "habit-064",
+          "number": 64,
+          "bad_habit": "Collecting workout videos while remaining seated through all of them",
+          "better_action": "choose an appropriate activity and participate."
+        },
+        {
+          "id": "habit-065",
+          "number": 65,
+          "bad_habit": "Turning every friendly game into a personal selection trial",
+          "better_action": "agree the spirit of the game and include everyone’s enjoyment."
+        },
+        {
+          "id": "habit-066",
+          "number": 66,
+          "bad_habit": "Copying someone else’s training without understanding it",
+          "better_action": "get suitable guidance for your ability and circumstances."
+        },
+        {
+          "id": "habit-067",
+          "number": 67,
+          "bad_habit": "Treating pain or exhaustion as a competition",
+          "better_action": "pause and seek appropriate advice."
+        },
+        {
+          "id": "habit-068",
+          "number": 68,
+          "bad_habit": "Scheduling every spare moment until leisure becomes another shift",
+          "better_action": "protect time for rest and unstructured enjoyment."
+        },
+        {
+          "id": "habit-069",
+          "number": 69,
+          "bad_habit": "Making every social gathering depend on drinking",
+          "better_action": "include enjoyable options that do not depend on alcohol."
+        },
+        {
+          "id": "habit-070",
+          "number": 70,
+          "bad_habit": "Abandoning an activity because you were not immediately impressive",
+          "better_action": "practise with support and notice what improves."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Healthdirect: sleep",
+          "url": "https://www.healthdirect.gov.au/sleep"
+        }
+      ]
+    },
+    {
+      "id": "conversation-conflict",
+      "title": "Conversation, frustration and conflict",
+      "items": [
+        {
+          "id": "habit-071",
+          "number": 71,
+          "bad_habit": "Preparing your next story while somebody else speaks",
+          "better_action": "listen and ask a relevant follow-up."
+        },
+        {
+          "id": "habit-072",
+          "number": 72,
+          "bad_habit": "Turning every conversation into a comparison you must win",
+          "better_action": "let another person’s experience stand on its own."
+        },
+        {
+          "id": "habit-073",
+          "number": 73,
+          "bad_habit": "Giving instructions when a friend wanted someone to listen",
+          "better_action": "ask what kind of support would help."
+        },
+        {
+          "id": "habit-074",
+          "number": 74,
+          "bad_habit": "Delivering an apology with a fully loaded “but”",
+          "better_action": "name your action, acknowledge its effect and make amends."
+        },
+        {
+          "id": "habit-075",
+          "number": 75,
+          "bad_habit": "Saving unrelated complaints for the next argument",
+          "better_action": "discuss one specific issue at a suitable time."
+        },
+        {
+          "id": "habit-076",
+          "number": 76,
+          "bad_habit": "Sending the furious message while your thumbs are still at full throttle",
+          "better_action": "pause and rewrite the actual concern or request."
+        },
+        {
+          "id": "habit-077",
+          "number": 77,
+          "bad_habit": "Treating a changed opinion as a public defeat",
+          "better_action": "acknowledge new information and update your view."
+        },
+        {
+          "id": "habit-078",
+          "number": 78,
+          "bad_habit": "Using “I’m just honest” to excuse unnecessary cruelty",
+          "better_action": "be truthful with care and a useful purpose."
+        },
+        {
+          "id": "habit-079",
+          "number": 79,
+          "bad_habit": "Taking a bad day out on everyone within reach",
+          "better_action": "explain that you are struggling and ask for space or help."
+        },
+        {
+          "id": "habit-080",
+          "number": 80,
+          "bad_habit": "Continuing the joke after its target stops laughing",
+          "better_action": "stop, listen and repair the interaction."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "adult-relationships",
+      "title": "Adult dating, affection and partnership",
+      "items": [
+        {
+          "id": "habit-081",
+          "number": 81,
+          "bad_habit": "Treating a date as an audition for your autobiography",
+          "better_action": "show curiosity and make room for their story."
+        },
+        {
+          "id": "habit-082",
+          "number": 82,
+          "bad_habit": "Negotiating a declined invitation like a used-car purchase",
+          "better_action": "accept the answer without pressure."
+        },
+        {
+          "id": "habit-083",
+          "number": 83,
+          "bad_habit": "Assuming affection gives permission for whatever comes next",
+          "better_action": "check that the other person wants the same thing."
+        },
+        {
+          "id": "habit-084",
+          "number": 84,
+          "bad_habit": "Expecting a partner to read clues instead of hearing a request",
+          "better_action": "say what you need clearly and respectfully."
+        },
+        {
+          "id": "habit-085",
+          "number": 85,
+          "bad_habit": "Calling jealousy proof of love",
+          "better_action": "discuss boundaries without monitoring or controlling the other person."
+        },
+        {
+          "id": "habit-086",
+          "number": 86,
+          "bad_habit": "Keeping a secret scoreboard of every favour",
+          "better_action": "talk about whether the arrangement feels fair."
+        },
+        {
+          "id": "habit-087",
+          "number": 87,
+          "bad_habit": "Announcing “I would have helped if you’d asked” after watching the job happen",
+          "better_action": "agree responsibilities and own your share."
+        },
+        {
+          "id": "habit-088",
+          "number": 88,
+          "bad_habit": "Leaving one person to organise every enjoyable occasion",
+          "better_action": "contribute ideas, preparation and follow-through."
+        },
+        {
+          "id": "habit-089",
+          "number": 89,
+          "bad_habit": "Making jokes about your partner’s private vulnerabilities in public",
+          "better_action": "protect their dignity and keep private matters private."
+        },
+        {
+          "id": "habit-090",
+          "number": 90,
+          "bad_habit": "Expecting romance to survive on whatever attention is left over",
+          "better_action": "agree time to enjoy each other’s company."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "parenting-example",
+      "title": "Parenting and the example adults set",
+      "items": [
+        {
+          "id": "habit-091",
+          "number": 91,
+          "bad_habit": "Shouting “stop shouting” from the opposite end of the house",
+          "better_action": "move closer and model the voice you want."
+        },
+        {
+          "id": "habit-092",
+          "number": 92,
+          "bad_habit": "Demanding apologies while refusing to give them",
+          "better_action": "demonstrate acknowledging mistakes and repairing harm."
+        },
+        {
+          "id": "habit-093",
+          "number": 93,
+          "bad_habit": "Calling every question backchat",
+          "better_action": "hear the question before deciding how to respond."
+        },
+        {
+          "id": "habit-094",
+          "number": 94,
+          "bad_habit": "Doing every manageable task for a child, then calling them incapable",
+          "better_action": "demonstrate, practise together and hand over responsibility."
+        },
+        {
+          "id": "habit-095",
+          "number": 95,
+          "bad_habit": "Expecting children to know household skills nobody taught them",
+          "better_action": "show the steps and allow supported practice."
+        },
+        {
+          "id": "habit-096",
+          "number": 96,
+          "bad_habit": "Promising family time while remaining absorbed in your phone",
+          "better_action": "protect a period of available attention."
+        },
+        {
+          "id": "habit-097",
+          "number": 97,
+          "bad_habit": "Comparing siblings as a motivational strategy",
+          "better_action": "recognise individual effort, needs and progress."
+        },
+        {
+          "id": "habit-098",
+          "number": 98,
+          "bad_habit": "Telling children to respect others while mocking strangers yourself",
+          "better_action": "model the behaviour in ordinary situations."
+        },
+        {
+          "id": "habit-099",
+          "number": 99,
+          "bad_habit": "Making a child responsible for keeping the adults emotionally settled",
+          "better_action": "seek adult support and let the child be a child."
+        },
+        {
+          "id": "habit-100",
+          "number": 100,
+          "bad_habit": "Passing down “that’s how I was raised” without examining the result",
+          "better_action": "keep what helps and learn another way where needed."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "school-friendships",
+      "title": "High-school life, friendships and growing independence",
+      "items": [
+        {
+          "id": "habit-101",
+          "number": 101,
+          "bad_habit": "Copying an answer to conceal not understanding",
+          "better_action": "ask for an explanation and practise the difficult part."
+        },
+        {
+          "id": "habit-102",
+          "number": 102,
+          "bad_habit": "Saving assignment reminders without opening the assignment",
+          "better_action": "read the task and clarify what it requires."
+        },
+        {
+          "id": "habit-103",
+          "number": 103,
+          "bad_habit": "Packing yesterday’s bag for today’s timetable",
+          "better_action": "check what the coming day needs."
+        },
+        {
+          "id": "habit-104",
+          "number": 104,
+          "bad_habit": "Leaving lunch containers sealed until they become biology projects",
+          "better_action": "unpack, wash and prepare them for reuse."
+        },
+        {
+          "id": "habit-105",
+          "number": 105,
+          "bad_habit": "Laughing along with a pile-on to avoid standing out",
+          "better_action": "stop contributing and support the person being targeted."
+        },
+        {
+          "id": "habit-106",
+          "number": 106,
+          "bad_habit": "Calling harm “only a joke”",
+          "better_action": "acknowledge the effect and help put things right."
+        },
+        {
+          "id": "habit-107",
+          "number": 107,
+          "bad_habit": "Accepting a dangerous dare to protect your reputation",
+          "better_action": "use a refusal you can say and leave with support."
+        },
+        {
+          "id": "habit-108",
+          "number": 108,
+          "bad_habit": "Treating somebody’s possessions or family circumstances as their rank",
+          "better_action": "judge how people treat others."
+        },
+        {
+          "id": "habit-109",
+          "number": 109,
+          "bad_habit": "Repeating an adult’s hostile behaviour because it looks powerful",
+          "better_action": "practise a response that protects your dignity and other people’s."
+        },
+        {
+          "id": "habit-110",
+          "number": 110,
+          "bad_habit": "Assuming one failed attempt proves you are useless",
+          "better_action": "get feedback and try again with appropriate help."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "phones-online",
+      "title": "Phones, gaming and online behaviour",
+      "items": [
+        {
+          "id": "habit-111",
+          "number": 111,
+          "bad_habit": "Posting the group photo because you look excellent",
+          "better_action": "check whether the other people are comfortable with sharing it."
+        },
+        {
+          "id": "habit-112",
+          "number": 112,
+          "bad_habit": "Forwarding screenshots before remembering they contain someone else’s business",
+          "better_action": "check permission and protect private information."
+        },
+        {
+          "id": "habit-113",
+          "number": 113,
+          "bad_habit": "Sharing a headline without opening the story",
+          "better_action": "check the source and what the evidence actually says."
+        },
+        {
+          "id": "habit-114",
+          "number": 114,
+          "bad_habit": "Leaving incorrect information online because correcting yourself feels embarrassing",
+          "better_action": "make the correction clearly."
+        },
+        {
+          "id": "habit-115",
+          "number": 115,
+          "bad_habit": "Giving your phone the best seat at every meal",
+          "better_action": "agree when to put it aside."
+        },
+        {
+          "id": "habit-116",
+          "number": 116,
+          "bad_habit": "Staying in an online argument until everyone else falls asleep",
+          "better_action": "ask whether anything useful remains and step away."
+        },
+        {
+          "id": "habit-117",
+          "number": 117,
+          "bad_habit": "Calling abuse “gaming banter”",
+          "better_action": "keep competition enjoyable without targeting people."
+        },
+        {
+          "id": "habit-118",
+          "number": 118,
+          "bad_habit": "Sharing passwords as proof of friendship or affection",
+          "better_action": "keep accounts secure and respect each other’s privacy."
+        },
+        {
+          "id": "habit-119",
+          "number": 119,
+          "bad_habit": "Buying game extras without checking the real-money total",
+          "better_action": "understand the cost and agree spending limits."
+        },
+        {
+          "id": "habit-120",
+          "number": 120,
+          "bad_habit": "Recording the entire outing while barely joining it",
+          "better_action": "take some agreed photos, then participate."
+        }
+      ],
+      "sources": [
+        {
+          "label": "eSafety Commissioner: sharing photos and personal information",
+          "url": "https://www.esafety.gov.au/kids/I-want-help-with/personal-information-online"
+        }
+      ]
+    },
+    {
+      "id": "worksites-workshops",
+      "title": "Worksites, workshops and earning trust",
+      "items": [
+        {
+          "id": "habit-121",
+          "number": 121,
+          "bad_habit": "Signing task paperwork as though autographing a fan’s shirt",
+          "better_action": "read it, check it fits the job and ask about uncertainty."
+        },
+        {
+          "id": "habit-122",
+          "number": 122,
+          "bad_habit": "Treating a new starter’s question as an interruption",
+          "better_action": "explain, demonstrate appropriately and check understanding."
+        },
+        {
+          "id": "habit-123",
+          "number": 123,
+          "bad_habit": "Hiding damaged equipment so the next person gets the surprise",
+          "better_action": "report it and follow the workplace process."
+        },
+        {
+          "id": "habit-124",
+          "number": 124,
+          "bad_habit": "Reporting hazards into a bottomless suggestion box",
+          "better_action": "acknowledge reports, act and tell the crew what happened."
+        },
+        {
+          "id": "habit-125",
+          "number": 125,
+          "bad_habit": "Blaming attitude when the job lacks time, equipment or clear instructions",
+          "better_action": "fix the conditions needed to do the work properly."
+        },
+        {
+          "id": "habit-126",
+          "number": 126,
+          "bad_habit": "Calling gear in a walkway “temporary” for three months",
+          "better_action": "provide suitable storage and keep access clear."
+        },
+        {
+          "id": "habit-127",
+          "number": 127,
+          "bad_habit": "Returning a borrowed tool without its accessories",
+          "better_action": "check and return the complete kit as agreed."
+        },
+        {
+          "id": "habit-128",
+          "number": 128,
+          "bad_habit": "Declaring the job finished while leaving the mess as somebody else’s inheritance",
+          "better_action": "include clearing, storage and handover."
+        },
+        {
+          "id": "habit-129",
+          "number": 129,
+          "bad_habit": "Pretending to understand an unfamiliar task to avoid looking new",
+          "better_action": "ask before proceeding."
+        },
+        {
+          "id": "habit-130",
+          "number": 130,
+          "bad_habit": "Making speed the only achievement anyone notices",
+          "better_action": "recognise careful work, useful reporting and helping others learn."
+        }
+      ],
+      "sources": [
+        {
+          "label": "WorkSafe Queensland: reporting safety",
+          "url": "https://www.worksafe.qld.gov.au/safety-and-prevention/creating-safe-work/reporting-safety"
+        }
+      ]
+    },
+    {
+      "id": "camps-travel-outdoors",
+      "title": "FIFO camps, travel and the outdoors",
+      "items": [
+        {
+          "id": "habit-131",
+          "number": 131,
+          "bad_habit": "Conducting a full-volume conversation outside sleeping quarters",
+          "better_action": "move the conversation away from people resting."
+        },
+        {
+          "id": "habit-132",
+          "number": 132,
+          "bad_habit": "Treating camp laundry machines as personal storage lockers",
+          "better_action": "collect your washing promptly."
+        },
+        {
+          "id": "habit-133",
+          "number": 133,
+          "bad_habit": "Assuming off-shift means available for your entertainment",
+          "better_action": "ask whether someone has time and accept their answer."
+        },
+        {
+          "id": "habit-134",
+          "number": 134,
+          "bad_habit": "Packing for six imaginary holidays while forgetting this trip’s essentials",
+          "better_action": "prepare for the actual plans and conditions."
+        },
+        {
+          "id": "habit-135",
+          "number": 135,
+          "bad_habit": "Treating the fuel gauge as a test of optimism",
+          "better_action": "plan suitable stops before departure."
+        },
+        {
+          "id": "habit-136",
+          "number": 136,
+          "bad_habit": "Assuming phone reception follows you into the scrub",
+          "better_action": "check the trip’s communication and navigation arrangements."
+        },
+        {
+          "id": "habit-137",
+          "number": 137,
+          "bad_habit": "Changing a remote-trip plan while your contact follows the old one",
+          "better_action": "communicate relevant changes."
+        },
+        {
+          "id": "habit-138",
+          "number": 138,
+          "bad_habit": "Leaving a property gate however it happens to land",
+          "better_action": "follow the property’s instructions and check it is secure."
+        },
+        {
+          "id": "habit-139",
+          "number": 139,
+          "bad_habit": "Bringing a dog and announcing that everybody loves dogs",
+          "better_action": "check access rules, care arrangements and other people’s comfort."
+        },
+        {
+          "id": "habit-140",
+          "number": 140,
+          "bad_habit": "Leaving rubbish beside a full bin as an act of faith",
+          "better_action": "use suitable disposal or carry it out."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "friends-clubs-community",
+      "title": "Friends, neighbours, clubs and enjoying life together",
+      "items": [
+        {
+          "id": "habit-141",
+          "number": 141,
+          "bad_habit": "Complaining that the club is dying while the same three people run it",
+          "better_action": "take on a useful job you can reliably complete."
+        },
+        {
+          "id": "habit-142",
+          "number": 142,
+          "bad_habit": "Volunteering everyone else for the working bee",
+          "better_action": "ask them and commit your own contribution."
+        },
+        {
+          "id": "habit-143",
+          "number": 143,
+          "bad_habit": "Arriving at the shared picnic with a chair and an appetite",
+          "better_action": "agree what to bring or how to help."
+        },
+        {
+          "id": "habit-144",
+          "number": 144,
+          "bad_habit": "Saying “probably” to an invitation while waiting for a better offer",
+          "better_action": "give an honest answer and update the host."
+        },
+        {
+          "id": "habit-145",
+          "number": 145,
+          "bad_habit": "Returning borrowed gear with a mystery fault and no explanation",
+          "better_action": "report what happened and help resolve it."
+        },
+        {
+          "id": "habit-146",
+          "number": 146,
+          "bad_habit": "Greeting newcomers with a test of whether they belong",
+          "better_action": "introduce yourself and explain how to join in."
+        },
+        {
+          "id": "habit-147",
+          "number": 147,
+          "bad_habit": "Treating shared venues as places with invisible cleaning staff",
+          "better_action": "leave them ready for the next group."
+        },
+        {
+          "id": "habit-148",
+          "number": 148,
+          "bad_habit": "Coaching children from the sideline as though national selectors are listening",
+          "better_action": "encourage effort and let them play."
+        },
+        {
+          "id": "habit-149",
+          "number": 149,
+          "bad_habit": "Offering a running commentary while others do the work",
+          "better_action": "ask what help is useful and take part."
+        },
+        {
+          "id": "habit-150",
+          "number": 150,
+          "bad_habit": "Waiting for somebody else to organise all the fun",
+          "better_action": "invite people into something achievable and share the preparation."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "gardening",
+      "title": "Gardening",
+      "items": [
+        {
+          "id": "habit-151",
+          "number": 151,
+          "bad_habit": "Buying plants because they look good beside the nursery checkout",
+          "better_action": "choose plants suited to your space, conditions and care capacity."
+        },
+        {
+          "id": "habit-152",
+          "number": 152,
+          "bad_habit": "Putting a sun-loving plant wherever the spare pot happens to fit",
+          "better_action": "check the plant’s light and space needs before choosing its home."
+        },
+        {
+          "id": "habit-153",
+          "number": 153,
+          "bad_habit": "Planting for the weather you would prefer to have",
+          "better_action": "use suitable local seasonal guidance and the conditions you actually have."
+        },
+        {
+          "id": "habit-154",
+          "number": 154,
+          "bad_habit": "Watering everything on autopilot, including yesterday’s puddle",
+          "better_action": "check the plants, soil and weather and follow local water guidance."
+        },
+        {
+          "id": "habit-155",
+          "number": 155,
+          "bad_habit": "Giving a struggling plant extra fertiliser before finding out what is wrong",
+          "better_action": "check its growing conditions and seek suitable advice before adding products."
+        },
+        {
+          "id": "habit-156",
+          "number": 156,
+          "bad_habit": "Treating fertiliser directions as a conservative opening bid",
+          "better_action": "use products only as labelled and store them appropriately."
+        },
+        {
+          "id": "habit-157",
+          "number": 157,
+          "bad_habit": "Leaving tools in the garden until the mower discovers them",
+          "better_action": "clean, check and store tools after use."
+        },
+        {
+          "id": "habit-158",
+          "number": 158,
+          "bad_habit": "Keeping a hose across the path because the garden is nearly finished",
+          "better_action": "put it away so people can use the path."
+        },
+        {
+          "id": "habit-159",
+          "number": 159,
+          "bad_habit": "Buying seeds for a market garden while owning two usable pots",
+          "better_action": "plan a growing space you can maintain and enjoy."
+        },
+        {
+          "id": "habit-160",
+          "number": 160,
+          "bad_habit": "Forgetting what you planted, then asking every green shoot for identification",
+          "better_action": "label plants and keep useful growing notes."
+        },
+        {
+          "id": "habit-161",
+          "number": 161,
+          "bad_habit": "Letting weeds set up headquarters while waiting for a heroic cleanup day",
+          "better_action": "identify them and use a suitable local control approach before they spread."
+        },
+        {
+          "id": "habit-162",
+          "number": 162,
+          "bad_habit": "Throwing everything into the compost and expecting gardening magic",
+          "better_action": "follow suitable compost guidance and keep unsuitable material out."
+        },
+        {
+          "id": "habit-163",
+          "number": 163,
+          "bad_habit": "Planting first and checking the mature size when it reaches the gutter",
+          "better_action": "allow for the plant’s eventual size and nearby structures."
+        },
+        {
+          "id": "habit-164",
+          "number": 164,
+          "bad_habit": "Digging as though underground services are somebody else’s plot twist",
+          "better_action": "check the location and requirements for services before ground disturbance."
+        },
+        {
+          "id": "habit-165",
+          "number": 165,
+          "bad_habit": "Choosing unfamiliar plants without considering children or pets",
+          "better_action": "check suitability with reliable local guidance before bringing them home."
+        },
+        {
+          "id": "habit-166",
+          "number": 166,
+          "bad_habit": "Using a spray because the bottle has a picture of something green",
+          "better_action": "identify the problem and follow the correct product label and conditions."
+        },
+        {
+          "id": "habit-167",
+          "number": 167,
+          "bad_habit": "Pruning somebody else’s garden according to your personal artistic vision",
+          "better_action": "ask the owner and learn the suitable method before cutting."
+        },
+        {
+          "id": "habit-168",
+          "number": 168,
+          "bad_habit": "Planting edibles without checking the growing site or materials",
+          "better_action": "check that the site, containers and materials are suitable for food growing."
+        },
+        {
+          "id": "habit-169",
+          "number": 169,
+          "bad_habit": "Taking the community garden’s harvest while missing every working bee",
+          "better_action": "agree how produce and work are shared and contribute accordingly."
+        },
+        {
+          "id": "habit-170",
+          "number": 170,
+          "bad_habit": "Turning gardening into a competition over whose lawn fears them most",
+          "better_action": "choose a useful, manageable garden and make time to enjoy it."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Queensland Government: waterwise gardening",
+          "url": "https://www.qld.gov.au/environment/water/residence/use/garden"
+        },
+        {
+          "label": "Before You Dig Australia: plan before ground disturbance",
+          "url": "https://www.byda.com.au/before-you-dig/"
+        }
+      ],
+      "intro": "Grow a garden that fits the place, the people and the time you have. The joke can turn an impulse purchase or a neglected corner into a space somebody actually enjoys."
+    },
+    {
+      "id": "prepping",
+      "title": "Prepping and emergency preparedness",
+      "items": [
+        {
+          "id": "habit-171",
+          "number": 171,
+          "bad_habit": "Buying a dramatic survival gadget before learning the local hazards",
+          "better_action": "check official local advice and prepare for the emergencies relevant to your area."
+        },
+        {
+          "id": "habit-172",
+          "number": 172,
+          "bad_habit": "Keeping the household emergency plan entirely inside one person’s head",
+          "better_action": "make a shared plan that everyone can understand and access."
+        },
+        {
+          "id": "habit-173",
+          "number": 173,
+          "bad_habit": "Treating last year’s emergency kit as a sealed time capsule",
+          "better_action": "check the contents, condition and dates and replace what is needed."
+        },
+        {
+          "id": "habit-174",
+          "number": 174,
+          "bad_habit": "Buying supplies for an imaginary siege while everyday essentials run out",
+          "better_action": "use an official household kit checklist and plan around actual needs."
+        },
+        {
+          "id": "habit-175",
+          "number": 175,
+          "bad_habit": "Keeping the torch in one drawer and its batteries in a mystery location",
+          "better_action": "store suitable working lighting and its power supply where they can be found."
+        },
+        {
+          "id": "habit-176",
+          "number": 176,
+          "bad_habit": "Saving important phone numbers only on the phone that may be unavailable",
+          "better_action": "keep accessible backup contact details as part of the household plan."
+        },
+        {
+          "id": "habit-177",
+          "number": 177,
+          "bad_habit": "Waiting for a rumour in the group chat to become the warning system",
+          "better_action": "know the official warning channels for your location and follow current advice."
+        },
+        {
+          "id": "habit-178",
+          "number": 178,
+          "bad_habit": "Assuming everybody will find each other without discussing it",
+          "better_action": "agree contact arrangements and meeting options suited to the household."
+        },
+        {
+          "id": "habit-179",
+          "number": 179,
+          "bad_habit": "Making a plan that only works for the fastest person in the house",
+          "better_action": "include mobility, communication, medical and other support needs."
+        },
+        {
+          "id": "habit-180",
+          "number": 180,
+          "bad_habit": "Remembering the pets when the car is already packed",
+          "better_action": "include animals, their care needs and transport arrangements in the plan."
+        },
+        {
+          "id": "habit-181",
+          "number": 181,
+          "bad_habit": "Storing emergency supplies behind furniture nobody can move",
+          "better_action": "keep them secure, accessible and known to the people who may need them."
+        },
+        {
+          "id": "habit-182",
+          "number": 182,
+          "bad_habit": "Relying on a single charged device as the entire communications department",
+          "better_action": "plan suitable backup power and ways to receive official information."
+        },
+        {
+          "id": "habit-183",
+          "number": 183,
+          "bad_habit": "Packing food that nobody in the household can eat",
+          "better_action": "include suitable dietary needs and items the household can actually use."
+        },
+        {
+          "id": "habit-184",
+          "number": 184,
+          "bad_habit": "Buying emergency food once and rediscovering it a decade later",
+          "better_action": "check dates and rotate supplies through ordinary use as appropriate."
+        },
+        {
+          "id": "habit-185",
+          "number": 185,
+          "bad_habit": "Leaving essential documents scattered across the house",
+          "better_action": "keep suitable protected copies accessible as part of the plan."
+        },
+        {
+          "id": "habit-186",
+          "number": 186,
+          "bad_habit": "Assuming a neighbour will organise your transport without being asked",
+          "better_action": "discuss support and transport arrangements before they are needed."
+        },
+        {
+          "id": "habit-187",
+          "number": 187,
+          "bad_habit": "Planning to improvise unfamiliar equipment during an outage",
+          "better_action": "learn its correct use beforehand and follow the manufacturer’s safety instructions."
+        },
+        {
+          "id": "habit-188",
+          "number": 188,
+          "bad_habit": "Keeping old contacts and last year’s household arrangements in the emergency plan",
+          "better_action": "review it when people, contact details, needs or living arrangements change."
+        },
+        {
+          "id": "habit-189",
+          "number": 189,
+          "bad_habit": "Putting on a brave face while having no idea what the warning means",
+          "better_action": "ask, learn the local warning system and follow the relevant official instructions."
+        },
+        {
+          "id": "habit-190",
+          "number": 190,
+          "bad_habit": "Treating being prepared as a reason to distrust everybody nearby",
+          "better_action": "build practical neighbour connections and discuss how to help each other."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Get Ready Queensland: make a plan",
+          "url": "https://www.getready.qld.gov.au/prepare/make-plan"
+        },
+        {
+          "label": "Get Ready Queensland: pack a kit",
+          "url": "https://www.getready.qld.gov.au/prepare/kit"
+        },
+        {
+          "label": "Get Ready Queensland: pets and animals",
+          "url": "https://www.getready.qld.gov.au/pets-and-animal-resources"
+        }
+      ],
+      "intro": "Prepare for the hazards relevant to where you live. A shared household plan, useful supplies and neighbour connections can make being ready part of ordinary life. Use current official guidance for your location and household needs."
+    }
+  ]
+}
